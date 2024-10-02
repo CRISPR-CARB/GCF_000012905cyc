@@ -1,0 +1,76 @@
+# 
+#
+# Authors:
+#    Pallavi Subhraveti
+#    Ingrid Keseler
+#    Anamika Kothari
+#    Ron Caspi
+#    Peter D Karp
+#
+# Please see the license agreement regarding the use of and distribution of this file.
+# The format of this file is defined at http://bioinformatics.ai.sri.com/ptools/flatfile-format.html .
+#
+# Filename: /home/kaffir4/brg/tier3-28.0/gcf_000012905cyc/28.1/data/protligandcplxes.dat
+#
+# Organism: Rhodobacter sphaeroides 2.4.1; ATCC BAA-808
+# Database: gcf_000012905cyc
+# Version: 28.1
+# Date and time generated: July 23, 2024, 17:43:36
+#
+# Attributes:
+#    UNIQUE-ID
+#    TYPES
+#    COMMON-NAME
+#    ABBREV-NAME
+#    ACTIVE-SITES
+#    AROMATIC-RINGS
+#    ATOM-CHARGES
+#    CATALYZES
+#    CELL-TYPES
+#    CITATIONS
+#    COFACTORS-OF
+#    COMMENT
+#    COMPONENT-COEFFICIENTS
+#    COMPONENT-OF
+#    COMPONENTS
+#    CONSENSUS-SEQUENCE
+#    COPY-NUMBER
+#    CREDITS
+#    DATA-SOURCE
+#    DBLINKS
+#    DNA-FOOTPRINT-SIZE
+#    DOCUMENTATION
+#    ENZYME-NOT-USED-IN
+#    GIBBS-0
+#    GO-TERMS
+#    HAS-NO-STRUCTURE?
+#    HIDE-SLOT?
+#    IN-MIXTURE
+#    INSTANCE-NAME-TEMPLATE
+#    ISOZYME-SEQUENCE-SIMILARITY
+#    LOCATIONS
+#    MEMBER-SORT-FN
+#    MODIFIED-FORM
+#    MOLECULAR-WEIGHT
+#    MOLECULAR-WEIGHT-EXP
+#    MOLECULAR-WEIGHT-KD
+#    MOLECULAR-WEIGHT-SEQ
+#    N+1-NAME
+#    N-1-NAME
+#    N-NAME
+#    NEIDHARDT-SPOT-NUMBER
+#    NON-STANDARD-INCHI
+#    PATHOLOGIC-NAME-MATCHER-EVIDENCE
+#    PATHOLOGIC-PWY-EVIDENCE
+#    PI
+#    RADICAL-ATOMS
+#    REGULATED-BY
+#    REGULATES
+#    SOURCE-ORTHOLOG
+#    SPECIES
+#    STRUCTURE-BONDS
+#    SUPERATOMS
+#    SYMMETRY
+#    SYNONYMS
+#
+# The GCF_000012905 database contains no Protein-Small-Molecule-Complexes.

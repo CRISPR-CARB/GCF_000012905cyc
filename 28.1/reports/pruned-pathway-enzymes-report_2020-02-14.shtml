@@ -1,0 +1,3930 @@
+<TITLE>Enzymes Found Only in Pathways That Have Been Pruned</TITLE>
+<H1>Enzymes Found Only in Pathways That Have Been Pruned</H1>
+<p>Although the genome annotations indicates that these enzymes and their associated genes are present, the enzymes listed here are only found in pathways that were not retained during pathway pruning. This indicates that Pathologic failed to find sufficient evidence to predict these pathways.  Since these enzymes are not in any retained pathway, the annotation supporting them may be incorrect and should be reviewed.</p><p>In addition to the names of the enzyme, gene and pathway, the table lists the total number of reactions in the pathway and the fraction of <b> non-spontaneous</b> reactions in the pathway that have enzymes in the input file.</p>
+<table border=1>
+
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+<b>Enzyme Name</b></td>
+<td  style="text-align:center;vertical-align:center">
+<b>Gene Name</b></td>
+<td  style="text-align:center;vertical-align:center">
+<b>Pathway Name</b></td>
+<td  style="text-align:center;vertical-align:center">
+<b>Reactions in Pathway</b></td>
+<td  style="text-align:center;vertical-align:center">
+<b>Fraction with Enzymes</b></td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+(3S)-malyl-CoA thioesterase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0970</td>
+<td  style="text-align:center;vertical-align:center">
+methylaspartate cycle</td>
+<td  style="text-align:center;vertical-align:center">
+19</td>
+<td  style="text-align:center;vertical-align:center">
+15/19</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+2'-deoxycytidine 5'-triphosphate deaminase</td>
+<td  style="text-align:center;vertical-align:center">
+dcd</td>
+<td  style="text-align:center;vertical-align:center">
+pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis II</td>
+<td  style="text-align:center;vertical-align:center">
+7</td>
+<td  style="text-align:center;vertical-align:center">
+5/7</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+2-hydroxyacid dehydrogenase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_2313</td>
+<td  style="text-align:center;vertical-align:center">
+D-xylose degradation IV</td>
+<td  style="text-align:center;vertical-align:center">
+7</td>
+<td  style="text-align:center;vertical-align:center">
+2/7</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+2-hydroxyacid dehydrogenase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_2313</td>
+<td  style="text-align:center;vertical-align:center">
+L-arabinose degradation IV</td>
+<td  style="text-align:center;vertical-align:center">
+8</td>
+<td  style="text-align:center;vertical-align:center">
+2/7</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+2-hydroxyacid dehydrogenase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3442</td>
+<td  style="text-align:center;vertical-align:center">
+formaldehyde assimilation I (serine pathway)</td>
+<td  style="text-align:center;vertical-align:center">
+13</td>
+<td  style="text-align:center;vertical-align:center">
+2/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+2-hydroxyacid dehydrogenase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3442</td>
+<td  style="text-align:center;vertical-align:center">
+L-serine biosynthesis II</td>
+<td  style="text-align:center;vertical-align:center">
+4</td>
+<td  style="text-align:center;vertical-align:center">
+3/4</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+2-hydroxyacid dehydrogenase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3442</td>
+<td  style="text-align:center;vertical-align:center">
+photorespiration</td>
+<td  style="text-align:center;vertical-align:center">
+9</td>
+<td  style="text-align:center;vertical-align:center">
+2/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+2-nitropropane dioxygenase-like protein</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1252</td>
+<td  style="text-align:center;vertical-align:center">
+alkylnitronates degradation</td>
+<td  style="text-align:center;vertical-align:center">
+2</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+3-ketoacid CoA transferase alpha subunit</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1914</td>
+<td  style="text-align:center;vertical-align:center">
+TCA cycle VI (Helicobacter)</td>
+<td  style="text-align:center;vertical-align:center">
+9</td>
+<td  style="text-align:center;vertical-align:center">
+7/9</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+3-ketoacid CoA transferase alpha subunit</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1914</td>
+<td  style="text-align:center;vertical-align:center">
+ketolysis</td>
+<td  style="text-align:center;vertical-align:center">
+3</td>
+<td  style="text-align:center;vertical-align:center">
+1</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+4-hydroxyproline 2-epimerase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3519</td>
+<td  style="text-align:center;vertical-align:center">
+L-ornithine degradation II (Stickland reaction)</td>
+<td  style="text-align:center;vertical-align:center">
+9</td>
+<td  style="text-align:center;vertical-align:center">
+1/4</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+4a-hydroxytetrahydrobiopterin dehydratase</td>
+<td  style="text-align:center;vertical-align:center">
+DCOHM</td>
+<td  style="text-align:center;vertical-align:center">
+tetrahydropteridine recycling</td>
+<td  style="text-align:center;vertical-align:center">
+2</td>
+<td  style="text-align:center;vertical-align:center">
+0</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+4a-hydroxytetrahydrobiopterin dehydratase</td>
+<td  style="text-align:center;vertical-align:center">
+DCOHM</td>
+<td  style="text-align:center;vertical-align:center">
+L-phenylalanine degradation V</td>
+<td  style="text-align:center;vertical-align:center">
+3</td>
+<td  style="text-align:center;vertical-align:center">
+1/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+5-dehydro-4-deoxyglucarate dehydratase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3655</td>
+<td  style="text-align:center;vertical-align:center">
+D-galacturonate degradation II</td>
+<td  style="text-align:center;vertical-align:center">
+5</td>
+<td  style="text-align:center;vertical-align:center">
+1/5</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+5-dehydro-4-deoxyglucarate dehydratase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3655</td>
+<td  style="text-align:center;vertical-align:center">
+D-glucuronate degradation II</td>
+<td  style="text-align:center;vertical-align:center">
+5</td>
+<td  style="text-align:center;vertical-align:center">
+1/4</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+5-dehydro-4-deoxyglucarate dehydratase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3655</td>
+<td  style="text-align:center;vertical-align:center">
+D-glucarate degradation II</td>
+<td  style="text-align:center;vertical-align:center">
+3</td>
+<td  style="text-align:center;vertical-align:center">
+1/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+5-dehydro-4-deoxyglucarate dehydratase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3655</td>
+<td  style="text-align:center;vertical-align:center">
+D-galactarate degradation II</td>
+<td  style="text-align:center;vertical-align:center">
+3</td>
+<td  style="text-align:center;vertical-align:center">
+1/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+5-keto-4-deoxyuronate isomerase</td>
+<td  style="text-align:center;vertical-align:center">
+kduI</td>
+<td  style="text-align:center;vertical-align:center">
+4-deoxy-L-<i>threo</i>-hex-4-enopyranuronate degradation</td>
+<td  style="text-align:center;vertical-align:center">
+5</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+acetyl-CoA carboxylase, biotin carboxyl carrier protein</td>
+<td  style="text-align:center;vertical-align:center">
+accB</td>
+<td  style="text-align:center;vertical-align:center">
+jadomycin biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+9</td>
+<td  style="text-align:center;vertical-align:center">
+1/7</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+acetyl-CoA carboxylase, biotin carboxyl carrier protein</td>
+<td  style="text-align:center;vertical-align:center">
+accB</td>
+<td  style="text-align:center;vertical-align:center">
+fatty acid biosynthesis initiation (animals and fungi, cytoplasm)</td>
+<td  style="text-align:center;vertical-align:center">
+3</td>
+<td  style="text-align:center;vertical-align:center">
+1/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+acetyl-CoA carboxylase, biotin carboxyl carrier protein</td>
+<td  style="text-align:center;vertical-align:center">
+accB</td>
+<td  style="text-align:center;vertical-align:center">
+fatty acid biosynthesis initiation (mitochondria)</td>
+<td  style="text-align:center;vertical-align:center">
+4</td>
+<td  style="text-align:center;vertical-align:center">
+3/4</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+acrylyl-CoA reductase AcuI</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1434</td>
+<td  style="text-align:center;vertical-align:center">
+3-hydroxypropanoate/4-hydroxybutanate cycle</td>
+<td  style="text-align:center;vertical-align:center">
+18</td>
+<td  style="text-align:center;vertical-align:center">
+5/9</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+acrylyl-CoA reductase AcuI</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1434</td>
+<td  style="text-align:center;vertical-align:center">
+3-hydroxypropanoate cycle</td>
+<td  style="text-align:center;vertical-align:center">
+13</td>
+<td  style="text-align:center;vertical-align:center">
+8/13</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+acrylyl-CoA reductase AcuI</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1434</td>
+<td  style="text-align:center;vertical-align:center">
+glyoxylate assimilation</td>
+<td  style="text-align:center;vertical-align:center">
+13</td>
+<td  style="text-align:center;vertical-align:center">
+5/13</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+acyl carrier protein</td>
+<td  style="text-align:center;vertical-align:center">
+acpP</td>
+<td  style="text-align:center;vertical-align:center">
+echinomycin and triostin A biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+6</td>
+<td  style="text-align:center;vertical-align:center">
+1/6</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Acyl carrier protein, AcpP</td>
+<td  style="text-align:center;vertical-align:center">
+acpP1</td>
+<td  style="text-align:center;vertical-align:center">
+echinomycin and triostin A biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+6</td>
+<td  style="text-align:center;vertical-align:center">
+1/6</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Aldo/keto reductase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0423</td>
+<td  style="text-align:center;vertical-align:center">
+actinorhodin biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+12</td>
+<td  style="text-align:center;vertical-align:center">
+1/10</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+aldo/keto reductase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_4054</td>
+<td  style="text-align:center;vertical-align:center">
+actinorhodin biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+12</td>
+<td  style="text-align:center;vertical-align:center">
+1/10</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Alpha amylase, catalytic subdomain protein</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1370</td>
+<td  style="text-align:center;vertical-align:center">
+glycogen degradation I</td>
+<td  style="text-align:center;vertical-align:center">
+8</td>
+<td  style="text-align:center;vertical-align:center">
+7/8</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Alpha amylase, catalytic subdomain protein</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1370</td>
+<td  style="text-align:center;vertical-align:center">
+starch degradation I</td>
+<td  style="text-align:center;vertical-align:center">
+3</td>
+<td  style="text-align:center;vertical-align:center">
+1/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+arginyl-tRNA-protein transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_2639</td>
+<td  style="text-align:center;vertical-align:center">
+Arg/N-end rule pathway (eukaryotic)</td>
+<td  style="text-align:center;vertical-align:center">
+14</td>
+<td  style="text-align:center;vertical-align:center">
+5/11</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Beta-mannanase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0157</td>
+<td  style="text-align:center;vertical-align:center">
+cellulose degradation II (fungi)</td>
+<td  style="text-align:center;vertical-align:center">
+3</td>
+<td  style="text-align:center;vertical-align:center">
+2/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Carbohydrate kinase, PfkB family</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3738</td>
+<td  style="text-align:center;vertical-align:center">
+ribose phosphorylation</td>
+<td  style="text-align:center;vertical-align:center">
+2</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Carbohydrate kinase, PfkB/Ribokinase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3692</td>
+<td  style="text-align:center;vertical-align:center">
+ribose phosphorylation</td>
+<td  style="text-align:center;vertical-align:center">
+2</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Carbonic anhydrase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1377</td>
+<td  style="text-align:center;vertical-align:center">
+cyanate degradation</td>
+<td  style="text-align:center;vertical-align:center">
+3</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Carbonic anhydrase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1377</td>
+<td  style="text-align:center;vertical-align:center">
+CO<sub>2</sub> fixation into oxaloacetate (anaplerotic)</td>
+<td  style="text-align:center;vertical-align:center">
+2</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Carbonic anhydrase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1377</td>
+<td  style="text-align:center;vertical-align:center">
+C4 photosynthetic carbon assimilation cycle, NAD-ME type</td>
+<td  style="text-align:center;vertical-align:center">
+10</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Carbonic anhydrase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1377</td>
+<td  style="text-align:center;vertical-align:center">
+3-hydroxypropanoate/4-hydroxybutanate cycle</td>
+<td  style="text-align:center;vertical-align:center">
+18</td>
+<td  style="text-align:center;vertical-align:center">
+5/9</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Carbonic anhydrase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1377</td>
+<td  style="text-align:center;vertical-align:center">
+3-hydroxypropanoate cycle</td>
+<td  style="text-align:center;vertical-align:center">
+13</td>
+<td  style="text-align:center;vertical-align:center">
+8/13</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Carbonic anhydrase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1377</td>
+<td  style="text-align:center;vertical-align:center">
+glyoxylate assimilation</td>
+<td  style="text-align:center;vertical-align:center">
+13</td>
+<td  style="text-align:center;vertical-align:center">
+5/13</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Carbonic anhydrase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1377</td>
+<td  style="text-align:center;vertical-align:center">
+C4 photosynthetic carbon assimilation cycle, NADP-ME type</td>
+<td  style="text-align:center;vertical-align:center">
+6</td>
+<td  style="text-align:center;vertical-align:center">
+2/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Carbonic anhydrase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1377</td>
+<td  style="text-align:center;vertical-align:center">
+C4 photosynthetic carbon assimilation cycle, PEPCK type</td>
+<td  style="text-align:center;vertical-align:center">
+12</td>
+<td  style="text-align:center;vertical-align:center">
+7/12</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+carboxynorspermidine decarboxylase</td>
+<td  style="text-align:center;vertical-align:center">
+nspC</td>
+<td  style="text-align:center;vertical-align:center">
+norspermidine biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+6</td>
+<td  style="text-align:center;vertical-align:center">
+2/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+carboxynorspermidine dehydrogenase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1475</td>
+<td  style="text-align:center;vertical-align:center">
+spermidine biosynthesis II</td>
+<td  style="text-align:center;vertical-align:center">
+4</td>
+<td  style="text-align:center;vertical-align:center">
+3/4</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+carboxynorspermidine dehydrogenase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1475</td>
+<td  style="text-align:center;vertical-align:center">
+norspermidine biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+6</td>
+<td  style="text-align:center;vertical-align:center">
+2/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Cytochrome P450 hydroxylase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1946</td>
+<td  style="text-align:center;vertical-align:center">
+nicotine degradation V</td>
+<td  style="text-align:center;vertical-align:center">
+18</td>
+<td  style="text-align:center;vertical-align:center">
+1/6</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Cytochrome P450 hydroxylase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1946</td>
+<td  style="text-align:center;vertical-align:center">
+1,5-anhydrofructose degradation</td>
+<td  style="text-align:center;vertical-align:center">
+5</td>
+<td  style="text-align:center;vertical-align:center">
+3/5</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Cytochrome P450 hydroxylase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1946</td>
+<td  style="text-align:center;vertical-align:center">
+acetone degradation III (to propane-1,2-diol)</td>
+<td  style="text-align:center;vertical-align:center">
+4</td>
+<td  style="text-align:center;vertical-align:center">
+1/4</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Cytochrome P450 hydroxylase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1946</td>
+<td  style="text-align:center;vertical-align:center">
+acetone degradation I (to methylglyoxal)</td>
+<td  style="text-align:center;vertical-align:center">
+5</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Cytochrome P450 hydroxylase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1946</td>
+<td  style="text-align:center;vertical-align:center">
+melatonin degradation I</td>
+<td  style="text-align:center;vertical-align:center">
+5</td>
+<td  style="text-align:center;vertical-align:center">
+2/5</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Cytochrome P450 hydroxylase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1946</td>
+<td  style="text-align:center;vertical-align:center">
+vanillin biosynthesis I</td>
+<td  style="text-align:center;vertical-align:center">
+3</td>
+<td  style="text-align:center;vertical-align:center">
+1/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Cytochrome P450 hydroxylase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1946</td>
+<td  style="text-align:center;vertical-align:center">
+<i>Amaryllidacea</i> alkaloids biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+25</td>
+<td  style="text-align:center;vertical-align:center">
+1/25</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Cytochrome P450 hydroxylase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1946</td>
+<td  style="text-align:center;vertical-align:center">
+bupropion degradation</td>
+<td  style="text-align:center;vertical-align:center">
+5</td>
+<td  style="text-align:center;vertical-align:center">
+1/5</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Cytochrome P450 hydroxylase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1946</td>
+<td  style="text-align:center;vertical-align:center">
+nicotine degradation IV</td>
+<td  style="text-align:center;vertical-align:center">
+16</td>
+<td  style="text-align:center;vertical-align:center">
+1/16</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+cytosine deaminase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0341</td>
+<td  style="text-align:center;vertical-align:center">
+pyrimidine ribonucleosides salvage III</td>
+<td  style="text-align:center;vertical-align:center">
+2</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+D-amino acid dehydrogenase</td>
+<td  style="text-align:center;vertical-align:center">
+dadA</td>
+<td  style="text-align:center;vertical-align:center">
+D-arginine degradation</td>
+<td  style="text-align:center;vertical-align:center">
+3</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+D-amino acid dehydrogenase small subunit</td>
+<td  style="text-align:center;vertical-align:center">
+dadA1</td>
+<td  style="text-align:center;vertical-align:center">
+D-arginine degradation</td>
+<td  style="text-align:center;vertical-align:center">
+3</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+D-beta-hydroxybutyrate dehydrogenase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_2857</td>
+<td  style="text-align:center;vertical-align:center">
+ketogenesis</td>
+<td  style="text-align:center;vertical-align:center">
+5</td>
+<td  style="text-align:center;vertical-align:center">
+3/5</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+D-beta-hydroxybutyrate dehydrogenase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_2857</td>
+<td  style="text-align:center;vertical-align:center">
+ketolysis</td>
+<td  style="text-align:center;vertical-align:center">
+3</td>
+<td  style="text-align:center;vertical-align:center">
+1</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+diacylglycerol kinase</td>
+<td  style="text-align:center;vertical-align:center">
+dgkA</td>
+<td  style="text-align:center;vertical-align:center">
+type I lipoteichoic acid biosynthesis (<i>S. aureus</i>)</td>
+<td  style="text-align:center;vertical-align:center">
+16</td>
+<td  style="text-align:center;vertical-align:center">
+5/16</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+diacylglycerol kinase</td>
+<td  style="text-align:center;vertical-align:center">
+dgkA</td>
+<td  style="text-align:center;vertical-align:center">
+phosphatidate metabolism, as a signaling molecule</td>
+<td  style="text-align:center;vertical-align:center">
+5</td>
+<td  style="text-align:center;vertical-align:center">
+2/5</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+dimethylglycine dehydrogenase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3566</td>
+<td  style="text-align:center;vertical-align:center">
+glycine betaine degradation II (mammalian)</td>
+<td  style="text-align:center;vertical-align:center">
+4</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+dimethylglycine dehydrogenase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3566</td>
+<td  style="text-align:center;vertical-align:center">
+glycine betaine degradation I</td>
+<td  style="text-align:center;vertical-align:center">
+7</td>
+<td  style="text-align:center;vertical-align:center">
+4/5</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+dipeptidase AC</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0802</td>
+<td  style="text-align:center;vertical-align:center">
+gliotoxin biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+9</td>
+<td  style="text-align:center;vertical-align:center">
+2/9</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+dipeptidase AC</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0802</td>
+<td  style="text-align:center;vertical-align:center">
+leukotriene biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+6</td>
+<td  style="text-align:center;vertical-align:center">
+1/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+FAD/FMN-containing dehydrogenase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0177</td>
+<td  style="text-align:center;vertical-align:center">
+methylglyoxal degradation VI</td>
+<td  style="text-align:center;vertical-align:center">
+4</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+gamma-glutamyltransferase 1</td>
+<td  style="text-align:center;vertical-align:center">
+ggt</td>
+<td  style="text-align:center;vertical-align:center">
+leukotriene biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+6</td>
+<td  style="text-align:center;vertical-align:center">
+1/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+gamma-glutamyltransferase 1</td>
+<td  style="text-align:center;vertical-align:center">
+ggt</td>
+<td  style="text-align:center;vertical-align:center">
+hypoglycin biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+14</td>
+<td  style="text-align:center;vertical-align:center">
+1/6</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+gamma-glutamyltransferase 2</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1499</td>
+<td  style="text-align:center;vertical-align:center">
+leukotriene biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+6</td>
+<td  style="text-align:center;vertical-align:center">
+1/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+gamma-glutamyltransferase 2</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1499</td>
+<td  style="text-align:center;vertical-align:center">
+hypoglycin biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+14</td>
+<td  style="text-align:center;vertical-align:center">
+1/6</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+glutamate N-acetyltransferase</td>
+<td  style="text-align:center;vertical-align:center">
+argJ</td>
+<td  style="text-align:center;vertical-align:center">
+L-arginine biosynthesis II (acetyl cycle)</td>
+<td  style="text-align:center;vertical-align:center">
+9</td>
+<td  style="text-align:center;vertical-align:center">
+8/9</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+Gst</td>
+<td  style="text-align:center;vertical-align:center">
+glutathione-mediated detoxification II</td>
+<td  style="text-align:center;vertical-align:center">
+9</td>
+<td  style="text-align:center;vertical-align:center">
+2/9</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+Gst</td>
+<td  style="text-align:center;vertical-align:center">
+pentachlorophenol degradation</td>
+<td  style="text-align:center;vertical-align:center">
+10</td>
+<td  style="text-align:center;vertical-align:center">
+2/9</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+Gst</td>
+<td  style="text-align:center;vertical-align:center">
+gliotoxin biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+9</td>
+<td  style="text-align:center;vertical-align:center">
+2/9</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+Gst</td>
+<td  style="text-align:center;vertical-align:center">
+4-hydroxy-2-nonenal detoxification</td>
+<td  style="text-align:center;vertical-align:center">
+4</td>
+<td  style="text-align:center;vertical-align:center">
+1/4</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+Gst</td>
+<td  style="text-align:center;vertical-align:center">
+camalexin biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+12</td>
+<td  style="text-align:center;vertical-align:center">
+1/11</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+Gst</td>
+<td  style="text-align:center;vertical-align:center">
+indole glucosinolate activation (intact plant cell)</td>
+<td  style="text-align:center;vertical-align:center">
+12</td>
+<td  style="text-align:center;vertical-align:center">
+1/10</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+Gst</td>
+<td  style="text-align:center;vertical-align:center">
+glutathione-mediated detoxification I</td>
+<td  style="text-align:center;vertical-align:center">
+8</td>
+<td  style="text-align:center;vertical-align:center">
+1/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1397</td>
+<td  style="text-align:center;vertical-align:center">
+glutathione-mediated detoxification II</td>
+<td  style="text-align:center;vertical-align:center">
+9</td>
+<td  style="text-align:center;vertical-align:center">
+2/9</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1397</td>
+<td  style="text-align:center;vertical-align:center">
+pentachlorophenol degradation</td>
+<td  style="text-align:center;vertical-align:center">
+10</td>
+<td  style="text-align:center;vertical-align:center">
+2/9</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1397</td>
+<td  style="text-align:center;vertical-align:center">
+gliotoxin biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+9</td>
+<td  style="text-align:center;vertical-align:center">
+2/9</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1397</td>
+<td  style="text-align:center;vertical-align:center">
+4-hydroxy-2-nonenal detoxification</td>
+<td  style="text-align:center;vertical-align:center">
+4</td>
+<td  style="text-align:center;vertical-align:center">
+1/4</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1397</td>
+<td  style="text-align:center;vertical-align:center">
+camalexin biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+12</td>
+<td  style="text-align:center;vertical-align:center">
+1/11</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1397</td>
+<td  style="text-align:center;vertical-align:center">
+indole glucosinolate activation (intact plant cell)</td>
+<td  style="text-align:center;vertical-align:center">
+12</td>
+<td  style="text-align:center;vertical-align:center">
+1/10</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1397</td>
+<td  style="text-align:center;vertical-align:center">
+glutathione-mediated detoxification I</td>
+<td  style="text-align:center;vertical-align:center">
+8</td>
+<td  style="text-align:center;vertical-align:center">
+1/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0769</td>
+<td  style="text-align:center;vertical-align:center">
+glutathione-mediated detoxification II</td>
+<td  style="text-align:center;vertical-align:center">
+9</td>
+<td  style="text-align:center;vertical-align:center">
+2/9</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0769</td>
+<td  style="text-align:center;vertical-align:center">
+pentachlorophenol degradation</td>
+<td  style="text-align:center;vertical-align:center">
+10</td>
+<td  style="text-align:center;vertical-align:center">
+2/9</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0769</td>
+<td  style="text-align:center;vertical-align:center">
+gliotoxin biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+9</td>
+<td  style="text-align:center;vertical-align:center">
+2/9</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0769</td>
+<td  style="text-align:center;vertical-align:center">
+4-hydroxy-2-nonenal detoxification</td>
+<td  style="text-align:center;vertical-align:center">
+4</td>
+<td  style="text-align:center;vertical-align:center">
+1/4</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0769</td>
+<td  style="text-align:center;vertical-align:center">
+camalexin biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+12</td>
+<td  style="text-align:center;vertical-align:center">
+1/11</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0769</td>
+<td  style="text-align:center;vertical-align:center">
+indole glucosinolate activation (intact plant cell)</td>
+<td  style="text-align:center;vertical-align:center">
+12</td>
+<td  style="text-align:center;vertical-align:center">
+1/10</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0769</td>
+<td  style="text-align:center;vertical-align:center">
+glutathione-mediated detoxification I</td>
+<td  style="text-align:center;vertical-align:center">
+8</td>
+<td  style="text-align:center;vertical-align:center">
+1/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0897</td>
+<td  style="text-align:center;vertical-align:center">
+glutathione-mediated detoxification II</td>
+<td  style="text-align:center;vertical-align:center">
+9</td>
+<td  style="text-align:center;vertical-align:center">
+2/9</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0897</td>
+<td  style="text-align:center;vertical-align:center">
+pentachlorophenol degradation</td>
+<td  style="text-align:center;vertical-align:center">
+10</td>
+<td  style="text-align:center;vertical-align:center">
+2/9</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0897</td>
+<td  style="text-align:center;vertical-align:center">
+gliotoxin biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+9</td>
+<td  style="text-align:center;vertical-align:center">
+2/9</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0897</td>
+<td  style="text-align:center;vertical-align:center">
+4-hydroxy-2-nonenal detoxification</td>
+<td  style="text-align:center;vertical-align:center">
+4</td>
+<td  style="text-align:center;vertical-align:center">
+1/4</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0897</td>
+<td  style="text-align:center;vertical-align:center">
+camalexin biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+12</td>
+<td  style="text-align:center;vertical-align:center">
+1/11</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0897</td>
+<td  style="text-align:center;vertical-align:center">
+indole glucosinolate activation (intact plant cell)</td>
+<td  style="text-align:center;vertical-align:center">
+12</td>
+<td  style="text-align:center;vertical-align:center">
+1/10</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0897</td>
+<td  style="text-align:center;vertical-align:center">
+glutathione-mediated detoxification I</td>
+<td  style="text-align:center;vertical-align:center">
+8</td>
+<td  style="text-align:center;vertical-align:center">
+1/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Glutathione S-transferase family protein</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3377</td>
+<td  style="text-align:center;vertical-align:center">
+glutathione-mediated detoxification II</td>
+<td  style="text-align:center;vertical-align:center">
+9</td>
+<td  style="text-align:center;vertical-align:center">
+2/9</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Glutathione S-transferase family protein</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3377</td>
+<td  style="text-align:center;vertical-align:center">
+pentachlorophenol degradation</td>
+<td  style="text-align:center;vertical-align:center">
+10</td>
+<td  style="text-align:center;vertical-align:center">
+2/9</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Glutathione S-transferase family protein</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3377</td>
+<td  style="text-align:center;vertical-align:center">
+gliotoxin biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+9</td>
+<td  style="text-align:center;vertical-align:center">
+2/9</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Glutathione S-transferase family protein</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3377</td>
+<td  style="text-align:center;vertical-align:center">
+4-hydroxy-2-nonenal detoxification</td>
+<td  style="text-align:center;vertical-align:center">
+4</td>
+<td  style="text-align:center;vertical-align:center">
+1/4</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Glutathione S-transferase family protein</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3377</td>
+<td  style="text-align:center;vertical-align:center">
+camalexin biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+12</td>
+<td  style="text-align:center;vertical-align:center">
+1/11</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Glutathione S-transferase family protein</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3377</td>
+<td  style="text-align:center;vertical-align:center">
+indole glucosinolate activation (intact plant cell)</td>
+<td  style="text-align:center;vertical-align:center">
+12</td>
+<td  style="text-align:center;vertical-align:center">
+1/10</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Glutathione S-transferase family protein</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3377</td>
+<td  style="text-align:center;vertical-align:center">
+glutathione-mediated detoxification I</td>
+<td  style="text-align:center;vertical-align:center">
+8</td>
+<td  style="text-align:center;vertical-align:center">
+1/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Glycine/D-amino acid oxidase (deaminating)</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0253</td>
+<td  style="text-align:center;vertical-align:center">
+L-lysine degradation V</td>
+<td  style="text-align:center;vertical-align:center">
+9</td>
+<td  style="text-align:center;vertical-align:center">
+1/4</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Glycine/D-amino acid oxidase (deaminating)</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_2862</td>
+<td  style="text-align:center;vertical-align:center">
+L-lysine degradation V</td>
+<td  style="text-align:center;vertical-align:center">
+9</td>
+<td  style="text-align:center;vertical-align:center">
+1/4</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+glycine/D-amino acid oxidase, deaminating</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3946</td>
+<td  style="text-align:center;vertical-align:center">
+L-lysine degradation V</td>
+<td  style="text-align:center;vertical-align:center">
+9</td>
+<td  style="text-align:center;vertical-align:center">
+1/4</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Homocitrate synthase</td>
+<td  style="text-align:center;vertical-align:center">
+nifV</td>
+<td  style="text-align:center;vertical-align:center">
+coenzyme B biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+16</td>
+<td  style="text-align:center;vertical-align:center">
+1/15</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Homocitrate synthase</td>
+<td  style="text-align:center;vertical-align:center">
+nifV</td>
+<td  style="text-align:center;vertical-align:center">
+FeMo cofactor biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+6</td>
+<td  style="text-align:center;vertical-align:center">
+1/6</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Homocitrate synthase</td>
+<td  style="text-align:center;vertical-align:center">
+nifV</td>
+<td  style="text-align:center;vertical-align:center">
+L-lysine biosynthesis V</td>
+<td  style="text-align:center;vertical-align:center">
+10</td>
+<td  style="text-align:center;vertical-align:center">
+2/9</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Homocitrate synthase</td>
+<td  style="text-align:center;vertical-align:center">
+nifV</td>
+<td  style="text-align:center;vertical-align:center">
+L-lysine biosynthesis IV</td>
+<td  style="text-align:center;vertical-align:center">
+9</td>
+<td  style="text-align:center;vertical-align:center">
+3/8</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Hydrogenase maturation protein HypC</td>
+<td  style="text-align:center;vertical-align:center">
+hypC</td>
+<td  style="text-align:center;vertical-align:center">
+(1'<i>S</i>,5'<i>S</i>)-averufin biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+8</td>
+<td  style="text-align:center;vertical-align:center">
+1/8</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+L-fuculose phosphate aldolase (Class II)</td>
+<td  style="text-align:center;vertical-align:center">
+fucA</td>
+<td  style="text-align:center;vertical-align:center">
+D-arabinose degradation I</td>
+<td  style="text-align:center;vertical-align:center">
+4</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+L-fuculose phosphate aldolase (Class II)</td>
+<td  style="text-align:center;vertical-align:center">
+fucA</td>
+<td  style="text-align:center;vertical-align:center">
+lactate biosynthesis (archaea)</td>
+<td  style="text-align:center;vertical-align:center">
+5</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+L-fuculose phosphate aldolase (Class II)</td>
+<td  style="text-align:center;vertical-align:center">
+fucA</td>
+<td  style="text-align:center;vertical-align:center">
+fucose degradation</td>
+<td  style="text-align:center;vertical-align:center">
+4</td>
+<td  style="text-align:center;vertical-align:center">
+1/4</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+L-fuculose-phosphate aldolase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0476</td>
+<td  style="text-align:center;vertical-align:center">
+D-arabinose degradation I</td>
+<td  style="text-align:center;vertical-align:center">
+4</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+L-fuculose-phosphate aldolase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0476</td>
+<td  style="text-align:center;vertical-align:center">
+lactate biosynthesis (archaea)</td>
+<td  style="text-align:center;vertical-align:center">
+5</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+L-fuculose-phosphate aldolase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0476</td>
+<td  style="text-align:center;vertical-align:center">
+fucose degradation</td>
+<td  style="text-align:center;vertical-align:center">
+4</td>
+<td  style="text-align:center;vertical-align:center">
+1/4</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+L-threonine O-3-phosphate decarboxylase</td>
+<td  style="text-align:center;vertical-align:center">
+cobC</td>
+<td  style="text-align:center;vertical-align:center">
+aminopropanol phosphate biosynthesis I</td>
+<td  style="text-align:center;vertical-align:center">
+2</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Lactate dehydrogenase</td>
+<td  style="text-align:center;vertical-align:center">
+lctB</td>
+<td  style="text-align:center;vertical-align:center">
+methylglyoxal degradation V</td>
+<td  style="text-align:center;vertical-align:center">
+3</td>
+<td  style="text-align:center;vertical-align:center">
+2/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+malonyl-CoA synthase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1041</td>
+<td  style="text-align:center;vertical-align:center">
+jadomycin biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+9</td>
+<td  style="text-align:center;vertical-align:center">
+1/7</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+malonyl-CoA synthase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1041</td>
+<td  style="text-align:center;vertical-align:center">
+fatty acid biosynthesis initiation (animals and fungi, cytoplasm)</td>
+<td  style="text-align:center;vertical-align:center">
+3</td>
+<td  style="text-align:center;vertical-align:center">
+1/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+malonyl-CoA synthase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1041</td>
+<td  style="text-align:center;vertical-align:center">
+fatty acid biosynthesis initiation (mitochondria)</td>
+<td  style="text-align:center;vertical-align:center">
+4</td>
+<td  style="text-align:center;vertical-align:center">
+3/4</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Mandelate racemase / muconate lactonizing enzyme</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1769</td>
+<td  style="text-align:center;vertical-align:center">
+catechol degradation to &beta;-ketoadipate</td>
+<td  style="text-align:center;vertical-align:center">
+4</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Mandelate racemase / muconate lactonizing enzyme</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1769</td>
+<td  style="text-align:center;vertical-align:center">
+mandelate degradation I</td>
+<td  style="text-align:center;vertical-align:center">
+5</td>
+<td  style="text-align:center;vertical-align:center">
+3/5</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Mandelate racemase / muconate lactonizing enzyme</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1769</td>
+<td  style="text-align:center;vertical-align:center">
+4-hydroxymandelate degradation</td>
+<td  style="text-align:center;vertical-align:center">
+6</td>
+<td  style="text-align:center;vertical-align:center">
+1/6</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Mandelate racemase/muconate lactonizing enzyme</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_4007</td>
+<td  style="text-align:center;vertical-align:center">
+catechol degradation to &beta;-ketoadipate</td>
+<td  style="text-align:center;vertical-align:center">
+4</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Mandelate racemase/muconate lactonizing enzyme</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_4007</td>
+<td  style="text-align:center;vertical-align:center">
+mandelate degradation I</td>
+<td  style="text-align:center;vertical-align:center">
+5</td>
+<td  style="text-align:center;vertical-align:center">
+3/5</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Mandelate racemase/muconate lactonizing enzyme</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_4007</td>
+<td  style="text-align:center;vertical-align:center">
+4-hydroxymandelate degradation</td>
+<td  style="text-align:center;vertical-align:center">
+6</td>
+<td  style="text-align:center;vertical-align:center">
+1/6</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+mandelate racemase/muconate lactonizing enzyme family protein</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3384</td>
+<td  style="text-align:center;vertical-align:center">
+mandelate degradation I</td>
+<td  style="text-align:center;vertical-align:center">
+5</td>
+<td  style="text-align:center;vertical-align:center">
+3/5</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+mandelate racemase/muconate lactonizing enzyme family protein</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3384</td>
+<td  style="text-align:center;vertical-align:center">
+4-hydroxymandelate degradation</td>
+<td  style="text-align:center;vertical-align:center">
+6</td>
+<td  style="text-align:center;vertical-align:center">
+1/6</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+mandelate racemase/muconate lactonizing family protein</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3884</td>
+<td  style="text-align:center;vertical-align:center">
+mandelate degradation I</td>
+<td  style="text-align:center;vertical-align:center">
+5</td>
+<td  style="text-align:center;vertical-align:center">
+3/5</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+mandelate racemase/muconate lactonizing family protein</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3884</td>
+<td  style="text-align:center;vertical-align:center">
+4-hydroxymandelate degradation</td>
+<td  style="text-align:center;vertical-align:center">
+6</td>
+<td  style="text-align:center;vertical-align:center">
+1/6</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+mandelate racemase/muconate lactonizing protein</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3887</td>
+<td  style="text-align:center;vertical-align:center">
+catechol degradation to &beta;-ketoadipate</td>
+<td  style="text-align:center;vertical-align:center">
+4</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+mandelate racemase/muconate lactonizing protein</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3887</td>
+<td  style="text-align:center;vertical-align:center">
+mandelate degradation I</td>
+<td  style="text-align:center;vertical-align:center">
+5</td>
+<td  style="text-align:center;vertical-align:center">
+3/5</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+mandelate racemase/muconate lactonizing protein</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3887</td>
+<td  style="text-align:center;vertical-align:center">
+4-hydroxymandelate degradation</td>
+<td  style="text-align:center;vertical-align:center">
+6</td>
+<td  style="text-align:center;vertical-align:center">
+1/6</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Mannitol dehydrogenase</td>
+<td  style="text-align:center;vertical-align:center">
+mtlK</td>
+<td  style="text-align:center;vertical-align:center">
+mannitol cycle</td>
+<td  style="text-align:center;vertical-align:center">
+5</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+methionine aminopeptidase, type I</td>
+<td  style="text-align:center;vertical-align:center">
+map1</td>
+<td  style="text-align:center;vertical-align:center">
+Arg/N-end rule pathway (eukaryotic)</td>
+<td  style="text-align:center;vertical-align:center">
+14</td>
+<td  style="text-align:center;vertical-align:center">
+5/11</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+methionine aminopeptidase, type I</td>
+<td  style="text-align:center;vertical-align:center">
+map1</td>
+<td  style="text-align:center;vertical-align:center">
+Ac/N-end rule pathway</td>
+<td  style="text-align:center;vertical-align:center">
+21</td>
+<td  style="text-align:center;vertical-align:center">
+2/7</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+methylthioribose-1-phosphate isomerase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_2386</td>
+<td  style="text-align:center;vertical-align:center">
+<i>S</i>-methyl-5-thio-&alpha;-D-ribose 1-phosphate degradation II</td>
+<td  style="text-align:center;vertical-align:center">
+4</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+methylthioribose-1-phosphate isomerase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_2386</td>
+<td  style="text-align:center;vertical-align:center">
+<i>S</i>-methyl-5-thio-&alpha;-D-ribose 1-phosphate degradation I</td>
+<td  style="text-align:center;vertical-align:center">
+7</td>
+<td  style="text-align:center;vertical-align:center">
+1/6</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+N-acetylglucosamine kinase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1405</td>
+<td  style="text-align:center;vertical-align:center">
+chitin derivatives degradation</td>
+<td  style="text-align:center;vertical-align:center">
+8</td>
+<td  style="text-align:center;vertical-align:center">
+1/4</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+N-acetylmuramoyl-L-alanine amidase, family 2</td>
+<td  style="text-align:center;vertical-align:center">
+ampD</td>
+<td  style="text-align:center;vertical-align:center">
+anhydromuropeptides recycling II</td>
+<td  style="text-align:center;vertical-align:center">
+8</td>
+<td  style="text-align:center;vertical-align:center">
+1/4</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+N-acetylmuramoyl-L-alanine amidase, family 2</td>
+<td  style="text-align:center;vertical-align:center">
+ampD</td>
+<td  style="text-align:center;vertical-align:center">
+anhydromuropeptides recycling I</td>
+<td  style="text-align:center;vertical-align:center">
+12</td>
+<td  style="text-align:center;vertical-align:center">
+2/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+NAD-dependent aldehyde dehydrogenase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3656</td>
+<td  style="text-align:center;vertical-align:center">
+2,5-xylenol and 3,5-xylenol degradation</td>
+<td  style="text-align:center;vertical-align:center">
+13</td>
+<td  style="text-align:center;vertical-align:center">
+3/13</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+NAD-dependent aldehyde dehydrogenase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3656</td>
+<td  style="text-align:center;vertical-align:center">
+mandelate degradation I</td>
+<td  style="text-align:center;vertical-align:center">
+5</td>
+<td  style="text-align:center;vertical-align:center">
+3/5</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+NAD-dependent aldehyde dehydrogenase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3656</td>
+<td  style="text-align:center;vertical-align:center">
+NAD/NADP-NADH/NADPH cytosolic interconversion (yeast)</td>
+<td  style="text-align:center;vertical-align:center">
+5</td>
+<td  style="text-align:center;vertical-align:center">
+4/5</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+NAD-dependent aldehyde dehydrogenase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3656</td>
+<td  style="text-align:center;vertical-align:center">
+NAD/NADP-NADH/NADPH mitochondrial interconversion (yeast)</td>
+<td  style="text-align:center;vertical-align:center">
+5</td>
+<td  style="text-align:center;vertical-align:center">
+4/5</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+NAD-dependent aldehyde dehydrogenase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3656</td>
+<td  style="text-align:center;vertical-align:center">
+pyruvate fermentation to acetate VIII</td>
+<td  style="text-align:center;vertical-align:center">
+2</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+NAD-dependent aldehyde dehydrogenase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3656</td>
+<td  style="text-align:center;vertical-align:center">
+1,2-dichloroethane degradation</td>
+<td  style="text-align:center;vertical-align:center">
+4</td>
+<td  style="text-align:center;vertical-align:center">
+1/4</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+NAD-dependent aldehyde dehydrogenase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3656</td>
+<td  style="text-align:center;vertical-align:center">
+L-carnitine degradation III</td>
+<td  style="text-align:center;vertical-align:center">
+3</td>
+<td  style="text-align:center;vertical-align:center">
+1/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+NAD-dependent epimerase/dehydratase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0519</td>
+<td  style="text-align:center;vertical-align:center">
+CDP-tyvelose biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+2</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+NADPH-ferredoxin reductase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1939</td>
+<td  style="text-align:center;vertical-align:center">
+photosynthesis light reactions</td>
+<td  style="text-align:center;vertical-align:center">
+4</td>
+<td  style="text-align:center;vertical-align:center">
+1/4</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Naringenin-chalcone synthase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0226</td>
+<td  style="text-align:center;vertical-align:center">
+phloridzin biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+3</td>
+<td  style="text-align:center;vertical-align:center">
+1/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Naringenin-chalcone synthase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0226</td>
+<td  style="text-align:center;vertical-align:center">
+xanthohumol biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+4</td>
+<td  style="text-align:center;vertical-align:center">
+1/4</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Naringenin-chalcone synthase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0226</td>
+<td  style="text-align:center;vertical-align:center">
+aromatic polyketides biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+2</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Naringenin-chalcone synthase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0226</td>
+<td  style="text-align:center;vertical-align:center">
+flavonoid biosynthesis (in equisetum)</td>
+<td  style="text-align:center;vertical-align:center">
+10</td>
+<td  style="text-align:center;vertical-align:center">
+1/10</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Naringenin-chalcone synthase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0226</td>
+<td  style="text-align:center;vertical-align:center">
+flavonoid biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+5</td>
+<td  style="text-align:center;vertical-align:center">
+1/5</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Naringenin-chalcone synthase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0226</td>
+<td  style="text-align:center;vertical-align:center">
+flavonoid di-C-glucosylation</td>
+<td  style="text-align:center;vertical-align:center">
+15</td>
+<td  style="text-align:center;vertical-align:center">
+2/13</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+nitric oxide reductase, NorB subunit apoprotein</td>
+<td  style="text-align:center;vertical-align:center">
+norB</td>
+<td  style="text-align:center;vertical-align:center">
+nitrate reduction I (denitrification)</td>
+<td  style="text-align:center;vertical-align:center">
+5</td>
+<td  style="text-align:center;vertical-align:center">
+2/5</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+nitric oxide reductase, NorC subunit apoprotein</td>
+<td  style="text-align:center;vertical-align:center">
+norC</td>
+<td  style="text-align:center;vertical-align:center">
+nitrate reduction I (denitrification)</td>
+<td  style="text-align:center;vertical-align:center">
+5</td>
+<td  style="text-align:center;vertical-align:center">
+2/5</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+NorD Nitric oxide reductase activation protein</td>
+<td  style="text-align:center;vertical-align:center">
+norD</td>
+<td  style="text-align:center;vertical-align:center">
+nitrate reduction I (denitrification)</td>
+<td  style="text-align:center;vertical-align:center">
+5</td>
+<td  style="text-align:center;vertical-align:center">
+2/5</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+NorQ protein required for nitric oxide reductase activity</td>
+<td  style="text-align:center;vertical-align:center">
+norQ</td>
+<td  style="text-align:center;vertical-align:center">
+nitrate reduction I (denitrification)</td>
+<td  style="text-align:center;vertical-align:center">
+5</td>
+<td  style="text-align:center;vertical-align:center">
+2/5</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+peptidyl-tRNA hydrolase</td>
+<td  style="text-align:center;vertical-align:center">
+pth</td>
+<td  style="text-align:center;vertical-align:center">
+L-cysteine biosynthesis II (tRNA-dependent)</td>
+<td  style="text-align:center;vertical-align:center">
+3</td>
+<td  style="text-align:center;vertical-align:center">
+1/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Phosphatidylglycerol phosphate synthase</td>
+<td  style="text-align:center;vertical-align:center">
+pgsA</td>
+<td  style="text-align:center;vertical-align:center">
+type I lipoteichoic acid biosynthesis (<i>S. aureus</i>)</td>
+<td  style="text-align:center;vertical-align:center">
+16</td>
+<td  style="text-align:center;vertical-align:center">
+5/16</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Phosphatidylglycerol phosphate synthase</td>
+<td  style="text-align:center;vertical-align:center">
+pgsA</td>
+<td  style="text-align:center;vertical-align:center">
+cardiolipin biosynthesis I</td>
+<td  style="text-align:center;vertical-align:center">
+3</td>
+<td  style="text-align:center;vertical-align:center">
+2/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Phosphatidylglycerol phosphate synthase</td>
+<td  style="text-align:center;vertical-align:center">
+pgsA</td>
+<td  style="text-align:center;vertical-align:center">
+cardiolipin biosynthesis III</td>
+<td  style="text-align:center;vertical-align:center">
+3</td>
+<td  style="text-align:center;vertical-align:center">
+2/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Phosphatidylglycerol phosphate synthase</td>
+<td  style="text-align:center;vertical-align:center">
+pgsA</td>
+<td  style="text-align:center;vertical-align:center">
+cardiolipin biosynthesis II</td>
+<td  style="text-align:center;vertical-align:center">
+3</td>
+<td  style="text-align:center;vertical-align:center">
+2/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Phosphatidylglycerophosphate synthase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0198</td>
+<td  style="text-align:center;vertical-align:center">
+type I lipoteichoic acid biosynthesis (<i>S. aureus</i>)</td>
+<td  style="text-align:center;vertical-align:center">
+16</td>
+<td  style="text-align:center;vertical-align:center">
+5/16</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Phosphatidylglycerophosphate synthase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0198</td>
+<td  style="text-align:center;vertical-align:center">
+cardiolipin biosynthesis I</td>
+<td  style="text-align:center;vertical-align:center">
+3</td>
+<td  style="text-align:center;vertical-align:center">
+2/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Phosphatidylglycerophosphate synthase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0198</td>
+<td  style="text-align:center;vertical-align:center">
+cardiolipin biosynthesis III</td>
+<td  style="text-align:center;vertical-align:center">
+3</td>
+<td  style="text-align:center;vertical-align:center">
+2/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Phosphatidylglycerophosphate synthase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0198</td>
+<td  style="text-align:center;vertical-align:center">
+cardiolipin biosynthesis II</td>
+<td  style="text-align:center;vertical-align:center">
+3</td>
+<td  style="text-align:center;vertical-align:center">
+2/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+phosphoglycolate phosphatase</td>
+<td  style="text-align:center;vertical-align:center">
+cbbZ</td>
+<td  style="text-align:center;vertical-align:center">
+photorespiration</td>
+<td  style="text-align:center;vertical-align:center">
+9</td>
+<td  style="text-align:center;vertical-align:center">
+2/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+phosphoglycolate phosphatase</td>
+<td  style="text-align:center;vertical-align:center">
+gph</td>
+<td  style="text-align:center;vertical-align:center">
+photorespiration</td>
+<td  style="text-align:center;vertical-align:center">
+9</td>
+<td  style="text-align:center;vertical-align:center">
+2/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Phospholipase D/Transphosphatidylase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0113</td>
+<td  style="text-align:center;vertical-align:center">
+choline biosynthesis III</td>
+<td  style="text-align:center;vertical-align:center">
+3</td>
+<td  style="text-align:center;vertical-align:center">
+1/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Phospholipase D/Transphosphatidylase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0113</td>
+<td  style="text-align:center;vertical-align:center">
+phosphatidate metabolism, as a signaling molecule</td>
+<td  style="text-align:center;vertical-align:center">
+5</td>
+<td  style="text-align:center;vertical-align:center">
+2/5</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Phospholipase D/Transphosphatidylase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0113</td>
+<td  style="text-align:center;vertical-align:center">
+phospholipases</td>
+<td  style="text-align:center;vertical-align:center">
+5</td>
+<td  style="text-align:center;vertical-align:center">
+1/5</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Phospholipase/Carboxylesterase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_2728</td>
+<td  style="text-align:center;vertical-align:center">
+retinol biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+7</td>
+<td  style="text-align:center;vertical-align:center">
+1/7</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Phospholipase/Carboxylesterase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_2728</td>
+<td  style="text-align:center;vertical-align:center">
+methylsalicylate degradation</td>
+<td  style="text-align:center;vertical-align:center">
+2</td>
+<td  style="text-align:center;vertical-align:center">
+1</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Phospholipase/Carboxylesterase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_2728</td>
+<td  style="text-align:center;vertical-align:center">
+methyl indole-3-acetate interconversion</td>
+<td  style="text-align:center;vertical-align:center">
+2</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Phytoene dehydrogenase</td>
+<td  style="text-align:center;vertical-align:center">
+crtI</td>
+<td  style="text-align:center;vertical-align:center">
+<i>trans</i>-lycopene biosynthesis II (oxygenic phototrophs and green sulfur bacteria)</td>
+<td  style="text-align:center;vertical-align:center">
+8</td>
+<td  style="text-align:center;vertical-align:center">
+4/7</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+phytoene synthase</td>
+<td  style="text-align:center;vertical-align:center">
+crtB</td>
+<td  style="text-align:center;vertical-align:center">
+neurosporene biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+5</td>
+<td  style="text-align:center;vertical-align:center">
+2/5</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+phytoene synthase</td>
+<td  style="text-align:center;vertical-align:center">
+crtB</td>
+<td  style="text-align:center;vertical-align:center">
+<i>trans</i>-lycopene biosynthesis II (oxygenic phototrophs and green sulfur bacteria)</td>
+<td  style="text-align:center;vertical-align:center">
+8</td>
+<td  style="text-align:center;vertical-align:center">
+4/7</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+phytoene synthase</td>
+<td  style="text-align:center;vertical-align:center">
+crtB</td>
+<td  style="text-align:center;vertical-align:center">
+lycopadiene biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+7</td>
+<td  style="text-align:center;vertical-align:center">
+1/7</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+propionyl-CoA synthetase</td>
+<td  style="text-align:center;vertical-align:center">
+acsA</td>
+<td  style="text-align:center;vertical-align:center">
+&beta;-alanine biosynthesis II</td>
+<td  style="text-align:center;vertical-align:center">
+6</td>
+<td  style="text-align:center;vertical-align:center">
+1/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+propionyl-CoA synthetase</td>
+<td  style="text-align:center;vertical-align:center">
+acsA</td>
+<td  style="text-align:center;vertical-align:center">
+2-methylcitrate cycle I</td>
+<td  style="text-align:center;vertical-align:center">
+5</td>
+<td  style="text-align:center;vertical-align:center">
+1/5</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+propionyl-CoA synthetase</td>
+<td  style="text-align:center;vertical-align:center">
+acsA</td>
+<td  style="text-align:center;vertical-align:center">
+2-methylcitrate cycle II</td>
+<td  style="text-align:center;vertical-align:center">
+6</td>
+<td  style="text-align:center;vertical-align:center">
+1/6</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+propionyl-CoA synthetase</td>
+<td  style="text-align:center;vertical-align:center">
+acsA</td>
+<td  style="text-align:center;vertical-align:center">
+L-isoleucine biosynthesis IV</td>
+<td  style="text-align:center;vertical-align:center">
+6</td>
+<td  style="text-align:center;vertical-align:center">
+2/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+protoheme IX farnesyltransferase</td>
+<td  style="text-align:center;vertical-align:center">
+cox10</td>
+<td  style="text-align:center;vertical-align:center">
+heme <i>a</i> biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+4</td>
+<td  style="text-align:center;vertical-align:center">
+1/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative 2-hydroxychromene-2-carboxylate isomerase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1916</td>
+<td  style="text-align:center;vertical-align:center">
+naphthalene degradation (aerobic)</td>
+<td  style="text-align:center;vertical-align:center">
+6</td>
+<td  style="text-align:center;vertical-align:center">
+1/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative 4-hydroxy-4-methyl-2-oxoglutarate aldolase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3657</td>
+<td  style="text-align:center;vertical-align:center">
+4-hydroxy-4-methyl-L-glutamate biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+2</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative 4-hydroxy-4-methyl-2-oxoglutarate aldolase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3657</td>
+<td  style="text-align:center;vertical-align:center">
+protocatechuate degradation I (<I>meta</I>-cleavage pathway)</td>
+<td  style="text-align:center;vertical-align:center">
+8</td>
+<td  style="text-align:center;vertical-align:center">
+1/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative 4-hydroxy-4-methyl-2-oxoglutarate aldolase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3657</td>
+<td  style="text-align:center;vertical-align:center">
+methylgallate degradation</td>
+<td  style="text-align:center;vertical-align:center">
+6</td>
+<td  style="text-align:center;vertical-align:center">
+2/5</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative 4-hydroxy-4-methyl-2-oxoglutarate aldolase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3657</td>
+<td  style="text-align:center;vertical-align:center">
+gallate degradation I</td>
+<td  style="text-align:center;vertical-align:center">
+4</td>
+<td  style="text-align:center;vertical-align:center">
+1/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative 4-hydroxy-4-methyl-2-oxoglutarate aldolase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3657</td>
+<td  style="text-align:center;vertical-align:center">
+gallate degradation II</td>
+<td  style="text-align:center;vertical-align:center">
+5</td>
+<td  style="text-align:center;vertical-align:center">
+1/4</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative acetamidase/formamidase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3443</td>
+<td  style="text-align:center;vertical-align:center">
+cyanide detoxification II</td>
+<td  style="text-align:center;vertical-align:center">
+2</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative acetamidase/formamidase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3508</td>
+<td  style="text-align:center;vertical-align:center">
+cyanide detoxification II</td>
+<td  style="text-align:center;vertical-align:center">
+2</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative acetyltransferase, GNAT family</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0784</td>
+<td  style="text-align:center;vertical-align:center">
+phosphinothricin tripeptide biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+25</td>
+<td  style="text-align:center;vertical-align:center">
+1/25</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative acetyltransferase, GNAT family</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0784</td>
+<td  style="text-align:center;vertical-align:center">
+phosalacine biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+25</td>
+<td  style="text-align:center;vertical-align:center">
+1/25</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative acyl carrier protein</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1534</td>
+<td  style="text-align:center;vertical-align:center">
+echinomycin and triostin A biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+6</td>
+<td  style="text-align:center;vertical-align:center">
+1/6</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative acyl-carrier protein</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1293</td>
+<td  style="text-align:center;vertical-align:center">
+echinomycin and triostin A biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+6</td>
+<td  style="text-align:center;vertical-align:center">
+1/6</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative alginate O-acetyltransferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1533</td>
+<td  style="text-align:center;vertical-align:center">
+alginate biosynthesis II (bacterial)</td>
+<td  style="text-align:center;vertical-align:center">
+7</td>
+<td  style="text-align:center;vertical-align:center">
+1/7</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Putative allophanate hydrolase subunit 2</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3449</td>
+<td  style="text-align:center;vertical-align:center">
+urea degradation I</td>
+<td  style="text-align:center;vertical-align:center">
+3</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Putative allophanate hydrolase subunit 2</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3449</td>
+<td  style="text-align:center;vertical-align:center">
+cyanuric acid degradation I</td>
+<td  style="text-align:center;vertical-align:center">
+5</td>
+<td  style="text-align:center;vertical-align:center">
+1/4</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Putative allophanate hydrolase subunit 2</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3449</td>
+<td  style="text-align:center;vertical-align:center">
+cyanuric acid degradation II</td>
+<td  style="text-align:center;vertical-align:center">
+5</td>
+<td  style="text-align:center;vertical-align:center">
+1/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Putative Beta-glucosidase A</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_2874</td>
+<td  style="text-align:center;vertical-align:center">
+coumarin biosynthesis (via 2-coumarate)</td>
+<td  style="text-align:center;vertical-align:center">
+5</td>
+<td  style="text-align:center;vertical-align:center">
+1/4</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Putative Beta-glucosidase A</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_2874</td>
+<td  style="text-align:center;vertical-align:center">
+lotaustralin degradation</td>
+<td  style="text-align:center;vertical-align:center">
+2</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Putative Beta-glucosidase A</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_2874</td>
+<td  style="text-align:center;vertical-align:center">
+&alpha;-tomatine degradation</td>
+<td  style="text-align:center;vertical-align:center">
+6</td>
+<td  style="text-align:center;vertical-align:center">
+1/6</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Putative Beta-glucosidase A</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_2874</td>
+<td  style="text-align:center;vertical-align:center">
+linamarin degradation</td>
+<td  style="text-align:center;vertical-align:center">
+2</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Putative Beta-glucosidase A</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_2874</td>
+<td  style="text-align:center;vertical-align:center">
+linustatin bioactivation</td>
+<td  style="text-align:center;vertical-align:center">
+4</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Putative Beta-glucosidase A</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_2874</td>
+<td  style="text-align:center;vertical-align:center">
+firefly bioluminescence</td>
+<td  style="text-align:center;vertical-align:center">
+14</td>
+<td  style="text-align:center;vertical-align:center">
+1/13</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Putative Beta-glucosidase A</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_2874</td>
+<td  style="text-align:center;vertical-align:center">
+cellulose degradation II (fungi)</td>
+<td  style="text-align:center;vertical-align:center">
+3</td>
+<td  style="text-align:center;vertical-align:center">
+2/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Putative Beta-glucosidase A</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_2874</td>
+<td  style="text-align:center;vertical-align:center">
+neolinustatin bioactivation</td>
+<td  style="text-align:center;vertical-align:center">
+3</td>
+<td  style="text-align:center;vertical-align:center">
+2/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative ceramide glucosyltransferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_2152</td>
+<td  style="text-align:center;vertical-align:center">
+sphingolipid biosynthesis (plants)</td>
+<td  style="text-align:center;vertical-align:center">
+13</td>
+<td  style="text-align:center;vertical-align:center">
+1/13</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative ceramide glucosyltransferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_2152</td>
+<td  style="text-align:center;vertical-align:center">
+ganglio-series glycosphingolipids biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+22</td>
+<td  style="text-align:center;vertical-align:center">
+1/22</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative ceramide glucosyltransferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_2152</td>
+<td  style="text-align:center;vertical-align:center">
+globo-series glycosphingolipids biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+8</td>
+<td  style="text-align:center;vertical-align:center">
+1/8</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative ceramide glucosyltransferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_2152</td>
+<td  style="text-align:center;vertical-align:center">
+lacto-series glycosphingolipids biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+7</td>
+<td  style="text-align:center;vertical-align:center">
+1/7</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative ceramide glucosyltransferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_2152</td>
+<td  style="text-align:center;vertical-align:center">
+neolacto-series glycosphingolipids biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+12</td>
+<td  style="text-align:center;vertical-align:center">
+1/12</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative choline kinase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1457</td>
+<td  style="text-align:center;vertical-align:center">
+phosphatidylcholine biosynthesis I</td>
+<td  style="text-align:center;vertical-align:center">
+3</td>
+<td  style="text-align:center;vertical-align:center">
+1/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative choline kinase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1457</td>
+<td  style="text-align:center;vertical-align:center">
+plasmalogen biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+16</td>
+<td  style="text-align:center;vertical-align:center">
+1/8</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative choline kinase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1457</td>
+<td  style="text-align:center;vertical-align:center">
+type IV lipoteichoic acid biosynthesis (<i>S. pneumoniae</i>)</td>
+<td  style="text-align:center;vertical-align:center">
+19</td>
+<td  style="text-align:center;vertical-align:center">
+1/19</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative choline kinase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1457</td>
+<td  style="text-align:center;vertical-align:center">
+cell-surface glycoconjugate-linked phosphocholine biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+3</td>
+<td  style="text-align:center;vertical-align:center">
+1/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative D-lactate dehydrogenase (cytochrome), FAD/FMN-containing oxidoreductase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_2120</td>
+<td  style="text-align:center;vertical-align:center">
+methylglyoxal degradation VI</td>
+<td  style="text-align:center;vertical-align:center">
+4</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative Esterase/lipase/thioesterase</td>
+<td  style="text-align:center;vertical-align:center">
+pldB</td>
+<td  style="text-align:center;vertical-align:center">
+phospholipid remodeling (phosphatidylethanolamine, yeast)</td>
+<td  style="text-align:center;vertical-align:center">
+4</td>
+<td  style="text-align:center;vertical-align:center">
+1/4</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative glucose-1-phosphate cytidylyltransferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1538</td>
+<td  style="text-align:center;vertical-align:center">
+CDP-4-dehydro-3,6-dideoxy-D-glucose biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+3</td>
+<td  style="text-align:center;vertical-align:center">
+2/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative glucose-1-phosphate cytidylyltransferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1538</td>
+<td  style="text-align:center;vertical-align:center">
+streptomycin biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+18</td>
+<td  style="text-align:center;vertical-align:center">
+1/6</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3730</td>
+<td  style="text-align:center;vertical-align:center">
+glutathione-mediated detoxification II</td>
+<td  style="text-align:center;vertical-align:center">
+9</td>
+<td  style="text-align:center;vertical-align:center">
+2/9</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3730</td>
+<td  style="text-align:center;vertical-align:center">
+pentachlorophenol degradation</td>
+<td  style="text-align:center;vertical-align:center">
+10</td>
+<td  style="text-align:center;vertical-align:center">
+2/9</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3730</td>
+<td  style="text-align:center;vertical-align:center">
+gliotoxin biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+9</td>
+<td  style="text-align:center;vertical-align:center">
+2/9</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3730</td>
+<td  style="text-align:center;vertical-align:center">
+4-hydroxy-2-nonenal detoxification</td>
+<td  style="text-align:center;vertical-align:center">
+4</td>
+<td  style="text-align:center;vertical-align:center">
+1/4</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3730</td>
+<td  style="text-align:center;vertical-align:center">
+camalexin biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+12</td>
+<td  style="text-align:center;vertical-align:center">
+1/11</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3730</td>
+<td  style="text-align:center;vertical-align:center">
+indole glucosinolate activation (intact plant cell)</td>
+<td  style="text-align:center;vertical-align:center">
+12</td>
+<td  style="text-align:center;vertical-align:center">
+1/10</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3730</td>
+<td  style="text-align:center;vertical-align:center">
+glutathione-mediated detoxification I</td>
+<td  style="text-align:center;vertical-align:center">
+8</td>
+<td  style="text-align:center;vertical-align:center">
+1/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1591</td>
+<td  style="text-align:center;vertical-align:center">
+glutathione-mediated detoxification II</td>
+<td  style="text-align:center;vertical-align:center">
+9</td>
+<td  style="text-align:center;vertical-align:center">
+2/9</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1591</td>
+<td  style="text-align:center;vertical-align:center">
+pentachlorophenol degradation</td>
+<td  style="text-align:center;vertical-align:center">
+10</td>
+<td  style="text-align:center;vertical-align:center">
+2/9</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1591</td>
+<td  style="text-align:center;vertical-align:center">
+gliotoxin biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+9</td>
+<td  style="text-align:center;vertical-align:center">
+2/9</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1591</td>
+<td  style="text-align:center;vertical-align:center">
+4-hydroxy-2-nonenal detoxification</td>
+<td  style="text-align:center;vertical-align:center">
+4</td>
+<td  style="text-align:center;vertical-align:center">
+1/4</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1591</td>
+<td  style="text-align:center;vertical-align:center">
+camalexin biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+12</td>
+<td  style="text-align:center;vertical-align:center">
+1/11</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1591</td>
+<td  style="text-align:center;vertical-align:center">
+indole glucosinolate activation (intact plant cell)</td>
+<td  style="text-align:center;vertical-align:center">
+12</td>
+<td  style="text-align:center;vertical-align:center">
+1/10</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1591</td>
+<td  style="text-align:center;vertical-align:center">
+glutathione-mediated detoxification I</td>
+<td  style="text-align:center;vertical-align:center">
+8</td>
+<td  style="text-align:center;vertical-align:center">
+1/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Putative Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3110</td>
+<td  style="text-align:center;vertical-align:center">
+glutathione-mediated detoxification II</td>
+<td  style="text-align:center;vertical-align:center">
+9</td>
+<td  style="text-align:center;vertical-align:center">
+2/9</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Putative Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3110</td>
+<td  style="text-align:center;vertical-align:center">
+pentachlorophenol degradation</td>
+<td  style="text-align:center;vertical-align:center">
+10</td>
+<td  style="text-align:center;vertical-align:center">
+2/9</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Putative Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3110</td>
+<td  style="text-align:center;vertical-align:center">
+gliotoxin biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+9</td>
+<td  style="text-align:center;vertical-align:center">
+2/9</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Putative Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3110</td>
+<td  style="text-align:center;vertical-align:center">
+4-hydroxy-2-nonenal detoxification</td>
+<td  style="text-align:center;vertical-align:center">
+4</td>
+<td  style="text-align:center;vertical-align:center">
+1/4</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Putative Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3110</td>
+<td  style="text-align:center;vertical-align:center">
+camalexin biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+12</td>
+<td  style="text-align:center;vertical-align:center">
+1/11</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Putative Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3110</td>
+<td  style="text-align:center;vertical-align:center">
+indole glucosinolate activation (intact plant cell)</td>
+<td  style="text-align:center;vertical-align:center">
+12</td>
+<td  style="text-align:center;vertical-align:center">
+1/10</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Putative Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3110</td>
+<td  style="text-align:center;vertical-align:center">
+glutathione-mediated detoxification I</td>
+<td  style="text-align:center;vertical-align:center">
+8</td>
+<td  style="text-align:center;vertical-align:center">
+1/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Putative Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3111</td>
+<td  style="text-align:center;vertical-align:center">
+glutathione-mediated detoxification II</td>
+<td  style="text-align:center;vertical-align:center">
+9</td>
+<td  style="text-align:center;vertical-align:center">
+2/9</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Putative Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3111</td>
+<td  style="text-align:center;vertical-align:center">
+pentachlorophenol degradation</td>
+<td  style="text-align:center;vertical-align:center">
+10</td>
+<td  style="text-align:center;vertical-align:center">
+2/9</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Putative Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3111</td>
+<td  style="text-align:center;vertical-align:center">
+gliotoxin biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+9</td>
+<td  style="text-align:center;vertical-align:center">
+2/9</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Putative Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3111</td>
+<td  style="text-align:center;vertical-align:center">
+4-hydroxy-2-nonenal detoxification</td>
+<td  style="text-align:center;vertical-align:center">
+4</td>
+<td  style="text-align:center;vertical-align:center">
+1/4</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Putative Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3111</td>
+<td  style="text-align:center;vertical-align:center">
+camalexin biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+12</td>
+<td  style="text-align:center;vertical-align:center">
+1/11</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Putative Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3111</td>
+<td  style="text-align:center;vertical-align:center">
+indole glucosinolate activation (intact plant cell)</td>
+<td  style="text-align:center;vertical-align:center">
+12</td>
+<td  style="text-align:center;vertical-align:center">
+1/10</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Putative Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3111</td>
+<td  style="text-align:center;vertical-align:center">
+glutathione-mediated detoxification I</td>
+<td  style="text-align:center;vertical-align:center">
+8</td>
+<td  style="text-align:center;vertical-align:center">
+1/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3122</td>
+<td  style="text-align:center;vertical-align:center">
+glutathione-mediated detoxification II</td>
+<td  style="text-align:center;vertical-align:center">
+9</td>
+<td  style="text-align:center;vertical-align:center">
+2/9</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3122</td>
+<td  style="text-align:center;vertical-align:center">
+pentachlorophenol degradation</td>
+<td  style="text-align:center;vertical-align:center">
+10</td>
+<td  style="text-align:center;vertical-align:center">
+2/9</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3122</td>
+<td  style="text-align:center;vertical-align:center">
+gliotoxin biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+9</td>
+<td  style="text-align:center;vertical-align:center">
+2/9</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3122</td>
+<td  style="text-align:center;vertical-align:center">
+4-hydroxy-2-nonenal detoxification</td>
+<td  style="text-align:center;vertical-align:center">
+4</td>
+<td  style="text-align:center;vertical-align:center">
+1/4</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3122</td>
+<td  style="text-align:center;vertical-align:center">
+camalexin biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+12</td>
+<td  style="text-align:center;vertical-align:center">
+1/11</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3122</td>
+<td  style="text-align:center;vertical-align:center">
+indole glucosinolate activation (intact plant cell)</td>
+<td  style="text-align:center;vertical-align:center">
+12</td>
+<td  style="text-align:center;vertical-align:center">
+1/10</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative Glutathione S-transferase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3122</td>
+<td  style="text-align:center;vertical-align:center">
+glutathione-mediated detoxification I</td>
+<td  style="text-align:center;vertical-align:center">
+8</td>
+<td  style="text-align:center;vertical-align:center">
+1/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative hydroxypyruvate reductase/glycerate kinase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3071</td>
+<td  style="text-align:center;vertical-align:center">
+formaldehyde assimilation I (serine pathway)</td>
+<td  style="text-align:center;vertical-align:center">
+13</td>
+<td  style="text-align:center;vertical-align:center">
+2/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative hydroxypyruvate reductase/glycerate kinase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3071</td>
+<td  style="text-align:center;vertical-align:center">
+L-serine biosynthesis II</td>
+<td  style="text-align:center;vertical-align:center">
+4</td>
+<td  style="text-align:center;vertical-align:center">
+3/4</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative hydroxypyruvate reductase/glycerate kinase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_3071</td>
+<td  style="text-align:center;vertical-align:center">
+photorespiration</td>
+<td  style="text-align:center;vertical-align:center">
+9</td>
+<td  style="text-align:center;vertical-align:center">
+2/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative manganese-dependent inorganic pyrophosphatase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_2307</td>
+<td  style="text-align:center;vertical-align:center">
+(aminomethyl)phosphonate degradation</td>
+<td  style="text-align:center;vertical-align:center">
+8</td>
+<td  style="text-align:center;vertical-align:center">
+1/4</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative manganese-dependent inorganic pyrophosphatase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_2307</td>
+<td  style="text-align:center;vertical-align:center">
+glyphosate degradation III</td>
+<td  style="text-align:center;vertical-align:center">
+7</td>
+<td  style="text-align:center;vertical-align:center">
+2/7</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative N-acetylmuramoyl-L-alanine amidase</td>
+<td  style="text-align:center;vertical-align:center">
+amiC</td>
+<td  style="text-align:center;vertical-align:center">
+anhydromuropeptides recycling II</td>
+<td  style="text-align:center;vertical-align:center">
+8</td>
+<td  style="text-align:center;vertical-align:center">
+1/4</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative N-acetylmuramoyl-L-alanine amidase</td>
+<td  style="text-align:center;vertical-align:center">
+amiC</td>
+<td  style="text-align:center;vertical-align:center">
+anhydromuropeptides recycling I</td>
+<td  style="text-align:center;vertical-align:center">
+12</td>
+<td  style="text-align:center;vertical-align:center">
+2/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative oxidoreductase protein</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_2571</td>
+<td  style="text-align:center;vertical-align:center">
+bacterial bioluminescence</td>
+<td  style="text-align:center;vertical-align:center">
+8</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative oxidoreductase; Short-chain dehydrogenase/reductase SDR</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0684</td>
+<td  style="text-align:center;vertical-align:center">
+glycocholate metabolism (bacteria)</td>
+<td  style="text-align:center;vertical-align:center">
+7</td>
+<td  style="text-align:center;vertical-align:center">
+1/7</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative oxidoreductase; Short-chain dehydrogenase/reductase SDR</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0684</td>
+<td  style="text-align:center;vertical-align:center">
+ursodeoxycholate biosynthesis (bacteria)</td>
+<td  style="text-align:center;vertical-align:center">
+2</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative penicillin acylase (penicillin amidase)</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_2845</td>
+<td  style="text-align:center;vertical-align:center">
+penicillin G and penicillin V biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+4</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative phosphatase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_0412</td>
+<td  style="text-align:center;vertical-align:center">
+photorespiration</td>
+<td  style="text-align:center;vertical-align:center">
+9</td>
+<td  style="text-align:center;vertical-align:center">
+2/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Putative Phosphatidylglycerophosphatase A</td>
+<td  style="text-align:center;vertical-align:center">
+pgpA</td>
+<td  style="text-align:center;vertical-align:center">
+type I lipoteichoic acid biosynthesis (<i>S. aureus</i>)</td>
+<td  style="text-align:center;vertical-align:center">
+16</td>
+<td  style="text-align:center;vertical-align:center">
+5/16</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Putative Phosphatidylglycerophosphatase A</td>
+<td  style="text-align:center;vertical-align:center">
+pgpA</td>
+<td  style="text-align:center;vertical-align:center">
+cardiolipin biosynthesis I</td>
+<td  style="text-align:center;vertical-align:center">
+3</td>
+<td  style="text-align:center;vertical-align:center">
+2/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Putative Phosphatidylglycerophosphatase A</td>
+<td  style="text-align:center;vertical-align:center">
+pgpA</td>
+<td  style="text-align:center;vertical-align:center">
+cardiolipin biosynthesis III</td>
+<td  style="text-align:center;vertical-align:center">
+3</td>
+<td  style="text-align:center;vertical-align:center">
+2/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Putative Phosphatidylglycerophosphatase A</td>
+<td  style="text-align:center;vertical-align:center">
+pgpA</td>
+<td  style="text-align:center;vertical-align:center">
+cardiolipin biosynthesis II</td>
+<td  style="text-align:center;vertical-align:center">
+3</td>
+<td  style="text-align:center;vertical-align:center">
+2/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative polysaccharide deacetylase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1554</td>
+<td  style="text-align:center;vertical-align:center">
+chitin degradation to ethanol</td>
+<td  style="text-align:center;vertical-align:center">
+6</td>
+<td  style="text-align:center;vertical-align:center">
+2/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative RbsK, Carbohydrate kinase, ribokinase family</td>
+<td  style="text-align:center;vertical-align:center">
+rbsK</td>
+<td  style="text-align:center;vertical-align:center">
+ribose phosphorylation</td>
+<td  style="text-align:center;vertical-align:center">
+2</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Putative reductase component of monooxygenase</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_2793</td>
+<td  style="text-align:center;vertical-align:center">
+CDP-4-dehydro-3,6-dideoxy-D-glucose biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+3</td>
+<td  style="text-align:center;vertical-align:center">
+2/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative sterol carrier protein</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_2419</td>
+<td  style="text-align:center;vertical-align:center">
+bile acid biosynthesis, neutral pathway</td>
+<td  style="text-align:center;vertical-align:center">
+29</td>
+<td  style="text-align:center;vertical-align:center">
+2/29</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative sterol carrier protein</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_2419</td>
+<td  style="text-align:center;vertical-align:center">
+sitosterol degradation to androstenedione</td>
+<td  style="text-align:center;vertical-align:center">
+18</td>
+<td  style="text-align:center;vertical-align:center">
+1/18</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative sterol carrier protein</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_2419</td>
+<td  style="text-align:center;vertical-align:center">
+cholesterol degradation to androstenedione I (cholesterol oxidase)</td>
+<td  style="text-align:center;vertical-align:center">
+17</td>
+<td  style="text-align:center;vertical-align:center">
+3/17</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative sterol carrier protein</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_2419</td>
+<td  style="text-align:center;vertical-align:center">
+cholesterol degradation to androstenedione II (cholesterol dehydrogenase)</td>
+<td  style="text-align:center;vertical-align:center">
+22</td>
+<td  style="text-align:center;vertical-align:center">
+3/22</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative trimethylamine methyltransferase protein</td>
+<td  style="text-align:center;vertical-align:center">
+mttB</td>
+<td  style="text-align:center;vertical-align:center">
+methanogenesis from trimethylamine</td>
+<td  style="text-align:center;vertical-align:center">
+2</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+putative tRNA delta(2)-isopentenylpyrophosphate transferase</td>
+<td  style="text-align:center;vertical-align:center">
+miaA</td>
+<td  style="text-align:center;vertical-align:center">
+<i>cis</i>-zeatin biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+5</td>
+<td  style="text-align:center;vertical-align:center">
+1/5</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+pyruvate phosphate dikinase</td>
+<td  style="text-align:center;vertical-align:center">
+ppdK</td>
+<td  style="text-align:center;vertical-align:center">
+L-glutamine biosynthesis III</td>
+<td  style="text-align:center;vertical-align:center">
+9</td>
+<td  style="text-align:center;vertical-align:center">
+7/9</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+pyruvate phosphate dikinase</td>
+<td  style="text-align:center;vertical-align:center">
+ppdK</td>
+<td  style="text-align:center;vertical-align:center">
+C4 photosynthetic carbon assimilation cycle, NAD-ME type</td>
+<td  style="text-align:center;vertical-align:center">
+10</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+pyruvate phosphate dikinase</td>
+<td  style="text-align:center;vertical-align:center">
+ppdK</td>
+<td  style="text-align:center;vertical-align:center">
+C4 photosynthetic carbon assimilation cycle, NADP-ME type</td>
+<td  style="text-align:center;vertical-align:center">
+6</td>
+<td  style="text-align:center;vertical-align:center">
+2/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+pyruvate phosphate dikinase</td>
+<td  style="text-align:center;vertical-align:center">
+ppdK</td>
+<td  style="text-align:center;vertical-align:center">
+C4 photosynthetic carbon assimilation cycle, PEPCK type</td>
+<td  style="text-align:center;vertical-align:center">
+12</td>
+<td  style="text-align:center;vertical-align:center">
+7/12</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+saccharopine dehydrogenase (NAD+, L-lysine-forming)</td>
+<td  style="text-align:center;vertical-align:center">
+sdh</td>
+<td  style="text-align:center;vertical-align:center">
+L-lysine biosynthesis IV</td>
+<td  style="text-align:center;vertical-align:center">
+9</td>
+<td  style="text-align:center;vertical-align:center">
+3/8</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+selenophosphate synthase</td>
+<td  style="text-align:center;vertical-align:center">
+selD</td>
+<td  style="text-align:center;vertical-align:center">
+L-selenocysteine biosynthesis I (bacteria)</td>
+<td  style="text-align:center;vertical-align:center">
+3</td>
+<td  style="text-align:center;vertical-align:center">
+2/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+selenophosphate synthase</td>
+<td  style="text-align:center;vertical-align:center">
+selD</td>
+<td  style="text-align:center;vertical-align:center">
+L-selenocysteine biosynthesis II (archaea and eukaryotes)</td>
+<td  style="text-align:center;vertical-align:center">
+4</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+succinyl-CoA synthetase (ADP-forming) beta subunit</td>
+<td  style="text-align:center;vertical-align:center">
+sucC</td>
+<td  style="text-align:center;vertical-align:center">
+partial TCA cycle (obligate autotrophs)</td>
+<td  style="text-align:center;vertical-align:center">
+11</td>
+<td  style="text-align:center;vertical-align:center">
+9/11</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+succinyl-CoA synthetase (ADP-forming) beta subunit</td>
+<td  style="text-align:center;vertical-align:center">
+sucC</td>
+<td  style="text-align:center;vertical-align:center">
+TCA cycle I (prokaryotic)</td>
+<td  style="text-align:center;vertical-align:center">
+10</td>
+<td  style="text-align:center;vertical-align:center">
+9/10</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+succinyl-CoA synthetase (ADP-forming) beta subunit</td>
+<td  style="text-align:center;vertical-align:center">
+sucC</td>
+<td  style="text-align:center;vertical-align:center">
+TCA cycle II (plants and fungi)</td>
+<td  style="text-align:center;vertical-align:center">
+9</td>
+<td  style="text-align:center;vertical-align:center">
+8/9</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+succinyl-CoA synthetase (ADP-forming) beta subunit</td>
+<td  style="text-align:center;vertical-align:center">
+sucC</td>
+<td  style="text-align:center;vertical-align:center">
+methylaspartate cycle</td>
+<td  style="text-align:center;vertical-align:center">
+19</td>
+<td  style="text-align:center;vertical-align:center">
+15/19</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+succinyl-CoA synthetase (ADP-forming) beta subunit</td>
+<td  style="text-align:center;vertical-align:center">
+sucC</td>
+<td  style="text-align:center;vertical-align:center">
+TCA cycle III (animals)</td>
+<td  style="text-align:center;vertical-align:center">
+10</td>
+<td  style="text-align:center;vertical-align:center">
+4/5</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+succinyl-CoA synthetase (ADP-forming) beta subunit</td>
+<td  style="text-align:center;vertical-align:center">
+sucC</td>
+<td  style="text-align:center;vertical-align:center">
+TCA cycle V (2-oxoglutarate:ferredoxin oxidoreductase)</td>
+<td  style="text-align:center;vertical-align:center">
+12</td>
+<td  style="text-align:center;vertical-align:center">
+3/4</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+succinyl-CoA synthetase (ADP-forming) beta subunit</td>
+<td  style="text-align:center;vertical-align:center">
+sucC</td>
+<td  style="text-align:center;vertical-align:center">
+reductive TCA cycle I</td>
+<td  style="text-align:center;vertical-align:center">
+12</td>
+<td  style="text-align:center;vertical-align:center">
+7/12</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+succinyl-CoA synthetase (ADP-forming) beta subunit</td>
+<td  style="text-align:center;vertical-align:center">
+sucC</td>
+<td  style="text-align:center;vertical-align:center">
+reductive TCA cycle II</td>
+<td  style="text-align:center;vertical-align:center">
+12</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+succinyl-CoA synthetase (ADP-forming) beta subunit</td>
+<td  style="text-align:center;vertical-align:center">
+sucC</td>
+<td  style="text-align:center;vertical-align:center">
+incomplete reductive TCA cycle</td>
+<td  style="text-align:center;vertical-align:center">
+7</td>
+<td  style="text-align:center;vertical-align:center">
+5/7</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Succinyl-CoA synthetase, alpha subunit</td>
+<td  style="text-align:center;vertical-align:center">
+sucD</td>
+<td  style="text-align:center;vertical-align:center">
+partial TCA cycle (obligate autotrophs)</td>
+<td  style="text-align:center;vertical-align:center">
+11</td>
+<td  style="text-align:center;vertical-align:center">
+9/11</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Succinyl-CoA synthetase, alpha subunit</td>
+<td  style="text-align:center;vertical-align:center">
+sucD</td>
+<td  style="text-align:center;vertical-align:center">
+TCA cycle I (prokaryotic)</td>
+<td  style="text-align:center;vertical-align:center">
+10</td>
+<td  style="text-align:center;vertical-align:center">
+9/10</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Succinyl-CoA synthetase, alpha subunit</td>
+<td  style="text-align:center;vertical-align:center">
+sucD</td>
+<td  style="text-align:center;vertical-align:center">
+TCA cycle II (plants and fungi)</td>
+<td  style="text-align:center;vertical-align:center">
+9</td>
+<td  style="text-align:center;vertical-align:center">
+8/9</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Succinyl-CoA synthetase, alpha subunit</td>
+<td  style="text-align:center;vertical-align:center">
+sucD</td>
+<td  style="text-align:center;vertical-align:center">
+methylaspartate cycle</td>
+<td  style="text-align:center;vertical-align:center">
+19</td>
+<td  style="text-align:center;vertical-align:center">
+15/19</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Succinyl-CoA synthetase, alpha subunit</td>
+<td  style="text-align:center;vertical-align:center">
+sucD</td>
+<td  style="text-align:center;vertical-align:center">
+TCA cycle III (animals)</td>
+<td  style="text-align:center;vertical-align:center">
+10</td>
+<td  style="text-align:center;vertical-align:center">
+4/5</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Succinyl-CoA synthetase, alpha subunit</td>
+<td  style="text-align:center;vertical-align:center">
+sucD</td>
+<td  style="text-align:center;vertical-align:center">
+TCA cycle V (2-oxoglutarate:ferredoxin oxidoreductase)</td>
+<td  style="text-align:center;vertical-align:center">
+12</td>
+<td  style="text-align:center;vertical-align:center">
+3/4</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Succinyl-CoA synthetase, alpha subunit</td>
+<td  style="text-align:center;vertical-align:center">
+sucD</td>
+<td  style="text-align:center;vertical-align:center">
+reductive TCA cycle I</td>
+<td  style="text-align:center;vertical-align:center">
+12</td>
+<td  style="text-align:center;vertical-align:center">
+7/12</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Succinyl-CoA synthetase, alpha subunit</td>
+<td  style="text-align:center;vertical-align:center">
+sucD</td>
+<td  style="text-align:center;vertical-align:center">
+reductive TCA cycle II</td>
+<td  style="text-align:center;vertical-align:center">
+12</td>
+<td  style="text-align:center;vertical-align:center">
+1/2</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Succinyl-CoA synthetase, alpha subunit</td>
+<td  style="text-align:center;vertical-align:center">
+sucD</td>
+<td  style="text-align:center;vertical-align:center">
+incomplete reductive TCA cycle</td>
+<td  style="text-align:center;vertical-align:center">
+7</td>
+<td  style="text-align:center;vertical-align:center">
+5/7</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Sulfite/nitrite reductase hemoprotein subunit</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1942</td>
+<td  style="text-align:center;vertical-align:center">
+assimilatory sulfate reduction III</td>
+<td  style="text-align:center;vertical-align:center">
+3</td>
+<td  style="text-align:center;vertical-align:center">
+2/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+transcriptional regulator, GntR family</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1922</td>
+<td  style="text-align:center;vertical-align:center">
+L-lysine degradation XI (mammalian)</td>
+<td  style="text-align:center;vertical-align:center">
+5</td>
+<td  style="text-align:center;vertical-align:center">
+2/5</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+transcriptional regulator, GntR family</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1922</td>
+<td  style="text-align:center;vertical-align:center">
+L-lysine biosynthesis V</td>
+<td  style="text-align:center;vertical-align:center">
+10</td>
+<td  style="text-align:center;vertical-align:center">
+2/9</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+transcriptional regulator, GntR family</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1922</td>
+<td  style="text-align:center;vertical-align:center">
+L-lysine degradation V</td>
+<td  style="text-align:center;vertical-align:center">
+9</td>
+<td  style="text-align:center;vertical-align:center">
+1/4</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+transcriptional regulator, GntR family</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1922</td>
+<td  style="text-align:center;vertical-align:center">
+L-lysine biosynthesis IV</td>
+<td  style="text-align:center;vertical-align:center">
+9</td>
+<td  style="text-align:center;vertical-align:center">
+3/8</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+transcriptional regulator, GntR family</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1922</td>
+<td  style="text-align:center;vertical-align:center">
+L-lysine degradation II (L-pipecolate pathway)</td>
+<td  style="text-align:center;vertical-align:center">
+9</td>
+<td  style="text-align:center;vertical-align:center">
+1/4</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Transthyretin-like protein</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1555</td>
+<td  style="text-align:center;vertical-align:center">
+urate conversion to allantoin II</td>
+<td  style="text-align:center;vertical-align:center">
+3</td>
+<td  style="text-align:center;vertical-align:center">
+1/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Transthyretin-like protein</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1555</td>
+<td  style="text-align:center;vertical-align:center">
+urate conversion to allantoin III</td>
+<td  style="text-align:center;vertical-align:center">
+3</td>
+<td  style="text-align:center;vertical-align:center">
+1/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+Transthyretin-like protein</td>
+<td  style="text-align:center;vertical-align:center">
+RSP_1555</td>
+<td  style="text-align:center;vertical-align:center">
+urate conversion to allantoin I</td>
+<td  style="text-align:center;vertical-align:center">
+3</td>
+<td  style="text-align:center;vertical-align:center">
+1/3</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase</td>
+<td  style="text-align:center;vertical-align:center">
+trmU</td>
+<td  style="text-align:center;vertical-align:center">
+tRNA-uridine 2-thiolation and selenation (bacteria)</td>
+<td  style="text-align:center;vertical-align:center">
+11</td>
+<td  style="text-align:center;vertical-align:center">
+2/11</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+tRNA (Guanine37-N(1)-) methyltransferase</td>
+<td  style="text-align:center;vertical-align:center">
+trmD</td>
+<td  style="text-align:center;vertical-align:center">
+tRNA methylation (yeast)</td>
+<td  style="text-align:center;vertical-align:center">
+15</td>
+<td  style="text-align:center;vertical-align:center">
+1/15</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+tRNA (Guanine37-N(1)-) methyltransferase</td>
+<td  style="text-align:center;vertical-align:center">
+trmD</td>
+<td  style="text-align:center;vertical-align:center">
+methylwyosine biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+4</td>
+<td  style="text-align:center;vertical-align:center">
+1/4</td></tr>
+<tr>
+
+<td  style="text-align:center;vertical-align:center">
+tRNA (Guanine37-N(1)-) methyltransferase</td>
+<td  style="text-align:center;vertical-align:center">
+trmD</td>
+<td  style="text-align:center;vertical-align:center">
+7-(3-amino-3-carboxypropyl)-wyosine biosynthesis</td>
+<td  style="text-align:center;vertical-align:center">
+4</td>
+<td  style="text-align:center;vertical-align:center">
+1/4</td></tr>
+</table>

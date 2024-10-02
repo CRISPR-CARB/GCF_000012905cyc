@@ -1,0 +1,120 @@
+# 
+#
+# Authors:
+#    Pallavi Subhraveti
+#    Ingrid Keseler
+#    Anamika Kothari
+#    Ron Caspi
+#    Peter D Karp
+#
+# Please see the license agreement regarding the use of and distribution of this file.
+# The format of this file is defined at http://bioinformatics.ai.sri.com/ptools/flatfile-format.html .
+#
+# Filename: /home/kaffir4/brg/tier3-28.0/gcf_000012905cyc/28.1/data/species.dat
+#
+# Organism: Rhodobacter sphaeroides 2.4.1; ATCC BAA-808
+# Database: gcf_000012905cyc
+# Version: 28.1
+# Date and time generated: July 23, 2024, 17:43:08
+#
+# Attributes:
+#    UNIQUE-ID
+#    TYPES
+#    COMMON-NAME
+#    BIOMASS-TEMPLATES
+#    CCO-INSTANCES
+#    CITATIONS
+#    COMMENT
+#    CONTACT-EMAIL
+#    CREDITS
+#    DATA-SOURCE
+#    DBLINKS
+#    DOCUMENTATION
+#    GENETIC-CODE
+#    GENOME
+#    GENOME-UPDATE-DATE
+#    HIDDEN-NAMES
+#    HIDE-SLOT?
+#    INFERENCE-STATS
+#    INSTANCE-NAME-TEMPLATE
+#    MEMBER-SORT-FN
+#    MITOCHONDRIAL-GENETIC-CODE
+#    PATHOLOGIC-NAME-MATCHER-EVIDENCE
+#    PATHOLOGIC-PWY-EVIDENCE
+#    PGDB-AUTHORS
+#    PGDB-COPYRIGHT
+#    PGDB-FOOTER-CITATION
+#    PGDB-HOME-PAGE
+#    PGDB-LAST-CONSISTENCY-CHECK
+#    PGDB-NAME
+#    PGDB-TIER
+#    PGDB-TYPE
+#    PGDB-UNIQUE-ID
+#    RANK
+#    SEQUENCE-SOURCE
+#    STRAIN-NAME
+#    SUBSPECIES-NAME
+#    SYNONYMS
+#
+UNIQUE-ID - GCF_000012905
+TYPES - TAX-272943
+COMMON-NAME - Rhodobacter sphaeroides
+CCO-INSTANCES - CCI-FLAGELLUM-GN
+CCO-INSTANCES - CCI-PILUS-GN
+CCO-INSTANCES - CCI-CYTOSKELETON-GN
+CCO-INSTANCES - CCI-RIBOSOME-GN
+CCO-INSTANCES - CCI-BAC-NUCLEOID-GN
+CCO-INSTANCES - CCI-CW-BAC-NEG-GN
+CCO-INSTANCES - CCI-S-LAYER-GN
+CCO-INSTANCES - CCI-OUTER-MEM-GN
+CCO-INSTANCES - CCI-PM-BAC-NEG-GN
+CCO-INSTANCES - CCI-CYTOSOL-GN
+CCO-INSTANCES - CCI-PERI-BAC-GN
+CCO-INSTANCES - CCI-EXTRACELLULAR-GN
+COMMENT - This Pathway/Genome Database (PGDB) was generated on 15-Feb-2020 from the annotated genome of <i>Rhodobacter sphaeroides</i> 2.4.1; ATCC BAA-808, as obtained from RefSeq (see the RefSeq entry for the authors of the original genome sequence).  
+/The PGDB was created computationally by the PathoLogic component of the Pathway Tools software (version 24.0) |CITS: [26454094],[22675592]| using MetaCyc version 23.5 |CITS: [31586394]|. It has not undergone any manual curation or review, and  may contain errors.
+/ Development of this PGDB was supported by grant GM080746 from the National Institutes of Health.
+/
+DBLINKS - (NCBI-BIOPROJECT "PRJNA57653" NIL |pecocyc| 3790718977 NIL NIL)
+DBLINKS - (NCBI-TAXONOMY-DB "272943" NIL |pecocyc| 3790718975 NIL NIL)
+GENETIC-CODE - 11
+GENOME - NC_007493
+GENOME - NC_007494
+GENOME - NC_009007
+GENOME - NC_007488
+GENOME - NC_007489
+GENOME - NC_007490
+GENOME - NC_009008
+GENOME-UPDATE-DATE - 28-AUG-2016
+INFERENCE-STATS - (PSORT |pecocyc| 3813074540 (("Proteins with PSORTdb localizations" . 3107)))
+INFERENCE-STATS - (PFAM |pecocyc| 3792511797 (("Pfam features created" . 5293)))
+INFERENCE-STATS - (PSORT |pecocyc| 3792511793 (("Proteins with PSORTdb localizations" . 0)))
+INFERENCE-STATS - (HF |pecocyc| 3792349324 (("Filled Pathway Holes" . 100) ("All Pathway Holes" . 63)))
+INFERENCE-STATS - (UNIPROT |pecocyc| 3792347567 (("deleted protein features" . 0) ("new protein features" . 1906) ("proteins with new features" . 331)))
+INFERENCE-STATS - (GO |pecocyc| 3792347369 (("distinct" . 1) ("genes >1 exp GO term" . 0) (">1 exp GO term" . 0) (">1 GO term" . 351) ("protein/RNAs" . 4637)))
+INFERENCE-STATS - (GO |pecocyc| 3792347369 (("GO term annotations" . 0)))
+INFERENCE-STATS - (TIP |pecocyc| 3792347365 (("multisubstrate transporters" . 31) ("low-probability transporters" . 182) ("high-probability transporters" . 169)))
+INFERENCE-STATS - (TIP |pecocyc| 3792347365 (("reactions imported during inference" . 18) ("reactions created during inference" . 52)))
+INFERENCE-STATS - (TIP |pecocyc| 3792347356 (("PTS complexes created" . 0)))
+INFERENCE-STATS - (TIP |pecocyc| 3792347356 (("ATP complexes created" . 62)))
+INFERENCE-STATS - (OPERON |pecocyc| 3790719184 (("Single Gene Directons" . 451) ("Long Directons" . 828) ("Directons" . 1279) ("Predicted TUs" . 2612) ("Predicted operons" . 857)))
+INSTANCE-NAME-TEMPLATE - ORG-*
+MITOCHONDRIAL-GENETIC-CODE - 0
+PGDB-AUTHORS - kaipa
+PGDB-AUTHORS - keseler
+PGDB-AUTHORS - kothari
+PGDB-AUTHORS - caspi
+PGDB-AUTHORS - pkarp
+PGDB-LAST-CONSISTENCY-CHECK - 3792514013
+PGDB-NAME - gcf_000012905cyc
+PGDB-TIER - 3
+PGDB-UNIQUE-ID - 1ZK9
+RANK - |strain|
+SEQUENCE-SOURCE - GCF_000012905.2
+STRAIN-NAME - 2.4.1; ATCC BAA-808
+SYNONYMS - Rhodobacter sphaeroides ATCC 17023
+SYNONYMS - Rhodobacter sphaeroides ATH 2.4.1
+SYNONYMS - Rhodobacter sphaeroides str. 2.4.1
+SYNONYMS - Rhodobacter sphaeroides strain 2.4.1
+SYNONYMS - Rhodobacter sphaeroides 2.4.1
+NCBI-TAXONOMY-ID - PRJNA57653

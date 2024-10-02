@@ -1,0 +1,129 @@
+# 
+#
+# Authors:
+#    Pallavi Subhraveti
+#    Ingrid Keseler
+#    Anamika Kothari
+#    Ron Caspi
+#    Peter D Karp
+#
+# Please see the license agreement regarding the use of and distribution of this file.
+# The format of this file is defined at http://bioinformatics.ai.sri.com/ptools/flatfile-format.html .
+#
+# Filename: /home/kaffir4/brg/tier3-28.0/gcf_000012905cyc/28.1/data/protcplxs.col
+#
+# Organism: Rhodobacter sphaeroides 2.4.1; ATCC BAA-808
+# Database: gcf_000012905cyc
+# Version: 28.1
+# Date and time generated: July 23, 2024, 17:44:07
+#
+#		1	2	3	4	5	6	7	8	9	10	11	12	13	14	1	2	3	4	5	6	7	8	9	10	11	12	13	14
+UNIQUE-ID	NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	SUBUNIT-COMPOSITION
+CPLX1ZK9-56	predicted ABC transporter of a nucleoside															RSP_3558	RSP_3559													1*RSP_3559-MONOMER,1*RSP_3558-MONOMER
+CPLX1ZK9-69	predicted ABC transporter of a polyamine															RSP_3396	RSP_3393	RSP_3397	RSP_3395											1*RSP_3395-MONOMER,1*RSP_3397-MONOMER,1*RSP_3393-MONOMER,1*RSP_3396-MONOMER
+CPLX1ZK9-94	predicted ABC transporter of a monosaccharide															RSP_2367	RSP_2368	RSP_2365												1*RSP_2365-MONOMER,1*RSP_2368-MONOMER,1*RSP_2367-MONOMER
+CPLX1ZK9-9	periplasmic nitrate reductase	napC	napB	napA												RSP_4118	RSP_4117	RSP_4116												1*RSP_4116-MONOMER,1*RSP_4117-MONOMER,1*RSP_4118-MONOMER
+CPLX1ZK9-47	predicted ABC transporter of Zn2+	znuA	znuB													RSP_3571	RSP_3567													1*RSP_3567-MONOMER,1*RSP_3571-MONOMER
+CPLX1ZK9-104	predicted ABC transporter of a carbohydrate	ugpB	ugpA	ugpE												RSP_3290	RSP_3289	RSP_3288												1*RSP_3288-MONOMER,1*RSP_3289-MONOMER,1*RSP_3290-MONOMER
+CPLX1ZK9-83	predicted ABC transporter of an amino acid															RSP_3744	RSP_3742													1*RSP_3742-MONOMER,1*RSP_3744-MONOMER
+CPLX1ZK9-92	predicted ABC transporter of an oligopeptide															RSP_3892	RSP_3890	RSP_3891	RSP_3883	RSP_3882										1*RSP_3882-MONOMER,1*RSP_3883-MONOMER,1*RSP_3891-MONOMER,1*RSP_3890-MONOMER,1*RSP_3892-MONOMER
+CPLX1ZK9-61	predicted ABC transporter of D-methionine	metQ	metI													RSP_0132	RSP_0130													1*RSP_0130-MONOMER,1*RSP_0132-MONOMER
+CPLX1ZK9-16	putative succinate dehydrogenase/fumarate reductase, flavoprotein	frdB		sdhA												RSP_3150	RSP_3148	RSP_3147												1*RSP_3147-MONOMER,1*RSP_3148-MONOMER,1*RSP_3150-MONOMER
+CPLX1ZK9-13	phenylalanyl-tRNA synthetase	pheS	pheT													RSP_1763	RSP_1761													1*RSP_1761-MONOMER,1*RSP_1763-MONOMER
+CPLX1ZK9-46	ATP phosphoribosyltransferase		hisG													RSP_3550	RSP_3549													1*RSP_3549-MONOMER,1*RSP_3550-MONOMER
+CPLX1ZK9-20	Putative Tartrate dehydratase	ttdA	ttdB													RSP_3146	RSP_3145													1*RSP_3145-MONOMER,1*RSP_3146-MONOMER
+CPLX1ZK9-23	ATP synthase	atpC	atpD	atpG	atpA	atpH										RSP_2300	RSP_2299	RSP_2298	RSP_2297	RSP_2296										1*RSP_2296-MONOMER,1*RSP_2297-MONOMER,1*RSP_2298-MONOMER,1*RSP_2299-MONOMER,1*RSP_2300-MONOMER
+CPLX1ZK9-95	predicted ABC transporter of a monosaccharide															RSP_3503	RSP_3502	RSP_3501	RSP_3500											1*RSP_3500-MONOMER,1*RSP_3501-MONOMER,1*RSP_3502-MONOMER,1*RSP_3503-MONOMER
+CPLX1ZK9-90	predicted ABC transporter of an amino acid		xoxJ													RSP_2582	RSP_2580													1*RSP_2580-MONOMER,1*RSP_2582-MONOMER
+CPLX1ZK9-107	predicted ABC transporter of a carbohydrate															RSP_2669	RSP_2667	RSP_2666	RSP_2665	RSP_2663										1*RSP_2663-MONOMER,1*RSP_2665-MONOMER,1*RSP_2666-MONOMER,1*RSP_2667-MONOMER,1*RSP_2669-MONOMER
+CPLX1ZK9-6	xanthine dehydrogenase, molybdenum binding															RSP_3206	RSP_3205													1*RSP_3205-MONOMER,1*RSP_3206-MONOMER
+CPLX1ZK9-79	predicted ABC transporter of phosphate	pstS	pstC	pstA												RSP_2604	RSP_2603	RSP_2602												1*RSP_2602-MONOMER,1*RSP_2603-MONOMER,1*RSP_2604-MONOMER
+CPLX1ZK9-76	predicted ABC transporter of a peptide															RSP_3236	RSP_3235													1*RSP_3235-MONOMER,1*RSP_3236-MONOMER
+CPLX1ZK9-70	predicted ABC transporter of a polyamine															RSP_1883	RSP_1882	RSP_1884	RSP_1886											1*RSP_1886-MONOMER,1*RSP_1884-MONOMER,1*RSP_1882-MONOMER,1*RSP_1883-MONOMER
+CPLX1ZK9-58	predicted ABC transporter of sulfate/molybdate															RSP_3860	RSP_3861	RSP_3859												1*RSP_3859-MONOMER,1*RSP_3861-MONOMER,1*RSP_3860-MONOMER
+CPLX1ZK9-96	predicted ABC transporter of a monosaccharide															RSP_1249	RSP_6150													1*RSP_6150-MONOMER,1*RSP_1249-MONOMER
+CPLX1ZK9-87	predicted ABC transporter of an amino acid															RSP_0374	RSP_0373	RSP_0372												1*RSP_0372-MONOMER,1*RSP_0373-MONOMER,1*RSP_0374-MONOMER
+CPLX1ZK9-48	predicted ABC transporter of L-proline betaine/glycine betaine															RSP_3058	RSP_3059													1*RSP_3059-MONOMER,1*RSP_3058-MONOMER
+CPLX1ZK9-17	DNA-directed RNA polymerase beta	rpoC	rpoB													RSP_1712	RSP_1699													1*RSP_1699-MONOMER,1*RSP_1712-MONOMER
+CPLX1ZK9-80	predicted ABC transporter of an amino acid															RSP_2277	RSP_2276	RSP_2275												1*RSP_2275-MONOMER,1*RSP_2276-MONOMER,1*RSP_2277-MONOMER
+CPLX1ZK9-39	NADH dehydrogenase	nuoN	nuoM	nuoL	nuoK	nuoJ	nuoI	nuoH	nuoG	nuoF	nuoE	nuoD	nuoC	nuoB	nuoA	RSP_2530	RSP_2529	RSP_2527	RSP_2526	RSP_2525	RSP_2523	RSP_2522	RSP_2521	RSP_2518	RSP_2516	RSP_2515	RSP_2514	RSP_2513	RSP_2512	1*RSP_2512-MONOMER,1*RSP_2513-MONOMER,1*RSP_2514-MONOMER,1*RSP_2515-MONOMER,1*RSP_2516-MONOMER,1*RSP_2518-MONOMER,1*RSP_2521-MONOMER,1*RSP_2522-MONOMER,1*RSP_2523-MONOMER,1*RSP_2525-MONOMER,1*RSP_2526-MONOMER,1*RSP_2527-MONOMER,1*RSP_2529-MONOMER,1*RSP_2530-MONOMER
+CPLX1ZK9-77	predicted ABC transporter of a peptide															RSP_3232	RSP_3231	RSP_3233												1*RSP_3233-MONOMER,1*RSP_3231-MONOMER,1*RSP_3232-MONOMER
+CPLX1ZK9-35	Cytochrome c oxidase															RSP_0118	RSP_0117													1*RSP_0117-MONOMER,1*RSP_0118-MONOMER
+CPLX1ZK9-12	Dihydrolipoamide acetyltransferase component (E2) of pyruvate dehydrogenase	pdhAa	pdhB													RSP_4047	RSP_4050													1*RSP_4050-MONOMER,1*RSP_4047-MONOMER
+CPLX1ZK9-10	anthranilate synthase	trpE	trpG													RSP_2004	RSP_2002													1*RSP_2002-MONOMER,1*RSP_2004-MONOMER
+CPLX1ZK9-28	cobaltochelatase	cobS	cobT													RSP_1977	RSP_1976													1*RSP_1976-MONOMER,1*RSP_1977-MONOMER
+CPLX1ZK9-59	predicted ABC transporter of nitrate/a sulfonate/hydrogencarbonate															RSP_3153	RSP_3151	RSP_3152	RSP_3154											1*RSP_3154-MONOMER,1*RSP_3152-MONOMER,1*RSP_3151-MONOMER,1*RSP_3153-MONOMER
+CPLX1ZK9-14	succinyl-CoA synthetase (ADP-forming)	sucC	sucD													RSP_0967	RSP_0966													1*RSP_0966-MONOMER,1*RSP_0967-MONOMER
+CPLX1ZK9-36	Cbb3-type cytochrome c oxidase	ccoN	ccoO	ccoQ	ccoP											RSP_0696	RSP_0695	RSP_0694	RSP_0693											1*RSP_0693-MONOMER,1*RSP_0694-MONOMER,1*RSP_0695-MONOMER,1*RSP_0696-MONOMER
+CPLX1ZK9-101	predicted ABC transporter of putrescine															RSP_3041	RSP_3040	RSP_3039	RSP_3038											1*RSP_3038-MONOMER,1*RSP_3039-MONOMER,1*RSP_3040-MONOMER,1*RSP_3041-MONOMER
+CPLX1ZK9-88	predicted ABC transporter of an amino acid															RSP_0301	RSP_0300	RSP_0299												1*RSP_0299-MONOMER,1*RSP_0300-MONOMER,1*RSP_0301-MONOMER
+CPLX1ZK9-103	predicted ABC efflux transporter of a carbohydrate															RSP_3273	RSP_3274													1*RSP_3274-MONOMER,1*RSP_3273-MONOMER
+CPLX1ZK9-57	predicted ABC transporter of a nucleoside															RSP_0343	RSP_0342													1*RSP_0342-MONOMER,1*RSP_0343-MONOMER
+CPLX1ZK9-66	predicted ABC transporter of Fe3+/a siderophore															RSP_3392	RSP_3391													1*RSP_3391-MONOMER,1*RSP_3392-MONOMER
+CPLX1ZK9-55	predicted ABC transporter of a nucleoside															RSP_2209	RSP_2208													1*RSP_2208-MONOMER,1*RSP_2209-MONOMER
+CPLX1ZK9-62	predicted ABC transporter of D-sorbitol	smoG	smoF													RSP_0093	RSP_0092													1*RSP_0092-MONOMER,1*RSP_0093-MONOMER
+CPLX1ZK9-98	predicted ABC transporter of a monosaccharide															RSP_3735	RSP_3734	RSP_3732												1*RSP_3732-MONOMER,1*RSP_3734-MONOMER,1*RSP_3735-MONOMER
+CPLX1ZK9-7	putative carbon monoxide dehydrogenase medium	coxS														RSP_2878	RSP_2876													1*RSP_2876-MONOMER,1*RSP_2878-MONOMER
+CPLX1ZK9-84	predicted ABC transporter of an amino acid															RSP_3294	RSP_3293	RSP_3297												1*RSP_3297-MONOMER,1*RSP_3293-MONOMER,1*RSP_3294-MONOMER
+CPLX1ZK9-89	predicted ABC transporter of an amino acid															RSP_2927	RSP_2926	RSP_2923												1*RSP_2923-MONOMER,1*RSP_2926-MONOMER,1*RSP_2927-MONOMER
+CPLX1ZK9-50	predicted ABC transporter of a peptide/Ni2+															RSP_1454	RSP_1453	RSP_1452	RSP_1451											1*RSP_1451-MONOMER,1*RSP_1452-MONOMER,1*RSP_1453-MONOMER,1*RSP_1454-MONOMER
+CPLX1ZK9-108	predicted ABC transporter of a carbohydrate															RSP_3674	RSP_3673	RSP_3672												1*RSP_3672-MONOMER,1*RSP_3673-MONOMER,1*RSP_3674-MONOMER
+CPLX1ZK9-25	formate dehydrogenase	fdsD	fdsA	fdsB	fdsG											RSP_1082	RSP_1080	RSP_1079	RSP_1078											1*RSP_1078-MONOMER,1*RSP_1079-MONOMER,1*RSP_1080-MONOMER,1*RSP_1082-MONOMER
+CPLX1ZK9-82	predicted ABC transporter of an amino acid															RSP_3460	RSP_3459	RSP_3457												1*RSP_3457-MONOMER,1*RSP_3459-MONOMER,1*RSP_3460-MONOMER
+CPLX1ZK9-65	predicted ABC transporter of Fe3+/a siderophore															RSP_3415	RSP_3414	RSP_3416												1*RSP_3416-MONOMER,1*RSP_3414-MONOMER,1*RSP_3415-MONOMER
+CPLX1ZK9-105	predicted ABC transporter of a carbohydrate		yurO	yurM			yurN									RSP_4035	RSP_3941	RSP_3943	RSP_4034	RSP_4037	RSP_3942	RSP_7366								1*RSP_7366-MONOMER,1*RSP_3942-MONOMER,1*RSP_4037-MONOMER,1*RSP_4034-MONOMER,1*RSP_3943-MONOMER,1*RSP_3941-MONOMER,1*RSP_4035-MONOMER
+CPLX1ZK9-67	predicted ABC transporter of Fe3+/a siderophore															RSP_3221	RSP_3220													1*RSP_3220-MONOMER,1*RSP_3221-MONOMER
+CPLX1ZK9-8	3-isopropylmalate dehydratase	leuC	leuD													RSP_0863	RSP_0862													1*RSP_0862-MONOMER,1*RSP_0863-MONOMER
+CPLX1ZK9-1	glycyl-tRNA synthetase	glyS	glyQ													RSP_1858	RSP_1856													1*RSP_1856-MONOMER,1*RSP_1858-MONOMER
+CPLX1ZK9-24	ATP synthase F0 subcomplex	atpI	atpB	atpE	atpX	atpF										RSP_1039	RSP_1038	RSP_1037	RSP_1036	RSP_1035										1*RSP_1035-MONOMER,1*RSP_1036-MONOMER,1*RSP_1037-MONOMER,1*RSP_1038-MONOMER,1*RSP_1039-MONOMER
+CPLX1ZK9-86	predicted ABC transporter of an amino acid															RSP_3964	RSP_3966	RSP_3967	RSP_3968											1*RSP_3968-MONOMER,1*RSP_3967-MONOMER,1*RSP_3966-MONOMER,1*RSP_3964-MONOMER
+CPLX1ZK9-19	acetolactate synthase		ilvH													RSP_2637	RSP_2636													1*RSP_2636-MONOMER,1*RSP_2637-MONOMER
+CPLX1ZK9-64	predicted ABC transporter of spermidine/putrescine															RSP_0017	RSP_0016	RSP_0015												1*RSP_0015-MONOMER,1*RSP_0016-MONOMER,1*RSP_0017-MONOMER
+CPLX1ZK9-38	imidazole glycerol phosphate synthase	hisH	hisF													RSP_2245	RSP_2242													1*RSP_2242-MONOMER,1*RSP_2245-MONOMER
+CPLX1ZK9-3	2-oxoglutarate dehydrogenase	sucA	sucB													RSP_0965	RSP_0964													1*RSP_0964-MONOMER,1*RSP_0965-MONOMER
+CPLX1ZK9-63	predicted ABC transporter of spermidine/putrescine															RSP_3335	RSP_3337	RSP_3336	RSP_3338											1*RSP_3338-MONOMER,1*RSP_3336-MONOMER,1*RSP_3337-MONOMER,1*RSP_3335-MONOMER
+CPLX1ZK9-26	Pyridine nucleotide transhydrogenase	pntA	PntB													RSP_0240	RSP_0239													1*RSP_0239-MONOMER,1*RSP_0240-MONOMER
+CPLX1ZK9-33	3-methylcrotonoyl-CoA carboxylase	mccA	mccB													RSP_2509	RSP_2508													1*RSP_2508-MONOMER,1*RSP_2509-MONOMER
+CPLX1ZK9-81	predicted ABC transporter of an amino acid	aapP	gtpB	gtpC	gtpD											RSP_3950	RSP_3951	RSP_3952	RSP_3953											1*RSP_3953-MONOMER,1*RSP_3952-MONOMER,1*RSP_3951-MONOMER,1*RSP_3950-MONOMER
+CPLX1ZK9-30	Potassium-transporting P-type ATPase	kdpC	kdpB	kdpA												RSP_1267	RSP_1266	RSP_1265	RSP_1264											1*RSP_1264-MONOMER,1*RSP_1265-MONOMER,1*RSP_1266-MONOMER,1*RSP_1267-MONOMER
+CPLX1ZK9-73	predicted ABC transporter of a peptide															RSP_3524	RSP_3522	RSP_3520	RSP_3525	RSP_3523										1*RSP_3523-MONOMER,1*RSP_3525-MONOMER,1*RSP_3520-MONOMER,1*RSP_3522-MONOMER,1*RSP_3524-MONOMER
+CPLX1ZK9-54	predicted ABC transporter of Co2+	cbiO	cbiQ													RSP_3211	RSP_3209	RSP_6168												1*RSP_6168-MONOMER,1*RSP_3209-MONOMER,1*RSP_3211-MONOMER
+CPLX1ZK9-4	ABC multidrug efflux pump, fused ATPase and inner membrane subunits															RSP_1204	RSP_1203													1*RSP_1203-MONOMER,1*RSP_1204-MONOMER
+CPLX1ZK9-42	putative sarcosine oxidase		soxA	soxD												RSP_2690	RSP_2689	RSP_2688	RSP_2686											1*RSP_2686-MONOMER,1*RSP_2688-MONOMER,1*RSP_2689-MONOMER,1*RSP_2690-MONOMER
+CPLX1ZK9-106	predicted ABC transporter of a carbohydrate															RSP_1445	RSP_1444	RSP_1442	RSP_1443											1*RSP_1443-MONOMER,1*RSP_1442-MONOMER,1*RSP_1444-MONOMER,1*RSP_1445-MONOMER
+CPLX1ZK9-2	3-oxoadipate CoA-transferase															RSP_1914	RSP_1913													1*RSP_1913-MONOMER,1*RSP_1914-MONOMER
+CPLX1ZK9-34	Cytochrome c oxidase	coxIII	coxII													RSP_1829	RSP_1826													1*RSP_1826-MONOMER,1*RSP_1829-MONOMER
+CPLX1ZK9-91	predicted ABC transporter of an oligopeptide	OppA	OppB	OppC												RSP_1481	RSP_1480	RSP_1479	RSP_1478											1*RSP_1478-MONOMER,1*RSP_1479-MONOMER,1*RSP_1480-MONOMER,1*RSP_1481-MONOMER
+CPLX1ZK9-78	predicted ABC transporter of a peptide															RSP_0704	RSP_0703	RSP_0702	RSP_0701											1*RSP_0701-MONOMER,1*RSP_0702-MONOMER,1*RSP_0703-MONOMER,1*RSP_0704-MONOMER
+CPLX1ZK9-5	ABC peptide/opine transporter, ATPase															RSP_3033	RSP_3032													1*RSP_3032-MONOMER,1*RSP_3033-MONOMER
+CPLX1ZK9-11	ABC dipeptide transporter, ATPase	DppD	DppF													RSP_0804	RSP_0803													1*RSP_0803-MONOMER,1*RSP_0804-MONOMER
+CPLX1ZK9-18	cytochrome bd-I ubiquinol oxidase	qxtA	qxtB													RSP_3212	RSP_3210													1*RSP_3210-MONOMER,1*RSP_3212-MONOMER
+CPLX1ZK9-49	predicted ABC transporter of thiamine	thiQ	thiB													RSP_1393	RSP_1391													1*RSP_1391-MONOMER,1*RSP_1393-MONOMER
+CPLX1ZK9-97	predicted ABC transporter of a monosaccharide	yphD														RSP_3689	RSP_3687													1*RSP_3687-MONOMER,1*RSP_3689-MONOMER
+CPLX1ZK9-71	predicted ABC transporter of a dipeptide	DdpA	DppB	DppC												RSP_0807	RSP_0806	RSP_0805												1*RSP_0805-MONOMER,1*RSP_0806-MONOMER,1*RSP_0807-MONOMER
+CPLX1ZK9-75	predicted ABC transporter of a peptide															RSP_3258	RSP_3255	RSP_3251	RSP_3249	RSP_3257	RSP_3250	RSP_3252	RSP_3248							1*RSP_3248-MONOMER,1*RSP_3252-MONOMER,1*RSP_3250-MONOMER,1*RSP_3257-MONOMER,1*RSP_3249-MONOMER,1*RSP_3251-MONOMER,1*RSP_3255-MONOMER,1*RSP_3258-MONOMER
+CPLX1ZK9-29	ferredoxin protochlorophyllide reductase	bchL	bchB	bchN												RSP_0288	RSP_0286	RSP_0285												1*RSP_0285-MONOMER,1*RSP_0286-MONOMER,1*RSP_0288-MONOMER
+CPLX1ZK9-102	predicted ABC transporter of putrescine															RSP_2400	RSP_2399	RSP_2398	RSP_2397											1*RSP_2397-MONOMER,1*RSP_2398-MONOMER,1*RSP_2399-MONOMER,1*RSP_2400-MONOMER
+CPLX1ZK9-15	succinate dehydrogenase	sdhB	sdhA													RSP_0979	RSP_0976	RSP_0975	RSP_0974											1*RSP_0974-MONOMER,1*RSP_0975-MONOMER,1*RSP_0976-MONOMER,1*RSP_0979-MONOMER
+CPLX1ZK9-44	putative IlvE, Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase	ilvE2														RSP_1215	RSP_1214													1*RSP_1214-MONOMER,1*RSP_1215-MONOMER
+CPLX1ZK9-52	predicted ABC transporter of glycine betaine/L-proline	proX	proW													RSP_2181	RSP_2180													1*RSP_2180-MONOMER,1*RSP_2181-MONOMER
+CPLX1ZK9-31	Urea	ureA	ureB	ureC												RSP_0309	RSP_0308	RSP_6111												1*RSP_6111-MONOMER,1*RSP_0308-MONOMER,1*RSP_0309-MONOMER
+CPLX1ZK9-53	predicted ABC transporter of glycine betaine/L-proline	proW														RSP_3999	RSP_3998													1*RSP_3998-MONOMER,1*RSP_3999-MONOMER
+CPLX1ZK9-60	predicted ABC transporter of nitrate/a sulfonate/hydrogencarbonate															RSP_0181	RSP_0180	RSP_0179												1*RSP_0179-MONOMER,1*RSP_0180-MONOMER,1*RSP_0181-MONOMER
+CPLX1ZK9-74	predicted ABC transporter of a peptide															RSP_3031	RSP_3034	RSP_3030	RSP_3033	RSP_3032										1*RSP_3033-MONOMER,1*RSP_3032-MONOMER,1*RSP_3030-MONOMER,1*RSP_3034-MONOMER,1*RSP_3031-MONOMER
+CPLX1ZK9-37	Quinol oxidase	qoxB	qoxA													RSP_3098	RSP_3097													1*RSP_3097-MONOMER,1*RSP_3098-MONOMER
+CPLX1ZK9-21	Molybdopterin converting factor	moaD	moaE													RSP_1072	RSP_1071													1*RSP_1071-MONOMER,1*RSP_1072-MONOMER
+CPLX1ZK9-40	NADH dehydrogenase subunit C; NADH dehydrogenase	nuoN1		nuoL1	nuoK1	nuoJ1	nuoI1	nuoH1	nuoG1	nuoF1	nuoE1	nuoCD	nuoB1	nuoA1		RSP_0112	RSP_0111	RSP_0110	RSP_0109	RSP_0108	RSP_0107	RSP_0106	RSP_0105	RSP_0104	RSP_0103	RSP_0102	RSP_0101	RSP_0100		1*RSP_0100-MONOMER,1*RSP_0101-MONOMER,1*RSP_0102-MONOMER,1*RSP_0103-MONOMER,1*RSP_0104-MONOMER,1*RSP_0105-MONOMER,1*RSP_0106-MONOMER,1*RSP_0107-MONOMER,1*RSP_0108-MONOMER,1*RSP_0109-MONOMER,1*RSP_0110-MONOMER,1*RSP_0111-MONOMER,1*RSP_0112-MONOMER
+CPLX1ZK9-41	Putative carbon monoxide dehydrogenase	coxS	coxL													RSP_2878	RSP_2877													1*RSP_2877-MONOMER,1*RSP_2878-MONOMER
+CPLX1ZK9-93	predicted ABC transporter of sulfate/thiosulfate	cysP	cysW	cysT												RSP_3697	RSP_3699	RSP_3698												1*RSP_3698-MONOMER,1*RSP_3699-MONOMER,1*RSP_3697-MONOMER
+CPLX1ZK9-100	predicted ABC transporter of a Coalpha-[alpha-(5,6-dimethylbenzimidazolyl)]-cobamide/Fe3+															RSP_2404	RSP_2403													1*RSP_2403-MONOMER,1*RSP_2404-MONOMER
+CPLX1ZK9-68	predicted ABC transporter of a polyamine															RSP_3518	RSP_3516	RSP_3515	RSP_3517											1*RSP_3517-MONOMER,1*RSP_3515-MONOMER,1*RSP_3516-MONOMER,1*RSP_3518-MONOMER
+CPLX1ZK9-27	ribulose 1,5-bisphosphate carboxylase	cbbL	cbbS													RSP_1282	RSP_1281													1*RSP_1281-MONOMER,1*RSP_1282-MONOMER
+CPLX1ZK9-72	predicted ABC transporter of a dipeptide															RSP_2702	RSP_2701	RSP_2700												1*RSP_2700-MONOMER,1*RSP_2701-MONOMER,1*RSP_2702-MONOMER
+CPLX1ZK9-22	H+-transporting two-sector ATPase, alpha/beta	atpD	atpC-1			atpA										RSP_3929	RSP_3930	RSP_3933	RSP_7012	RSP_3935	RSP_3936									1*RSP_3936-MONOMER,1*RSP_3935-MONOMER,1*RSP_7012-MONOMER,1*RSP_3933-MONOMER,1*RSP_3930-MONOMER,1*RSP_3929-MONOMER
+CPLX1ZK9-51	predicted ABC transporter of Mn2+/Fe2+	sitD	sitC	sitB	sitA											RSP_0908	RSP_0906	RSP_0905	RSP_0904											1*RSP_0904-MONOMER,1*RSP_0905-MONOMER,1*RSP_0906-MONOMER,1*RSP_0908-MONOMER
+CPLX1ZK9-45	Mo-nitrogenase	nifH	nifD	nifK												RSP_0541	RSP_0540	RSP_0539												1*RSP_0539-MONOMER,1*RSP_0540-MONOMER,1*RSP_0541-MONOMER
+CPLX1ZK9-99	predicted ABC transporter of a Coalpha-[alpha-(5,6-dimethylbenzimidazolyl)]-cobamide/Fe3+		fhuD													RSP_7397	RSP_4272													1*RSP_4272-MONOMER,1*RSP_7397-MONOMER
+CPLX1ZK9-32	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase	gatA	gatC													RSP_2270	RSP_6043													1*RSP_6043-MONOMER,1*RSP_2270-MONOMER
+CPLX1ZK9-85	predicted ABC transporter of an amino acid															RSP_1291	RSP_1290	RSP_1289												1*RSP_1289-MONOMER,1*RSP_1290-MONOMER,1*RSP_1291-MONOMER
+CPLX1ZK9-43	hydrogenase protein	hupL	hupS													RSP_0496	RSP_0495													1*RSP_0495-MONOMER,1*RSP_0496-MONOMER

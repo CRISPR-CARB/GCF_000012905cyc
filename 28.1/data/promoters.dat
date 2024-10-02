@@ -1,0 +1,120 @@
+# 
+#
+# Authors:
+#    Pallavi Subhraveti
+#    Ingrid Keseler
+#    Anamika Kothari
+#    Ron Caspi
+#    Peter D Karp
+#
+# Please see the license agreement regarding the use of and distribution of this file.
+# The format of this file is defined at http://bioinformatics.ai.sri.com/ptools/flatfile-format.html .
+#
+# Filename: /home/kaffir4/brg/tier3-28.0/gcf_000012905cyc/28.1/data/promoters.dat
+#
+# Organism: Rhodobacter sphaeroides 2.4.1; ATCC BAA-808
+# Database: gcf_000012905cyc
+# Version: 28.1
+# Date and time generated: July 23, 2024, 17:44:01
+#
+# Attributes:
+#    UNIQUE-ID
+#    TYPES
+#    COMMON-NAME
+#    ABSOLUTE-PLUS-1-POS
+#    ALTERNATE-TSS
+#    BINDS-SIGMA-FACTOR
+#    CITATIONS
+#    COMMENT
+#    COMPONENT-OF
+#    CREDITS
+#    DATA-SOURCE
+#    DBLINKS
+#    DOCUMENTATION
+#    HIDE-SLOT?
+#    INSTANCE-NAME-TEMPLATE
+#    LEFT-END-POSITION
+#    MEMBER-SORT-FN
+#    MINUS-10-LEFT
+#    MINUS-10-RIGHT
+#    MINUS-35-LEFT
+#    MINUS-35-RIGHT
+#    PATHOLOGIC-NAME-MATCHER-EVIDENCE
+#    PATHOLOGIC-PWY-EVIDENCE
+#    REGULATED-BY
+#    RIGHT-END-POSITION
+#    SYNONYMS
+#    TRANSCRIPTION-DIRECTION
+#    UNMAPPED-COMPONENT-OF
+#
+UNIQUE-ID - PM1ZK9-5
+TYPES - Promoters
+CITATIONS - 12218019:EV-EXP-IDA-TRANSCRIPTION-INIT-MAPPING:3792513968:pecocyc
+COMMENT - rdxBH operon promoter 1
+COMMENT - Four transcriptional start points were identified upstream of rdxB gene by primer extension. Promoter 1 was probably regulated by FnrL.
+COMPONENT-OF - TU1ZK9-2620
+DBLINKS - (REGTRANSBASE "100360" NIL |pecocyc| 3792513972 NIL NIL)
+DBLINKS - (REGTRANSBASE "100361" NIL |pecocyc| 3792513972 NIL NIL)
+DBLINKS - (REGTRANSBASE "100362" NIL |pecocyc| 3792513972 NIL NIL)
+DBLINKS - (REGTRANSBASE "100363" NIL |pecocyc| 3792513972 NIL NIL)
+INSTANCE-NAME-TEMPLATE - PM-*
+UNMAPPED-COMPONENT-OF - NC_007493
+//
+UNIQUE-ID - PM1ZK9-3
+TYPES - Promoters
+CITATIONS - 12218019:EV-EXP-IDA-TRANSCRIPTION-INIT-MAPPING:3792513967:pecocyc
+COMMENT - ccoNOQP operon promoter 1
+COMMENT - Four transcriptional start points were identified upstream of ccoN gene by primer extension. Promoter 1 was probably regulated by FnrL.
+COMPONENT-OF - TU1ZK9-1163
+DBLINKS - (REGTRANSBASE "100356" NIL |pecocyc| 3792513972 NIL NIL)
+DBLINKS - (REGTRANSBASE "100357" NIL |pecocyc| 3792513972 NIL NIL)
+DBLINKS - (REGTRANSBASE "100358" NIL |pecocyc| 3792513972 NIL NIL)
+DBLINKS - (REGTRANSBASE "100359" NIL |pecocyc| 3792513972 NIL NIL)
+INSTANCE-NAME-TEMPLATE - PM-*
+UNMAPPED-COMPONENT-OF - NC_007493
+//
+UNIQUE-ID - PM1ZK9-2
+TYPES - Promoters
+CITATIONS - 2808428:EV-EXP:3792513966:pecocyc
+CITATIONS - 2808428:EV-EXP-IDA-TRANSCRIPTION-INIT-MAPPING:3792513966:pecocyc
+COMMENT - puf operon promoter 2
+COMMENT - Transcriptional start point of long-sized transcript of puf operon was determined by primer extension S1 nuclease mapping.
+COMPONENT-OF - TU1ZK9-2614
+DBLINKS - (REGTRANSBASE "97154" NIL |pecocyc| 3792513972 NIL NIL)
+INSTANCE-NAME-TEMPLATE - PM-*
+UNMAPPED-COMPONENT-OF - NC_007493
+//
+UNIQUE-ID - PM1ZK9-6
+TYPES - Promoters
+CITATIONS - 12218019:EV-EXP-IDA-TRANSCRIPTION-INIT-MAPPING:3792513968:pecocyc
+COMMENT - rdxIS operon promoter
+COMMENT - Transcriptional start point of rdxIS operon was determined by primer extension.
+COMPONENT-OF - TU1ZK9-2621
+DBLINKS - (REGTRANSBASE "100364" NIL |pecocyc| 3792513972 NIL NIL)
+INSTANCE-NAME-TEMPLATE - PM-*
+UNMAPPED-COMPONENT-OF - NC_007493
+//
+UNIQUE-ID - PM1ZK9-1
+TYPES - Promoters
+CITATIONS - 2808428:EV-EXP:3792513966:pecocyc
+CITATIONS - 2808428:EV-EXP-IDA-TRANSCRIPTION-INIT-MAPPING:3792513966:pecocyc
+COMMENT - puf operon promoter 1
+COMMENT - Transcriptional start point of short- and medium-sized transcripts of puf operon was determined by primer extension and S1 nuclease mapping.
+COMPONENT-OF - TU1ZK9-2613
+DBLINKS - (REGTRANSBASE "97153" NIL |pecocyc| 3792513972 NIL NIL)
+INSTANCE-NAME-TEMPLATE - PM-*
+UNMAPPED-COMPONENT-OF - NC_007493
+//
+UNIQUE-ID - PM1ZK9-4
+TYPES - Promoters
+CITATIONS - 12218019:EV-EXP-IDA-TRANSCRIPTION-INIT-MAPPING:3792513967:pecocyc
+COMMENT - ccoNOQP operon promoter 1
+COMMENT - Four transcriptional start points were identified upstream of ccoN gene by primer extension. Promoter 1 was probably regulated by FnrL.
+COMPONENT-OF - TU1ZK9-2619
+DBLINKS - (REGTRANSBASE "100356" NIL |pecocyc| 3792513972 NIL NIL)
+DBLINKS - (REGTRANSBASE "100357" NIL |pecocyc| 3792513972 NIL NIL)
+DBLINKS - (REGTRANSBASE "100358" NIL |pecocyc| 3792513972 NIL NIL)
+DBLINKS - (REGTRANSBASE "100359" NIL |pecocyc| 3792513972 NIL NIL)
+INSTANCE-NAME-TEMPLATE - PM-*
+UNMAPPED-COMPONENT-OF - NC_007493
+//

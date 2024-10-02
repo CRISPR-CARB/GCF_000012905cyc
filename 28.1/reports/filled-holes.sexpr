@@ -1,0 +1,1400 @@
+
+(#S(FILLED-HOLE :RXN HOMOSERINE-O-ACETYLTRANSFERASE-RXN
+                :HIT #<"RSP_0010" instance frame in GCF_000012905BASE[F] @
+                       #x100a082ab02>
+                :PROB 0.98022455
+                :RXN-NAME NIL
+                :RXN-EC "2.3.1.31"
+                :PWY-LIST (#<"PWY-5344" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f626e2>)
+                :ALL-RXNS (#<"HOMSUCTRAN-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f1c842>
+                           #<"HOMOSERINE-O-ACETYLTRANSFERASE-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f19542>)
+                :REPLACED? NIL
+                :FUNCTIONS "homoserine O-succinyltransferase"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN 3-HYDROXYISOBUTYRYL-COA-HYDROLASE-RXN
+                :HIT #<"RSP_0155" instance frame in GCF_000012905BASE[F] @
+                       #x100a0828e22>
+                :PROB 0.9988313
+                :RXN-NAME NIL
+                :RXN-EC "3.1.2.4"
+                :PWY-LIST (#<"VALDEG-PWY" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f3c672>)
+                :ALL-RXNS (#<"RXN-2425" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f71532>
+                           #<"TIGLYLCOA-HYDROXY-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f8fb32>
+                           #<"METHYLACYLYLCOA-HYDROXY-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f31422>
+                           #<"RXN0-5393" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0ff2ce2>
+                           #<"RXN-11667" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fe0622>
+                           #<"RXN-12567" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f9cfa2>
+                           #<"RXN-17780" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f42342>
+                           #<"RXN-17776" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f15042>
+                           #<"RXN-20678" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0ff9a02>
+                           #<"RXN-13616" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f6d242>
+                           #<"RXN-20675" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f09612>
+                           #<"ENOYL-COA-HYDRAT-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f48fd2>
+                           #<"3-HYDROXYISOBUTYRYL-COA-HYDROLASE-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f75a92>)
+                :REPLACED? NIL
+                :FUNCTIONS "enoyl-CoA hydratase"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN MEPROPCOA-FAD-RXN
+                :HIT #<"RSP_0156" instance frame in GCF_000012905BASE[F] @
+                       #x100a0828df2>
+                :PROB 0.92356706
+                :RXN-NAME "isobutyryl-CoA dehydrogenase"
+                :RXN-EC "1.3.8.5"
+                :PWY-LIST (#<"VALDEG-PWY" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f3c672>)
+                :ALL-RXNS (#<"RXN-17783" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f5fce2>
+                           #<"RXN-14278" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0ff3012>
+                           #<"RXN-14229" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fb8182>
+                           #<"RXN-17775" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f873d2>
+                           #<"RXN-17779" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0ff2b62>
+                           #<"RXN-13615" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fde942>
+                           #<"ACYLCOADEHYDROG-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fe04a2>
+                           #<"BUTYRYL-COA-DEHYDROGENASE-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f22ae2>
+                           #<"PROPCOASYN-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f1f422>
+                           #<"2-METHYLACYL-COA-DEHYDROGENASE-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fa1b92>
+                           #<"MEPROPCOA-FAD-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f96432>)
+                :REPLACED? NIL
+                :FUNCTIONS "Acyl-CoA dehydrogenase"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN 2-METHYLACYL-COA-DEHYDROGENASE-RXN
+                :HIT #<"RSP_0156" instance frame in GCF_000012905BASE[F] @
+                       #x100a0828df2>
+                :PROB 0.92356706
+                :RXN-NAME NIL
+                :RXN-EC "1.3.8.5"
+                :PWY-LIST (#<"ILEUDEG-PWY" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0ff76f2>)
+                :ALL-RXNS (#<"RXN-17783" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f5fce2>
+                           #<"RXN-14278" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0ff3012>
+                           #<"RXN-14229" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fb8182>
+                           #<"RXN-17775" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f873d2>
+                           #<"RXN-17779" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0ff2b62>
+                           #<"RXN-13615" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fde942>
+                           #<"ACYLCOADEHYDROG-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fe04a2>
+                           #<"BUTYRYL-COA-DEHYDROGENASE-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f22ae2>
+                           #<"PROPCOASYN-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f1f422>
+                           #<"2-METHYLACYL-COA-DEHYDROGENASE-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fa1b92>
+                           #<"MEPROPCOA-FAD-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f96432>)
+                :REPLACED? NIL
+                :FUNCTIONS "Acyl-CoA dehydrogenase"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN 4.1.1.68-RXN
+                :HIT #<"RSP_0173" instance frame in GCF_000012905BASE[F] @
+                       #x100a0828a62>
+                :PROB 0.995418
+                :RXN-NAME NIL
+                :RXN-EC "4.1.1.68"
+                :PWY-LIST (#<"3-HYDROXYPHENYLACETATE-DEGRADATION-PWY" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0ff87d2>)
+                :ALL-RXNS (#<"2-OXOPENT-4-ENOATE-HYDRATASE-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a1008492>
+                           #<"RXN-20764" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f82362>
+                           #<"RXN-10381" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f71e32>
+                           #<"HYDROXYHEPTA-DIENEDIOATE-HYDROXY-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fd6932>
+                           #<"4.1.1.68-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f6f102>
+                           #<"CARBOXY-OXOHEPT-ENEDIOATE-DECARBOXY-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f1ee52>
+                           #<"RXN1K-87" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0ff2592>)
+                :REPLACED? NIL
+                :FUNCTIONS "2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1 7-dioic acid hydratase"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN RXN-10669
+                :HIT #<"RSP_0264" instance frame in GCF_000012905BASE[F] @
+                       #x100a0827802>
+                :PROB 0.9189165
+                :RXN-NAME NIL
+                :RXN-EC "2.1.1.210"
+                :PWY-LIST (#<"PWY-6286" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f3df62>)
+                :ALL-RXNS (#<"RXN-10669" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0febab2>
+                           #<"RXN-11648" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f4dce2>)
+                :REPLACED? NIL
+                :FUNCTIONS "hydroxyneurosporene-O-methyltransferase"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN RXN-11648
+                :HIT #<"RSP_0264" instance frame in GCF_000012905BASE[F] @
+                       #x100a0827802>
+                :PROB 0.9489817
+                :RXN-NAME NIL
+                :RXN-EC "2.1.1.-"
+                :PWY-LIST (#<"PWY-6581" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fd3c32>)
+                :ALL-RXNS (#<"RXN-10669" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0febab2>
+                           #<"RXN-11648" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f4dce2>)
+                :REPLACED? NIL
+                :FUNCTIONS "hydroxyneurosporene-O-methyltransferase"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN RXN-11650
+                :HIT #<"RSP_0266" instance frame in GCF_000012905BASE[F] @
+                       #x100a08277a2>
+                :PROB 0.9926383
+                :RXN-NAME NIL
+                :RXN-EC NIL
+                :PWY-LIST (#<"PWY-6581" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fd3c32>)
+                :ALL-RXNS (#<"RXN-11647" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fc6e82>
+                           #<"RXN-10667" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fd87f2>
+                           #<"RXN-10666" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f0e172>
+                           #<"RXN-12412" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f06f72>
+                           #<"RXN-11650" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f29532>)
+                :REPLACED? NIL
+                :FUNCTIONS "Methoxyneurosporene dehydrogenase"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN RXN-12412
+                :HIT #<"RSP_0266" instance frame in GCF_000012905BASE[F] @
+                       #x100a08277a2>
+                :PROB 0.9789289
+                :RXN-NAME NIL
+                :RXN-EC NIL
+                :PWY-LIST (#<"PWY-6581" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fd3c32>)
+                :ALL-RXNS (#<"RXN-11647" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fc6e82>
+                           #<"RXN-10667" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fd87f2>
+                           #<"RXN-10666" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f0e172>
+                           #<"RXN-12412" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f06f72>
+                           #<"RXN-11650" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f29532>)
+                :REPLACED? NIL
+                :FUNCTIONS "Methoxyneurosporene dehydrogenase"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN RXN-10666
+                :HIT #<"RSP_0266" instance frame in GCF_000012905BASE[F] @
+                       #x100a08277a2>
+                :PROB 0.9905693
+                :RXN-NAME NIL
+                :RXN-EC "1.14.99.-"
+                :PWY-LIST (#<"PWY-6286" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f3df62>)
+                :ALL-RXNS (#<"RXN-11647" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fc6e82>
+                           #<"RXN-10667" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fd87f2>
+                           #<"RXN-10666" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f0e172>
+                           #<"RXN-12412" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f06f72>
+                           #<"RXN-11650" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f29532>)
+                :REPLACED? NIL
+                :FUNCTIONS "Methoxyneurosporene dehydrogenase"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN RXN-10667
+                :HIT #<"RSP_0266" instance frame in GCF_000012905BASE[F] @
+                       #x100a08277a2>
+                :PROB 0.9462283
+                :RXN-NAME "methoxyneurosporene 3,4-desaturase"
+                :RXN-EC "1.14.99.-"
+                :PWY-LIST (#<"PWY-6286" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f3df62>)
+                :ALL-RXNS (#<"RXN-11647" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fc6e82>
+                           #<"RXN-10667" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fd87f2>
+                           #<"RXN-10666" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f0e172>
+                           #<"RXN-12412" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f06f72>
+                           #<"RXN-11650" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f29532>)
+                :REPLACED? NIL
+                :FUNCTIONS "Methoxyneurosporene dehydrogenase"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN RXN-11649
+                :HIT #<"RSP_0267" instance frame in GCF_000012905BASE[F] @
+                       #x100a0827772>
+                :PROB 0.97786695
+                :RXN-NAME NIL
+                :RXN-EC NIL
+                :PWY-LIST (#<"PWY-6581" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fd3c32>)
+                :ALL-RXNS (#<"RXN-12723" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0ffc282>
+                           #<"RXN-19138" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f9b532>
+                           #<"RXN-10643" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fbab52>
+                           #<"RXN-12722" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f70752>
+                           #<"RXN-16055" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f71952>
+                           #<"RXN-10665" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f800b2>
+                           #<"RXN-11649" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fd9f32>)
+                :REPLACED? NIL
+                :FUNCTIONS "Hydroxyneurosporene dehydrogenase"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN SEDOHEPTULOSE-BISPHOSPHATASE-RXN
+                :HIT #<"RSP_0404" instance frame in GCF_000012905BASE[F] @
+                       #x100a0825d32>
+                :PROB 0.99250907
+                :RXN-NAME NIL
+                :RXN-EC "3.1.3.37"
+                :PWY-LIST (#<"CALVIN-PWY" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f377b2>)
+                :ALL-RXNS (#<"F16BDEPHOS-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f90a62>
+                           #<"SEDOHEPTULOSE-BISPHOSPHATASE-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f8aee2>)
+                :REPLACED? NIL
+                :FUNCTIONS "fructose - 1,6 - bisphosphatase, GlpX"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN RXN-14384
+                :HIT #<"RSP_0530" instance frame in GCF_000012905BASE[F] @
+                       #x100a0824562>
+                :PROB 0.9987371
+                :RXN-NAME NIL
+                :RXN-EC "2.8.1.-"
+                :PWY-LIST (#<"PWY-7250" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f81c42>)
+                :ALL-RXNS (#<"RXN-12588" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f3d0c2>
+                           #<"RXN-12587" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fb6772>
+                           #<"RXN-9787" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fa3de2>
+                           #<"RXN-14382" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fad142>
+                           #<"RXN-15881" instance frame in GCF_000012905BASE[F]
+                             @ #x100a1004772>
+                           #<"RXN-14385" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fe4642>
+                           #<"RXN-20037" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f874f2>
+                           #<"RXN0-308" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f8d102>
+                           #<"RXN-12621" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f07a52>
+                           #<"RXN-14386" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f735d2>
+                           #<"RXN-14384" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f96762>)
+                :REPLACED? NIL
+                :FUNCTIONS "Cysteine desulfurase"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN RXN-14386
+                :HIT #<"RSP_0530" instance frame in GCF_000012905BASE[F] @
+                       #x100a0824562>
+                :PROB 0.9987371
+                :RXN-NAME NIL
+                :RXN-EC "2.8.1.-"
+                :PWY-LIST (#<"PWY-7250" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f81c42>)
+                :ALL-RXNS (#<"RXN-12588" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f3d0c2>
+                           #<"RXN-12587" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fb6772>
+                           #<"RXN-9787" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fa3de2>
+                           #<"RXN-14382" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fad142>
+                           #<"RXN-15881" instance frame in GCF_000012905BASE[F]
+                             @ #x100a1004772>
+                           #<"RXN-14385" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fe4642>
+                           #<"RXN-20037" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f874f2>
+                           #<"RXN0-308" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f8d102>
+                           #<"RXN-12621" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f07a52>
+                           #<"RXN-14386" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f735d2>
+                           #<"RXN-14384" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f96762>)
+                :REPLACED? NIL
+                :FUNCTIONS "Cysteine desulfurase"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN 2.1.1.71-RXN
+                :HIT #<"RSP_0721" instance frame in GCF_000012905BASE[F] @
+                       #x100a0822042>
+                :PROB 0.99391615
+                :RXN-NAME NIL
+                :RXN-EC "2.1.1.71"
+                :PWY-LIST (#<"PWY-6825" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f5f682>)
+                :ALL-RXNS (#<"2.1.1.17-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f7e582>
+                           #<"RXN4FS-2" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f16ab2>
+                           #<"2.1.1.71-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fe9022>)
+                :REPLACED? NIL
+                :FUNCTIONS "Phosphatidylethanolamine N-methyltransferase"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN RXN4FS-2
+                :HIT #<"RSP_0721" instance frame in GCF_000012905BASE[F] @
+                       #x100a0822042>
+                :PROB 0.96475136
+                :RXN-NAME NIL
+                :RXN-EC "2.1.1.71"
+                :PWY-LIST (#<"PWY-6825" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f5f682>)
+                :ALL-RXNS (#<"2.1.1.17-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f7e582>
+                           #<"RXN4FS-2" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f16ab2>
+                           #<"2.1.1.71-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fe9022>)
+                :REPLACED? NIL
+                :FUNCTIONS "Phosphatidylethanolamine N-methyltransferase"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN RXN-16457
+                :HIT #<"RSP_0738" instance frame in GCF_000012905BASE[F] @
+                       #x100a0821ce2>
+                :PROB 0.9873633
+                :RXN-NAME NIL
+                :RXN-EC NIL
+                :PWY-LIST (#<"PWY-7639" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f79632>)
+                :ALL-RXNS (#<"RXN0-262" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fe5f32>
+                           #<"RXN-16427" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f3bdd2>
+                           #<"RXN-16456" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f20172>
+                           #<"RXN-16457" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fea042>)
+                :REPLACED? NIL
+                :FUNCTIONS "molybdenum cofactor guanylyltransferase"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN RXN-14394
+                :HIT #<"RSP_0745" instance frame in GCF_000012905BASE[F] @
+                       #x100a0821b32>
+                :PROB 0.996541
+                :RXN-NAME NIL
+                :RXN-EC "2.3.1.16"
+                :PWY-LIST (#<"PWY0-1337" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f9b3b2>)
+                :ALL-RXNS (#<"ACETYL-COA-ACETYLTRANSFER-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fca242>
+                           #<"RXN-20154" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f45702>
+                           #<"RXN-20155" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f94d82>
+                           #<"RXN-14394" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f1a832>)
+                :REPLACED? NIL
+                :FUNCTIONS "acetyl-CoA acetyltransferase"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN RXN-11176
+                :HIT #<"RSP_0790" instance frame in GCF_000012905BASE[F] @
+                       #x100a08212c2>
+                :PROB 0.9964249
+                :RXN-NAME NIL
+                :RXN-EC "1.21.98.4"
+                :PWY-LIST (#<"PWY-6420" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f7acb2>)
+                :ALL-RXNS (#<"RXN-11176" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f3f8e2>)
+                :REPLACED? NIL
+                :FUNCTIONS "pyrroloquinoline quinone biosynthesis protein PqqE"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN CYSTEINE-AMINOTRANSFERASE-RXN
+                :HIT #<"RSP_0886" instance frame in GCF_000012905BASE[F] @
+                       #x100a0820002>
+                :PROB 0.99239904
+                :RXN-NAME NIL
+                :RXN-EC "2.6.1.3"
+                :PWY-LIST (#<"PWY0-1534" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f7eca2>)
+                :ALL-RXNS (#<"TRYPTOPHAN-AMINOTRANSFERASE-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f3d572>
+                           #<"RXN-15200" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f6f672>
+                           #<"TYROSINE-AMINOTRANSFERASE-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f7d262>
+                           #<"RXN-10814" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f00642>
+                           #<"2.6.1.57-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f1c032>
+                           #<"CYSTEINE-AMINOTRANSFERASE-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f117a2>)
+                :REPLACED? NIL
+                :FUNCTIONS "aromatic amino acid aminotransferase apoenzyme"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN RXN-8958
+                :HIT #<"RSP_0961" instance frame in GCF_000012905BASE[F] @
+                       #x100a081f102>
+                :PROB 0.9189165
+                :RXN-NAME NIL
+                :RXN-EC "5.4.99.63"
+                :PWY-LIST (#<"PWY-5741" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fd4892>)
+                :ALL-RXNS (#<"METHYLMALONYL-COA-MUT-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a100a4a2>
+                           #<"RXN-8958" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f34992>)
+                :REPLACED? NIL
+                :FUNCTIONS "(R)-ethylmalonyl-CoA mutase"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN L-LACTATE-DEHYDROGENASE-RXN
+                :HIT #<"RSP_0968" instance frame in GCF_000012905BASE[F] @
+                       #x100a081efb2>
+                :PROB 0.9998273
+                :RXN-NAME NIL
+                :RXN-EC "1.1.1.27"
+                :PWY-LIST (#<"PWY-6901" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f9e052>
+                           #<"PWY-8086" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fa67b2>)
+                :ALL-RXNS (#<"MALATE-DEH-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f0eda2>
+                           #<"L-LACTATE-DEHYDROGENASE-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f60672>)
+                :REPLACED? NIL
+                :FUNCTIONS "malate dehydrogenase (NAD)"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN FHLMULTI-RXN
+                :HIT #<"RSP_1080" instance frame in GCF_000012905BASE[F] @
+                       #x100a081d9f2>
+                :PROB 0.9111924
+                :RXN-NAME NIL
+                :RXN-EC NIL
+                :PWY-LIST (#<"PWY-8086" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fa67b2>
+                           #<"FERMENTATION-PWY" instance frame in GCF_000012905BASE[F]
+                             @ #x100a1005582>)
+                :ALL-RXNS (#<"FHLMULTI-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fbf742>
+                           #<"RXN0-3281" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fa90f2>
+                           #<"RXN-12275" instance frame in GCF_000012905BASE[F]
+                             @ #x100a10043e2>)
+                :REPLACED? NIL
+                :FUNCTIONS "formate dehydrogenase alpha subunit"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN RXN-16881
+                :HIT #<"RSP_1091" instance frame in GCF_000012905BASE[F] @
+                       #x100a081d752>
+                :PROB 0.9189165
+                :RXN-NAME NIL
+                :RXN-EC NIL
+                :PWY-LIST (#<"PWY-7691" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f0aed2>)
+                :ALL-RXNS (#<"RXN-16881" instance frame in GCF_000012905BASE[F]
+                             @ #x100a100be52>)
+                :REPLACED? NIL
+                :FUNCTIONS "Putative cyclopropane/cyclopropene fatty acid synthesis protein, flavin amine oxidase"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN RXN-12104
+                :HIT #<"RSP_1143" instance frame in GCF_000012905BASE[F] @
+                       #x100a081cdf2>
+                :PROB 0.98306364
+                :RXN-NAME NIL
+                :RXN-EC "1.17.99.6"
+                :PWY-LIST (#<"PWY-6700" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fbc382>)
+                :ALL-RXNS (#<"RXN-12104" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f984a2>)
+                :REPLACED? NIL
+                :FUNCTIONS "4Fe-4S ferredoxin, iron-sulfur cluster binding protein"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN N-ACETYLTRANSFER-RXN
+                :HIT #<"RSP_1167" instance frame in GCF_000012905BASE[F] @
+                       #x100a081c942>
+                :PROB 0.9921327
+                :RXN-NAME NIL
+                :RXN-EC "2.3.1.1"
+                :PWY-LIST (#<"GLUTORN-PWY" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fa2462>)
+                :ALL-RXNS (#<"GLUTAMATE-N-ACETYLTRANSFERASE-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fb3c22>
+                           #<"N-ACETYLTRANSFER-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fb0fe2>)
+                :REPLACED? NIL
+                :FUNCTIONS "glutamate N-acetyltransferase"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN RXN-14391
+                :HIT #<"RSP_1173" instance frame in GCF_000012905BASE[F] @
+                       #x100a081c822>
+                :PROB 0.9189165
+                :RXN-NAME NIL
+                :RXN-EC "3.6.4.-"
+                :PWY-LIST (#<"PWY-7250" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f81c42>)
+                :ALL-RXNS (#<"RXN-14391" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f14e62>
+                           #<"RXN-14390" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fa00f2>
+                           #<"RXN-14389" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f41292>)
+                :REPLACED? NIL
+                :FUNCTIONS "Heat shock protein (Hsp70, DnaK)"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN RXN-14390
+                :HIT #<"RSP_1173" instance frame in GCF_000012905BASE[F] @
+                       #x100a081c822>
+                :PROB 0.9189165
+                :RXN-NAME NIL
+                :RXN-EC NIL
+                :PWY-LIST (#<"PWY-7250" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f81c42>)
+                :ALL-RXNS (#<"RXN-14391" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f14e62>
+                           #<"RXN-14390" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fa00f2>
+                           #<"RXN-14389" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f41292>)
+                :REPLACED? NIL
+                :FUNCTIONS "Heat shock protein (Hsp70, DnaK)"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN RXN-14389
+                :HIT #<"RSP_1173" instance frame in GCF_000012905BASE[F] @
+                       #x100a081c822>
+                :PROB 0.9189165
+                :RXN-NAME NIL
+                :RXN-EC NIL
+                :PWY-LIST (#<"PWY-7250" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f81c42>)
+                :ALL-RXNS (#<"RXN-14391" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f14e62>
+                           #<"RXN-14390" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fa00f2>
+                           #<"RXN-14389" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f41292>)
+                :REPLACED? NIL
+                :FUNCTIONS "Heat shock protein (Hsp70, DnaK)"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN 1.1.1.39-RXN
+                :HIT #<"RSP_1217" instance frame in GCF_000012905BASE[F] @
+                       #x100a081c012>
+                :PROB 0.9977129
+                :RXN-NAME NIL
+                :RXN-EC "1.1.1.38"
+                :PWY-LIST (#<"GLUCONEO-PWY" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f7b432>)
+                :ALL-RXNS (#<"PHOSACETYLTRANS-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f40992>
+                           #<"MALIC-NADP-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f35142>
+                           #<"MALATE-DEHYDROGENASE-NADP+-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a1005b52>
+                           #<"1.1.1.39-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f1ff32>
+                           #<"MALATE-DEH-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f0eda2>
+                           #<"OXALODECARB-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fee362>)
+                :REPLACED? NIL
+                :FUNCTIONS "phosphate acetyltransferase"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN 2-OCTAPRENYL-METHOXY-BENZOQ-METH-RXN
+                :HIT #<"RSP_1338" instance frame in GCF_000012905BASE[F] @
+                       #x100a081a8d2>
+                :PROB 0.97773623
+                :RXN-NAME NIL
+                :RXN-EC "2.1.1.201"
+                :PWY-LIST (#<"PWY-6708" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f1b372>)
+                :ALL-RXNS (#<"2-OCTAPRENYL-METHOXY-BENZOQ-METH-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fd1892>)
+                :REPLACED? NIL
+                :FUNCTIONS "demethylmenaquinone methyltransferase; 2-octaprenyl-6-methoxy-1,4-benzoquinone methylase"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN RXN0-6510
+                :HIT #<"RSP_1340" instance frame in GCF_000012905BASE[F] @
+                       #x100a081a872>
+                :PROB 0.96475136
+                :RXN-NAME NIL
+                :RXN-EC "5.3.3.18"
+                :PWY-LIST (#<"PWY0-321" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f7f932>)
+                :ALL-RXNS (#<"RXN-7931" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0ffecb2>
+                           #<"ENOYL-COA-DELTA-ISOM-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fb3892>
+                           #<"RXN-2425" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f71532>
+                           #<"TIGLYLCOA-HYDROXY-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f8fb32>
+                           #<"METHYLACYLYLCOA-HYDROXY-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f31422>
+                           #<"RXN0-5393" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0ff2ce2>
+                           #<"RXN-11667" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fe0622>
+                           #<"RXN-12567" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f9cfa2>
+                           #<"RXN-17780" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f42342>
+                           #<"RXN-17776" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f15042>
+                           #<"RXN-20678" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0ff9a02>
+                           #<"RXN-13616" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f6d242>
+                           #<"RXN-20675" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f09612>
+                           #<"ENOYL-COA-HYDRAT-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f48fd2>
+                           #<"RXN0-6510" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f8ce62>)
+                :REPLACED? NIL
+                :FUNCTIONS "Enoyl-CoA hydratase/isomerase"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN ERYTHRON4PDEHYDROG-RXN
+                :HIT #<"RSP_1352" instance frame in GCF_000012905BASE[F] @
+                       #x100a081a632>
+                :PROB 0.99369925
+                :RXN-NAME NIL
+                :RXN-EC "1.1.1.290"
+                :PWY-LIST (#<"PYRIDOXSYN-PWY" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fb1e22>)
+                :ALL-RXNS (#<"PGLYCDEHYDROG-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f9e772>
+                           #<"ERYTHRON4PDEHYDROG-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f92262>)
+                :REPLACED? NIL
+                :FUNCTIONS "D-3-phosphoglycerate dehydrogenase"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN URA-PHOSPH-RXN
+                :HIT #<"RSP_1595" instance frame in GCF_000012905BASE[F] @
+                       #x100a083c7d2>
+                :PROB 0.99909675
+                :RXN-NAME NIL
+                :RXN-EC "2.4.2.2/2.4.2.3"
+                :PWY-LIST (#<"PWY-7181" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f07692>)
+                :ALL-RXNS (#<"THYM-PHOSPH-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f1dd12>
+                           #<"URA-PHOSPH-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fecf22>)
+                :REPLACED? NIL
+                :FUNCTIONS "thymidine phosphorylase"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN ORNITHINE-GLU-AMINOTRANSFERASE-RXN
+                :HIT #<"RSP_2008" instance frame in GCF_000012905BASE[F] @
+                       #x100a08377c2>
+                :PROB 0.9187513
+                :RXN-NAME "Ornithine--oxo-glutarate aminotransferase"
+                :RXN-EC "2.6.1.13"
+                :PWY-LIST (#<"ARGASEDEG-PWY" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0feb512>)
+                :ALL-RXNS (#<"RXN-15007" instance frame in GCF_000012905BASE[F]
+                             @ #x100a1009db2>
+                           #<"ACETYLORNTRANSAM-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0ffbb32>
+                           #<"ORNITHINE-GLU-AMINOTRANSFERASE-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a100eca2>)
+                :REPLACED? NIL
+                :FUNCTIONS "acetylornithine transaminase"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN OHBUTYRYL-COA-EPIM-RXN
+                :HIT #<"RSP_2196" instance frame in GCF_000012905BASE[F] @
+                       #x100a0835302>
+                :PROB 0.9997465
+                :RXN-NAME NIL
+                :RXN-EC "5.1.2.3"
+                :PWY-LIST (#<"FAO-PWY" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f978a2>)
+                :ALL-RXNS (#<"RXN-12570" instance frame in GCF_000012905BASE[F]
+                             @ #x100a100dec2>
+                           #<"OHACYL-COA-DEHYDROG-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a1001412>
+                           #<"RXN0-2044" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fea312>
+                           #<"RXN-14393" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fbd882>
+                           #<"RXN-17781" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fc84d2>
+                           #<"RXN-17777" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fdf9c2>
+                           #<"RXN-12490" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fdbbb2>
+                           #<"RXN-11662" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f50382>
+                           #<"RXN-20679" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f760c2>
+                           #<"RXN-20676" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fa8df2>
+                           #<"OHBUTYRYL-COA-EPIM-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f65442>)
+                :REPLACED? NIL
+                :FUNCTIONS "3-hydroxyacyl-CoA dehydrogenase"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN KDOTRANS2-RXN
+                :HIT #<"RSP_2394" instance frame in GCF_000012905BASE[F] @
+                       #x100a0832b42>
+                :PROB 0.99391615
+                :RXN-NAME NIL
+                :RXN-EC "2.4.99.13"
+                :PWY-LIST (#<"KDOSYN-PWY" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f82272>)
+                :ALL-RXNS (#<"KDOTRANS-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a100ed92>
+                           #<"KDOTRANS2-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fc0b22>)
+                :REPLACED? NIL
+                :FUNCTIONS "putative 3-deoxy-D-manno-octulosonic-acid transferase (KDO transferase)"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN RXN-4301
+                :HIT #<"RSP_2449" instance frame in GCF_000012905BASE[F] @
+                       #x100a0831df2>
+                :PROB 0.99387497
+                :RXN-NAME NIL
+                :RXN-EC "3.2.1.68"
+                :PWY-LIST (#<"PWY-2661" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f630a2>)
+                :ALL-RXNS (#<"RXN-4301" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f1a6e2>)
+                :REPLACED? NIL
+                :FUNCTIONS "Putative glycosyl hydrolase"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN GDPREDUCT-RXN
+                :HIT #<"RSP_2495" instance frame in GCF_000012905BASE[F] @
+                       #x100a08312b2>
+                :PROB 0.9664363
+                :RXN-NAME NIL
+                :RXN-EC "1.17.4.1"
+                :PWY-LIST (#<"PWY-7226" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f15a62>)
+                :ALL-RXNS (#<"GDPREDUCT-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0ff5772>
+                           #<"ADPREDUCT-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0ff5682>)
+                :REPLACED? NIL
+                :FUNCTIONS "ribonucleoside-diphosphate reductase class II"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN ADPREDUCT-RXN
+                :HIT #<"RSP_2495" instance frame in GCF_000012905BASE[F] @
+                       #x100a08312b2>
+                :PROB 0.9664363
+                :RXN-NAME "ADP reductase"
+                :RXN-EC "1.17.4.1"
+                :PWY-LIST (#<"PWY-7227" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fd0f32>)
+                :ALL-RXNS (#<"GDPREDUCT-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0ff5772>
+                           #<"ADPREDUCT-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0ff5682>)
+                :REPLACED? NIL
+                :FUNCTIONS "ribonucleoside-diphosphate reductase class II"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN RXN-1224
+                :HIT #<"RSP_2568" instance frame in GCF_000012905BASE[F] @
+                       #x100a0830442>
+                :PROB 0.99786127
+                :RXN-NAME NIL
+                :RXN-EC "2.4.1.-"
+                :PWY-LIST (#<"PWYQT-4427" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f59e02>)
+                :ALL-RXNS (#<"RXN-1224" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fa2b52>)
+                :REPLACED? NIL
+                :FUNCTIONS "glycosyl transferase (sulfolipid biosynthesis) protein"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN LIPIDXSYNTHESIS-RXN
+                :HIT #<"RSP_2715" instance frame in GCF_000012905BASE[F] @
+                       #x100a082e882>
+                :PROB 0.9363151
+                :RXN-NAME NIL
+                :RXN-EC "3.6.1.54"
+                :PWY-LIST (#<"NAGLIPASYN-PWY" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fa7d42>)
+                :ALL-RXNS (#<"LIPIDXSYNTHESIS-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f9d362>
+                           #<"RXN-20786" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f793c2>)
+                :REPLACED? NIL
+                :FUNCTIONS "hypothetical protein"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN RXN-20786
+                :HIT #<"RSP_2715" instance frame in GCF_000012905BASE[F] @
+                       #x100a082e882>
+                :PROB 0.9363151
+                :RXN-NAME NIL
+                :RXN-EC "3.6.1.54"
+                :PWY-LIST (#<"PWY-8073" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fd6d82>)
+                :ALL-RXNS (#<"LIPIDXSYNTHESIS-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f9d362>
+                           #<"RXN-20786" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f793c2>)
+                :REPLACED? NIL
+                :FUNCTIONS "hypothetical protein"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN RXN-8762
+                :HIT #<"RSP_2821" instance frame in GCF_000012905BASE[F] @
+                       #x100a082d0b2>
+                :PROB 0.91795516
+                :RXN-NAME NIL
+                :RXN-EC "2.1.1.271"
+                :PWY-LIST (#<"PWY-7377" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f8a7f2>)
+                :ALL-RXNS (#<"2.1.1.133-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f2a222>
+                           #<"RXN-8762" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fc2862>)
+                :REPLACED? NIL
+                :FUNCTIONS "precorrin-4 C11-methyltransferase"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN RXN-8766
+                :HIT #<"RSP_2823" instance frame in GCF_000012905BASE[F] @
+                       #x100a082d112>
+                :PROB 0.9111787
+                :RXN-NAME "cobalt-precorrin-6B methylase"
+                :RXN-EC "2.1.1.196"
+                :PWY-LIST (#<"PWY-7377" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f8a7f2>)
+                :ALL-RXNS (#<"2.1.1.132-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fb85a2>
+                           #<"RXN-13824" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fad382>
+                           #<"RXN-13826" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f8b362>
+                           #<"RXN-8766" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f685c2>)
+                :REPLACED? NIL
+                :FUNCTIONS "Putative Precorrin-6y C5,15-methyltransferase"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN RXN-2902
+                :HIT #<"RSP_2962" instance frame in GCF_000012905BASE[F] @
+                       #x100a082b6a2>
+                :PROB 0.95922726
+                :RXN-NAME NIL
+                :RXN-EC "1.2.1.18"
+                :PWY-LIST (#<"P562-PWY" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f957d2>)
+                :ALL-RXNS (#<"RXN-11213" instance frame in GCF_000012905BASE[F]
+                             @ #x100a1003752>
+                           #<"1.2.1.27-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f51342>
+                           #<"RXN-2902" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fda712>)
+                :REPLACED? NIL
+                :FUNCTIONS "methylmalonate-semialdehyde dehydrogenase (acylating)"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN L-ASPARTATE-OXID-RXN
+                :HIT #<"RSP_3147" instance frame in GCF_000012905BASE[F] @
+                       #x100a0da19e2>
+                :PROB 0.91739625
+                :RXN-NAME NIL
+                :RXN-EC "1.4.3.16"
+                :PWY-LIST (#<"PYRIDNUCSYN-PWY" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f53052>)
+                :ALL-RXNS (#<"R601-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f44832>
+                           #<"RXN-14963" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fc7272>
+                           #<"SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fa28b2>
+                           #<"SUCCINATE-DEHYDROGENASE-UBIQUINONE6-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f4f182>
+                           #<"L-ASPARTATE-OXID-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f5a972>)
+                :REPLACED? NIL
+                :FUNCTIONS "putative succinate dehydrogenase/fumarate reductase, flavoprotein subunit"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN RXN-16614
+                :HIT #<"RSP_3178" instance frame in GCF_000012905BASE[F] @
+                       #x100a0da1262>
+                :PROB 0.9956048
+                :RXN-NAME NIL
+                :RXN-EC "5.3.3.14"
+                :PWY-LIST (#<"PWY-7664" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fa2192>)
+                :ALL-RXNS (#<"RXN-16627" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fd3c02>
+                           #<"RXN-16631" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fbc5c2>
+                           #<"RXN-9537" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f2b542>
+                           #<"4.2.1.61-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f24612>
+                           #<"4.2.1.58-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fba732>
+                           #<"RXN-9634" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fdb5e2>
+                           #<"3-HYDROXYDECANOYL-ACP-DEHYDR-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0ff8e32>
+                           #<"RXN-16623" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fcf522>
+                           #<"4.2.1.59-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f3f522>
+                           #<"RXN-9533" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f844c2>
+                           #<"RXN-9655" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f2c5c2>
+                           #<"RXN-16619" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f52572>
+                           #<"RXN-9557" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fe0ad2>
+                           #<"RXN-9520" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fa30c2>
+                           #<"RXN-16614" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fa7ad2>)
+                :REPLACED? NIL
+                :FUNCTIONS "3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabA"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN R221-RXN
+                :HIT #<"RSP_3292" instance frame in GCF_000012905BASE[F] @
+                       #x100a0da41a2>
+                :PROB 0.9111924
+                :RXN-NAME NIL
+                :RXN-EC "1.1.99.-"
+                :PWY-LIST (#<"P221-PWY" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0ff9b82>)
+                :ALL-RXNS (#<"R221-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f89ef2>)
+                :REPLACED? NIL
+                :FUNCTIONS "Glucose-methanol-choline oxidoreductase"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN RXN0-5391
+                :HIT #<"RSP_3535" instance frame in GCF_000012905BASE[F] @
+                       #x100a0d9df92>
+                :PROB 0.9910067
+                :RXN-NAME NIL
+                :RXN-EC "5.3.3.8"
+                :PWY-LIST (#<"PWY0-1337" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f9b3b2>)
+                :ALL-RXNS (#<"RXN-12570" instance frame in GCF_000012905BASE[F]
+                             @ #x100a100dec2>
+                           #<"OHACYL-COA-DEHYDROG-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a1001412>
+                           #<"RXN0-2044" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fea312>
+                           #<"RXN-14393" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fbd882>
+                           #<"RXN-17781" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fc84d2>
+                           #<"RXN-17777" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fdf9c2>
+                           #<"RXN-12490" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fdbbb2>
+                           #<"RXN-11662" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f50382>
+                           #<"RXN-20679" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f760c2>
+                           #<"RXN-20676" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fa8df2>
+                           #<"RXN-2425" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f71532>
+                           #<"TIGLYLCOA-HYDROXY-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f8fb32>
+                           #<"METHYLACYLYLCOA-HYDROXY-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f31422>
+                           #<"RXN0-5393" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0ff2ce2>
+                           #<"RXN-11667" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fe0622>
+                           #<"RXN-12567" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f9cfa2>
+                           #<"RXN-17780" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f42342>
+                           #<"RXN-17776" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f15042>
+                           #<"RXN-20678" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0ff9a02>
+                           #<"RXN-13616" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f6d242>
+                           #<"RXN-20675" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f09612>
+                           #<"ENOYL-COA-HYDRAT-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f48fd2>
+                           #<"RXN0-5391" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f897a2>)
+                :REPLACED? NIL
+                :FUNCTIONS "3-hydroxyacyl-CoA dehydrogenase; short chain enoyl-CoA hydratase"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN METHYLACETOACETYLCOATHIOL-RXN
+                :HIT #<"RSP_3536" instance frame in GCF_000012905BASE[F] @
+                       #x100a0d9c522>
+                :PROB 0.9133309
+                :RXN-NAME NIL
+                :RXN-EC "2.3.1.16"
+                :PWY-LIST (#<"ILEUDEG-PWY" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0ff76f2>)
+                :ALL-RXNS (#<"RXN-3641" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f6fd02>
+                           #<"RXN-10086" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f80682>
+                           #<"KETOACYLCOATHIOL-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fd4b62>
+                           #<"RXN-12565" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f43ab2>
+                           #<"RXN-14277" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f5c982>
+                           #<"RXN-13617" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f27cd2>
+                           #<"RXN-14274" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fc5412>
+                           #<"RXN-17778" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f66972>
+                           #<"RXN-17782" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fe4282>
+                           #<"RXN0-6512" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fb3d72>
+                           #<"METHYLACETOACETYLCOATHIOL-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0ff7752>)
+                :REPLACED? NIL
+                :FUNCTIONS "3-oxoadipyl-CoA thiolase"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN RXN0-6512
+                :HIT #<"RSP_3536" instance frame in GCF_000012905BASE[F] @
+                       #x100a0d9c522>
+                :PROB 0.99941564
+                :RXN-NAME NIL
+                :RXN-EC "2.3.1.223"
+                :PWY-LIST (#<"PWY0-321" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f7f932>)
+                :ALL-RXNS (#<"RXN-3641" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f6fd02>
+                           #<"RXN-10086" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f80682>
+                           #<"KETOACYLCOATHIOL-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fd4b62>
+                           #<"RXN-12565" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f43ab2>
+                           #<"RXN-14277" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f5c982>
+                           #<"RXN-13617" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f27cd2>
+                           #<"RXN-14274" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fc5412>
+                           #<"RXN-17778" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f66972>
+                           #<"RXN-17782" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fe4282>
+                           #<"RXN0-6512" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fb3d72>
+                           #<"METHYLACETOACETYLCOATHIOL-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0ff7752>)
+                :REPLACED? NIL
+                :FUNCTIONS "3-oxoadipyl-CoA thiolase"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN RXN-17782
+                :HIT #<"RSP_3536" instance frame in GCF_000012905BASE[F] @
+                       #x100a0d9c522>
+                :PROB 0.99845344
+                :RXN-NAME NIL
+                :RXN-EC "2.3.1.16"
+                :PWY-LIST (#<"PWY0-1337" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f9b3b2>)
+                :ALL-RXNS (#<"RXN-3641" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f6fd02>
+                           #<"RXN-10086" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f80682>
+                           #<"KETOACYLCOATHIOL-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fd4b62>
+                           #<"RXN-12565" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f43ab2>
+                           #<"RXN-14277" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f5c982>
+                           #<"RXN-13617" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f27cd2>
+                           #<"RXN-14274" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fc5412>
+                           #<"RXN-17778" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f66972>
+                           #<"RXN-17782" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fe4282>
+                           #<"RXN0-6512" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fb3d72>
+                           #<"METHYLACETOACETYLCOATHIOL-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0ff7752>)
+                :REPLACED? NIL
+                :FUNCTIONS "3-oxoadipyl-CoA thiolase"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN RXN-17778
+                :HIT #<"RSP_3536" instance frame in GCF_000012905BASE[F] @
+                       #x100a0d9c522>
+                :PROB 0.99845344
+                :RXN-NAME NIL
+                :RXN-EC "2.3.1.16"
+                :PWY-LIST (#<"PWY0-1337" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f9b3b2>)
+                :ALL-RXNS (#<"RXN-3641" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f6fd02>
+                           #<"RXN-10086" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f80682>
+                           #<"KETOACYLCOATHIOL-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fd4b62>
+                           #<"RXN-12565" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f43ab2>
+                           #<"RXN-14277" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f5c982>
+                           #<"RXN-13617" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f27cd2>
+                           #<"RXN-14274" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fc5412>
+                           #<"RXN-17778" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f66972>
+                           #<"RXN-17782" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fe4282>
+                           #<"RXN0-6512" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fb3d72>
+                           #<"METHYLACETOACETYLCOATHIOL-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0ff7752>)
+                :REPLACED? NIL
+                :FUNCTIONS "3-oxoadipyl-CoA thiolase"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN RXN-14274
+                :HIT #<"RSP_3536" instance frame in GCF_000012905BASE[F] @
+                       #x100a0d9c522>
+                :PROB 0.99845344
+                :RXN-NAME "decanoyl-CoA C-acyltransferase"
+                :RXN-EC "2.3.1.16"
+                :PWY-LIST (#<"PWY0-1337" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f9b3b2>)
+                :ALL-RXNS (#<"RXN-3641" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f6fd02>
+                           #<"RXN-10086" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f80682>
+                           #<"KETOACYLCOATHIOL-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fd4b62>
+                           #<"RXN-12565" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f43ab2>
+                           #<"RXN-14277" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f5c982>
+                           #<"RXN-13617" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f27cd2>
+                           #<"RXN-14274" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fc5412>
+                           #<"RXN-17778" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f66972>
+                           #<"RXN-17782" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fe4282>
+                           #<"RXN0-6512" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fb3d72>
+                           #<"METHYLACETOACETYLCOATHIOL-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0ff7752>)
+                :REPLACED? NIL
+                :FUNCTIONS "3-oxoadipyl-CoA thiolase"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN RXN-13617
+                :HIT #<"RSP_3536" instance frame in GCF_000012905BASE[F] @
+                       #x100a0d9c522>
+                :PROB 0.99845344
+                :RXN-NAME NIL
+                :RXN-EC "2.3.1.16"
+                :PWY-LIST (#<"PWY0-1337" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f9b3b2>)
+                :ALL-RXNS (#<"RXN-3641" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f6fd02>
+                           #<"RXN-10086" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f80682>
+                           #<"KETOACYLCOATHIOL-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fd4b62>
+                           #<"RXN-12565" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f43ab2>
+                           #<"RXN-14277" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f5c982>
+                           #<"RXN-13617" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f27cd2>
+                           #<"RXN-14274" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fc5412>
+                           #<"RXN-17778" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f66972>
+                           #<"RXN-17782" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fe4282>
+                           #<"RXN0-6512" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fb3d72>
+                           #<"METHYLACETOACETYLCOATHIOL-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0ff7752>)
+                :REPLACED? NIL
+                :FUNCTIONS "3-oxoadipyl-CoA thiolase"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN RXN-14277
+                :HIT #<"RSP_3536" instance frame in GCF_000012905BASE[F] @
+                       #x100a0d9c522>
+                :PROB 0.99845344
+                :RXN-NAME "hexanoyl-CoA C-acyltransferase"
+                :RXN-EC "2.3.1.16"
+                :PWY-LIST (#<"PWY0-1337" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f9b3b2>)
+                :ALL-RXNS (#<"RXN-3641" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f6fd02>
+                           #<"RXN-10086" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f80682>
+                           #<"KETOACYLCOATHIOL-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fd4b62>
+                           #<"RXN-12565" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f43ab2>
+                           #<"RXN-14277" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f5c982>
+                           #<"RXN-13617" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f27cd2>
+                           #<"RXN-14274" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fc5412>
+                           #<"RXN-17778" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f66972>
+                           #<"RXN-17782" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fe4282>
+                           #<"RXN0-6512" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fb3d72>
+                           #<"METHYLACETOACETYLCOATHIOL-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0ff7752>)
+                :REPLACED? NIL
+                :FUNCTIONS "3-oxoadipyl-CoA thiolase"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN RXN-12565
+                :HIT #<"RSP_3536" instance frame in GCF_000012905BASE[F] @
+                       #x100a0d9c522>
+                :PROB 0.99845344
+                :RXN-NAME NIL
+                :RXN-EC "2.3.1.16"
+                :PWY-LIST (#<"PWY0-1337" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f9b3b2>)
+                :ALL-RXNS (#<"RXN-3641" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f6fd02>
+                           #<"RXN-10086" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f80682>
+                           #<"KETOACYLCOATHIOL-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fd4b62>
+                           #<"RXN-12565" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f43ab2>
+                           #<"RXN-14277" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f5c982>
+                           #<"RXN-13617" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f27cd2>
+                           #<"RXN-14274" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fc5412>
+                           #<"RXN-17778" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f66972>
+                           #<"RXN-17782" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fe4282>
+                           #<"RXN0-6512" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fb3d72>
+                           #<"METHYLACETOACETYLCOATHIOL-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0ff7752>)
+                :REPLACED? NIL
+                :FUNCTIONS "3-oxoadipyl-CoA thiolase"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN KETOACYLCOATHIOL-RXN
+                :HIT #<"RSP_3536" instance frame in GCF_000012905BASE[F] @
+                       #x100a0d9c522>
+                :PROB 0.99845344
+                :RXN-NAME NIL
+                :RXN-EC "2.3.1.16"
+                :PWY-LIST (#<"FAO-PWY" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f978a2>)
+                :ALL-RXNS (#<"RXN-3641" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f6fd02>
+                           #<"RXN-10086" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f80682>
+                           #<"KETOACYLCOATHIOL-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fd4b62>
+                           #<"RXN-12565" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f43ab2>
+                           #<"RXN-14277" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f5c982>
+                           #<"RXN-13617" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f27cd2>
+                           #<"RXN-14274" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fc5412>
+                           #<"RXN-17778" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f66972>
+                           #<"RXN-17782" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fe4282>
+                           #<"RXN0-6512" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fb3d72>
+                           #<"METHYLACETOACETYLCOATHIOL-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0ff7752>)
+                :REPLACED? NIL
+                :FUNCTIONS "3-oxoadipyl-CoA thiolase"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN R501-RXN
+                :HIT #<"RSP_3978" instance frame in GCF_000012905BASE[F] @
+                       #x100a0d9b8c2>
+                :PROB 0.9189165
+                :RXN-NAME NIL
+                :RXN-EC "1.14.13.ex"
+                :PWY-LIST (#<"P561-PWY" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f4c062>)
+                :ALL-RXNS (#<"R501-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a100ef12>)
+                :REPLACED? NIL
+                :FUNCTIONS "ring hydroxylating dioxygenase, alpha subunit"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN RXN-15941
+                :HIT #<"RSP_4007" instance frame in GCF_000012905BASE[F] @
+                       #x100a0d9c0a2>
+                :PROB 0.9189165
+                :RXN-NAME NIL
+                :RXN-EC "5.1.1.22"
+                :PWY-LIST (#<"P561-PWY" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f4c062>)
+                :ALL-RXNS (#<"HYDROXY-MANDELATE-RACEMASE-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f27372>
+                           #<"MANDELATE-RACEMASE-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f00042>
+                           #<"MUCONATE-CYCLOISOMERASE-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f5c412>
+                           #<"RXN-15941" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f0c672>)
+                :REPLACED? NIL
+                :FUNCTIONS "Mandelate racemase/muconate lactonizing enzyme"
+                :DATE 3792349323)
+ #S(FILLED-HOLE :RXN 2.7.7.13-RXN
+                :HIT #<"RSP_4053" instance frame in GCF_000012905BASE[F] @
+                       #x100a0d9f762>
+                :PROB 0.9993365
+                :RXN-NAME NIL
+                :RXN-EC "2.7.7.13"
+                :PWY-LIST (#<"PWY-5659" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f69d02>)
+                :ALL-RXNS (#<"MANNPGUANYLTRANGDP-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0fa1952>
+                           #<"2.7.7.13-RXN" instance frame in GCF_000012905BASE[F]
+                             @ #x100a0f8a0d2>)
+                :REPLACED? NIL
+                :FUNCTIONS "mannose-1-phosphate guanylyltransferase (GDP)"
+                :DATE 3792349323)) 

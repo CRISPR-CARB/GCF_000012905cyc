@@ -1,0 +1,15 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Lines starting with ; are comment lines. Each non-comment line is of the form:
+;; ATTRIBUTE	value
+;; The separator character is the Tab character.
+;; Valid attributes are:
+;;
+;; ORGID [BioCyc database unique id for the organism]
+;; ORGANISM [full species and strain name]
+;; VERSION [current database version of the organism]
+;; RELEASE-DATE [flat file creation date]
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ORGID	GCF_000012905
+ORGANISM	R. sphaeroides 2.4.1; ATCC BAA-808
+VERSION	28.1
+RELEASE-DATE	Tue Jul 23, 2024

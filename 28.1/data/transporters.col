@@ -1,0 +1,147 @@
+# 
+#
+# Authors:
+#    Pallavi Subhraveti
+#    Ingrid Keseler
+#    Anamika Kothari
+#    Ron Caspi
+#    Peter D Karp
+#
+# Please see the license agreement regarding the use of and distribution of this file.
+# The format of this file is defined at http://bioinformatics.ai.sri.com/ptools/flatfile-format.html .
+#
+# Filename: /home/kaffir4/brg/tier3-28.0/gcf_000012905cyc/28.1/data/transporters.col
+#
+# Organism: Rhodobacter sphaeroides 2.4.1; ATCC BAA-808
+# Database: gcf_000012905cyc
+# Version: 28.1
+# Date and time generated: July 23, 2024, 17:44:08
+#
+UNIQUE-ID	NAME	REACTION-EQUATION	SUBUNIT-COMPOSITION
+CPLX1ZK9-59	predicted ABC transporter of nitrate/a sulfonate/hydrogencarbonate	a sulfonate[periplasm] + ATP + H2O  <-->  a sulfonate[cytosol] + ADP + phosphate + H+	1*RSP_3154-MONOMER,1*RSP_3152-MONOMER,1*RSP_3151-MONOMER,1*RSP_3153-MONOMER
+CPLX1ZK9-48	predicted ABC transporter of L-proline betaine/glycine betaine	glycine betaine[periplasm] + ATP + H2O  <-->  glycine betaine[cytosol] + ADP + phosphate + H+	1*RSP_3059-MONOMER,1*RSP_3058-MONOMER
+		2 H+[in]  <-->  2 H+[out]	
+CPLX1ZK9-49	predicted ABC transporter of thiamine	ATP + thiamine[periplasm] + H2O  <-->  ADP + thiamine[cytosol] + phosphate + H+	1*RSP_1391-MONOMER,1*RSP_1393-MONOMER
+CPLX1ZK9-52	predicted ABC transporter of glycine betaine/L-proline	ATP + L-proline[periplasm] + H2O  <-->  ADP + L-proline[cytosol] + phosphate + H+	1*RSP_2180-MONOMER,1*RSP_2181-MONOMER
+RSP_3103-MONOMER	polyketide cyclase/dehydrase and lipid transport protein	polyketide[periplasm]  <-->  polyketide[cytosol]	1*RSP_3103-MONOMER
+		4 H+[in]  <-->  4 H+[out]	
+RSP_1089-MONOMER	sugar/cation symporter, GPH family	a sugar[periplasm] + a metal cation[periplasm]  <-->  a sugar[cytosol] + a metal cation[cytosol]	1*RSP_1089-MONOMER
+RSP_1897-MONOMER	Mg/Co/Ni transporter, MgtE	Mg2+[periplasm]  <-->  Mg2+[cytosol]	1*RSP_1897-MONOMER
+RSP_3858-MONOMER	sulfate/molybdate ABC transporter ATPase	selenate[out] + ATP + H2O  <-->  selenate[in] + ADP + phosphate + H+	1*RSP_3858-MONOMER
+CPLX1ZK9-99	predicted ABC transporter of a Coalpha-[alpha-(5,6-dimethylbenzimidazolyl)]-cobamide/Fe3+	a Coalpha-[alpha-(5,6-dimethylbenzimidazolyl)]-cobamide[periplasm] + ATP + H2O  <-->  a Coalpha-[alpha-(5,6-dimethylbenzimidazolyl)]-cobamide[cytosol] + ADP + phosphate + H+	1*RSP_4272-MONOMER,1*RSP_7397-MONOMER
+RSP_0129-MONOMER	ABC D-methionine uptake transporter, ATPase subunit	ATP + L-methionine[out] + H2O  <-->  ADP + L-methionine[in] + phosphate + H+	1*RSP_0129-MONOMER
+RSP_3174-MONOMER	Nucleoside transporter, NCS1 family	a nucleoside[periplasm]  <-->  a nucleoside[cytosol]	1*RSP_3174-MONOMER
+RSP_0677-MONOMER	Putative malonate transporter, mdcF, AEC family	malonate[periplasm]  <-->  malonate[cytosol]	1*RSP_0677-MONOMER
+CPLX1ZK9-68	predicted ABC transporter of a polyamine	a polyamine[periplasm] + ATP + H2O  <-->  a polyamine[cytosol] + ADP + phosphate + H+	1*RSP_3517-MONOMER,1*RSP_3515-MONOMER,1*RSP_3516-MONOMER,1*RSP_3518-MONOMER
+RSP_0888-MONOMER	ammonium transporter	ammonium[out]  <-->  ammonium[in]	1*RSP_0888-MONOMER
+CPLX1ZK9-30	Potassium-transporting P-type ATPase	ATP + K+[out] + H2O  <-->  ADP + K+[in] + phosphate + H+	1*RSP_1264-MONOMER,1*RSP_1265-MONOMER,1*RSP_1266-MONOMER,1*RSP_1267-MONOMER
+CPLX1ZK9-63	predicted ABC transporter of spermidine/putrescine	ATP + spermidine[periplasm] + H2O  <-->  ADP + spermidine[cytosol] + phosphate + H+	1*RSP_3338-MONOMER,1*RSP_3336-MONOMER,1*RSP_3337-MONOMER,1*RSP_3335-MONOMER
+RSP_2249-MONOMER	multidrug (Tetracycline) efflux pump, Major facilitator superfamily (MFS)	tetracycline[cytosol] + H+[cytosol]  <-->  tetracycline[periplasm] + H+[periplasm]	1*RSP_2249-MONOMER
+RSP_0099-MONOMER	TRAP-T family sorbitol/mannitol transporter, DctQ (4TMs) subunit	D-mannitol[periplasm]  <-->  D-mannitol[cytosol]	1*RSP_0099-MONOMER
+CPLX1ZK9-71	predicted ABC transporter of a dipeptide	ATP + a dipeptide[periplasm] + H2O  <-->  ADP + a dipeptide[cytosol] + phosphate + H+	1*RSP_0805-MONOMER,1*RSP_0806-MONOMER,1*RSP_0807-MONOMER
+RSP_4016-MONOMER	TRAP-T family transporter, DctP subunit	dCTP[periplasm]  <-->  dCTP[cytosol]	1*RSP_4016-MONOMER
+RSP_2720-MONOMER	Putative LysE/RhtB family amino acid efflux pump	an amino acid[cytosol]  <-->  an amino acid[periplasm]	1*RSP_2720-MONOMER
+CPLX1ZK9-48	predicted ABC transporter of L-proline betaine/glycine betaine	L-proline betaine[periplasm] + ATP + H2O  <-->  L-proline betaine[cytosol] + ADP + phosphate + H+	1*RSP_3059-MONOMER,1*RSP_3058-MONOMER
+RSP_1791-MONOMER	Heavy metal-(Cd/Co/Hg/Pb/Zn)-translocating P-type ATPase	Zn2+[in] + ATP + H2O  <-->  Zn2+[out] + ADP + phosphate + H+	1*RSP_1791-MONOMER
+RSP_4078-MONOMER	H+ transporting ATPase, proton pump	ATP + H+[periplasm] + H2O  <-->  ADP + phosphate + H+[cytosol] + H+[cytosol]	1*RSP_4078-MONOMER
+RSP_3080-MONOMER	Choline/carnitine/betaine transporter, BCCT family	L-carnitine[periplasm]  <-->  L-carnitine[cytosol]	1*RSP_3080-MONOMER
+RSP_3080-MONOMER	Choline/carnitine/betaine transporter, BCCT family	glycine betaine[periplasm]  <-->  glycine betaine[cytosol]	1*RSP_3080-MONOMER
+RSP_3222-MONOMER	ABC ferric siderophore transporter, ATPase subunit	ATP + iron(III)-enterobactin complex[out] + H2O  <-->  ADP + iron(III)-enterobactin complex[in] + phosphate + H+	1*RSP_3222-MONOMER
+CPLX1ZK9-54	predicted ABC transporter of Co2+	Co2+[periplasm] + ATP + H2O  <-->  Co2+[cytosol] + ADP + phosphate + H+	1*RSP_6168-MONOMER,1*RSP_3209-MONOMER,1*RSP_3211-MONOMER
+RSP_3080-MONOMER	Choline/carnitine/betaine transporter, BCCT family	choline[periplasm]  <-->  choline[cytosol]	1*RSP_3080-MONOMER
+CPLX1ZK9-58	predicted ABC transporter of sulfate/molybdate	ATP + molybdate[periplasm] + H2O  <-->  ADP + molybdate[cytosol] + phosphate + H+	1*RSP_3859-MONOMER,1*RSP_3861-MONOMER,1*RSP_3860-MONOMER
+		ATP + arsenite[in] + H2O  <-->  ADP + arsenite[out] + phosphate + H+	
+RSP_2896-MONOMER	Multiple antibiotic transporter	antibiotic[periplasm]  <-->  antibiotic[cytosol]	1*RSP_2896-MONOMER
+CPLX1ZK9-51	predicted ABC transporter of Mn2+/Fe2+	Fe2+[periplasm] + ATP + H2O  <-->  Fe2+[cytosol] + ADP + phosphate + H+	1*RSP_0904-MONOMER,1*RSP_0905-MONOMER,1*RSP_0906-MONOMER,1*RSP_0908-MONOMER
+RSP_3318-MONOMER	Cation/multidrug efflux pump, RND family	a metal cation[cytosol] + H+[cytosol]  <-->  a metal cation[periplasm] + H+[periplasm]	1*RSP_3318-MONOMER
+CPLX1ZK9-104	predicted ABC transporter of a carbohydrate	a carbohydrate[periplasm] + ATP + H2O  <-->  a carbohydrate[cytosol] + ADP + phosphate + H+	1*RSP_3288-MONOMER,1*RSP_3289-MONOMER,1*RSP_3290-MONOMER
+RSP_3557-MONOMER	nucleoside ABC transporter ATP-binding protein	alpha-D-galactofuranose[out] + ATP + H2O  <-->  alpha-D-galactofuranose[in] + ADP + phosphate + H+	1*RSP_3557-MONOMER
+RSP_2015-MONOMER	arginine/ornithine transport system ATPase	ornithine[periplasm] + ATP + H2O  <-->  ornithine[cytosol] + ADP + phosphate + H+	1*RSP_2015-MONOMER
+CPLX1ZK9-62	predicted ABC transporter of D-sorbitol	D-sorbitol[periplasm] + ATP + H2O  <-->  D-sorbitol[cytosol] + ADP + phosphate + H+	1*RSP_0092-MONOMER,1*RSP_0093-MONOMER
+RSP_1179-MONOMER	ABC sugar (xylose) transporter, inner membrane subunit	a sugar[periplasm] + ATP + H2O  <-->  a sugar[cytosol] + ADP + phosphate + H+	1*RSP_1179-MONOMER
+RSP_3090-MONOMER	Putative alkylphosphonate uptake protein, phnA	an alkylphosphonate[periplasm]  <-->  an alkylphosphonate[cytosol]	1*RSP_3090-MONOMER
+RSP_3287-MONOMER	carbohydrate ABC transporter ATP-binding protein, CUT1 family	ATP + an sn-glycerol 3-phosphate[out] + H2O  <-->  ADP + an sn-glycerol 3-phosphate[in] + phosphate + H+	1*RSP_3287-MONOMER
+CPLX1ZK9-94	predicted ABC transporter of a monosaccharide	a monosaccharide[periplasm] + ATP + H2O  <-->  a monosaccharide[cytosol] + ADP + phosphate + H+	1*RSP_2365-MONOMER,1*RSP_2368-MONOMER,1*RSP_2367-MONOMER
+RSP_3142-MONOMER	SSS sodium solute transporter	Na+[periplasm] + H+[periplasm]  <-->  Na+[cytosol] + H+[cytosol]	1*RSP_3142-MONOMER
+RSP_3458-MONOMER	amino acid ABC transporter ATP-binding protein, PAAT family	ATP + L-aspartate[out] + H2O  <-->  ADP + L-aspartate[in] + phosphate + H+	1*RSP_3458-MONOMER
+RSP_0129-MONOMER	ABC D-methionine uptake transporter, ATPase subunit	L-methionine-(R)-S-oxide[out] + ATP + H2O  <-->  L-methionine-(R)-S-oxide[in] + ADP + phosphate + H+	1*RSP_0129-MONOMER
+RSP_0129-MONOMER	ABC D-methionine uptake transporter, ATPase subunit	L-methionine S-oxide[out] + ATP + H2O  <-->  L-methionine S-oxide[in] + ADP + phosphate + H+	1*RSP_0129-MONOMER
+RSP_1897-MONOMER	Mg/Co/Ni transporter, MgtE	Ni2+[periplasm]  <-->  Ni2+[cytosol]	1*RSP_1897-MONOMER
+RSP_1897-MONOMER	Mg/Co/Ni transporter, MgtE	Co2+[periplasm]  <-->  Co2+[cytosol]	1*RSP_1897-MONOMER
+RSP_2015-MONOMER	arginine/ornithine transport system ATPase	ATP + L-arginine[periplasm] + H2O  <-->  ADP + L-arginine[cytosol] + phosphate + H+	1*RSP_2015-MONOMER
+RSP_1685-MONOMER	PTS system protein, IIA component	an [HPr protein]-Npi-phospho-L-histidine + 2-amino-2-deoxy-D-gluconate[out]  <-->  2-amino-2-deoxy-D-gluconate 6-phosphate[in] + an [HPr]-L-histidine	1*RSP_1685-MONOMER
+CPLX1ZK9-51	predicted ABC transporter of Mn2+/Fe2+	ATP + Mn2+[periplasm] + H2O  <-->  ADP + Mn2+[cytosol] + phosphate + H+	1*RSP_0904-MONOMER,1*RSP_0905-MONOMER,1*RSP_0906-MONOMER,1*RSP_0908-MONOMER
+CPLX1ZK9-93	predicted ABC transporter of sulfate/thiosulfate	ATP + thiosulfate[periplasm] + H2O  <-->  ADP + thiosulfate[cytosol] + phosphate + H+	1*RSP_3698-MONOMER,1*RSP_3699-MONOMER,1*RSP_3697-MONOMER
+RSP_3458-MONOMER	amino acid ABC transporter ATP-binding protein, PAAT family	a polar amino acid[out] + ATP + H2O  <-->  a polar amino acid[in] + ADP + phosphate	1*RSP_3458-MONOMER
+RSP_3917-MONOMER	ABC polysaccharide export transporter, inner membrane subunit	a polysaccharide[cytosol] + ATP + H2O  <-->  a polysaccharide[periplasm] + ADP + phosphate + H+	1*RSP_3917-MONOMER
+RSP_4000-MONOMER	ABC Glycine betaine/L-proline transporter, ATPase subunit	a quaternary ammonium compound[out] + ATP + H2O  <-->  a quaternary ammonium compound[in] + ADP + phosphate + H+	1*RSP_4000-MONOMER
+RSP_0094-MONOMER	mannitol ABC transporter ATP-binding protein;sorbitol ABC transporter ATP-binding protein	D-mannitol[periplasm] + ATP + H2O  <-->  D-mannitol[cytosol] + ADP + phosphate + H+	1*RSP_0094-MONOMER
+RSP_2890-MONOMER	Copper-translocating P-type ATPase	Cu2+[in] + ATP + H2O  <-->  Cu2+[out] + ADP + phosphate + H+	1*RSP_2890-MONOMER
+RSP_3330-MONOMER	Putative sodium/sulfate transporter, DASS family	sulfate[periplasm] + Na+[periplasm]  <-->  sulfate[cytosol] + Na+[cytosol]	1*RSP_3330-MONOMER
+RSP_3291-MONOMER	Putative Na+/phosphate symporter	Na+[periplasm] + phosphate[periplasm]  <-->  Na+[cytosol] + phosphate[cytosol]	1*RSP_3291-MONOMER
+RSP_0912-MONOMER	TRAP-T family C4-dicarboxylate transporter, DctM (12TMs) subunit	a C4-dicarboxylate[periplasm]  <-->  a C4-dicarboxylate[cytosol]	1*RSP_0912-MONOMER
+RSP_3222-MONOMER	ABC ferric siderophore transporter, ATPase subunit	ATP + ferric hydroxamate complex[out] + H2O  <-->  ADP + ferric hydroxamate complex[in] + phosphate	1*RSP_3222-MONOMER
+CPLX1ZK9-58	predicted ABC transporter of sulfate/molybdate	ATP + sulfate[periplasm] + H2O  <-->  ADP + sulfate[cytosol] + phosphate + H+	1*RSP_3859-MONOMER,1*RSP_3861-MONOMER,1*RSP_3860-MONOMER
+CPLX1ZK9-91	predicted ABC transporter of an oligopeptide	an oligopeptide[periplasm] + ATP + H2O  <-->  an oligopeptide[cytosol] + ADP + phosphate + H+	1*RSP_1478-MONOMER,1*RSP_1479-MONOMER,1*RSP_1480-MONOMER,1*RSP_1481-MONOMER
+CPLX1ZK9-61	predicted ABC transporter of D-methionine	ATP + D-methionine[periplasm] + H2O  <-->  ADP + D-methionine[cytosol] + phosphate + H+	1*RSP_0130-MONOMER,1*RSP_0132-MONOMER
+		n H+[in]  <-->  n H+[out]	
+RSP_1791-MONOMER	Heavy metal-(Cd/Co/Hg/Pb/Zn)-translocating P-type ATPase	Cd2+[in] + ATP + H2O  <-->  Cd2+[out] + ADP + phosphate + H+	1*RSP_1791-MONOMER
+RSP_0129-MONOMER	ABC D-methionine uptake transporter, ATPase subunit	L-methionine-(S)-S-oxide[out] + ATP + H2O  <-->  L-methionine-(S)-S-oxide[in] + ADP + phosphate + H+	1*RSP_0129-MONOMER
+RSP_3458-MONOMER	amino acid ABC transporter ATP-binding protein, PAAT family	ATP + L-glutamine[out] + H2O  <-->  ADP + L-glutamine[in] + phosphate + H+	1*RSP_3458-MONOMER
+RSP_1439-MONOMER	ABC Fe+3 hydroxamate (ferrichrome) transporter, periplasmic siderophore binding protein	a hydroxamate[periplasm] + ATP + H2O  <-->  a hydroxamate[cytosol] + ADP + phosphate + H+	1*RSP_1439-MONOMER
+		(S)-methylmalonyl-CoA + Na+[in] + H+[out]  <-->  CO2 + propanoyl-CoA[in] + Na+[out]	
+RSP_3557-MONOMER	nucleoside ABC transporter ATP-binding protein	D-galactofuranose[out] + ATP + H2O  <-->  D-galactofuranose[in] + ADP + phosphate + H+	1*RSP_3557-MONOMER
+RSP_0129-MONOMER	ABC D-methionine uptake transporter, ATPase subunit	D-selenomethionine[out] + ATP + H2O  <-->  D-selenomethionine[in] + ADP + phosphate + H+	1*RSP_0129-MONOMER
+RSP_3557-MONOMER	nucleoside ABC transporter ATP-binding protein	beta-D-galactofuranose[out] + ATP + H2O  <-->  beta-D-galactofuranose[in] + ADP + phosphate + H+	1*RSP_3557-MONOMER
+RSP_3287-MONOMER	carbohydrate ABC transporter ATP-binding protein, CUT1 family	ATP + sn-glycerol 3-phosphate[out] + H2O  <-->  ADP + sn-glycerol 3-phosphate[in] + phosphate + H+	1*RSP_3287-MONOMER
+RSP_3321-MONOMER	Cation/multidrug efflux pump, membrane-fusion protein	a metal cation[cytosol]  <-->  a metal cation[periplasm]	1*RSP_3321-MONOMER
+RSP_2091-MONOMER	Putative benzoate transporter, BenE	benzoate[periplasm]  <-->  benzoate[cytosol]	1*RSP_2091-MONOMER
+RSP_2851-MONOMER	multidrug (bicyclomycin) efflux pump, Major facilitator superfamily (MFS)	bicozamycin[cytosol] + H+[cytosol]  <-->  bicozamycin[periplasm] + H+[periplasm]	1*RSP_2851-MONOMER
+RSP_2601-MONOMER	phosphate ABC transporter ATP-binding protein, PhoT family	ATP + phosphate[out] + H2O  <-->  ADP + 2 phosphate[in] + H+	1*RSP_2601-MONOMER
+CPLX1ZK9-55	predicted ABC transporter of a nucleoside	a nucleoside[periplasm] + ATP + H2O  <-->  a nucleoside[cytosol] + ADP + phosphate + H+	1*RSP_2208-MONOMER,1*RSP_2209-MONOMER
+CPLX1ZK9-80	predicted ABC transporter of an amino acid	an amino acid[periplasm] + ATP + H2O  <-->  an amino acid[cytosol] + ADP + phosphate + H+	1*RSP_2275-MONOMER,1*RSP_2276-MONOMER,1*RSP_2277-MONOMER
+RSP_2638-MONOMER	putative sodium/calcium exchanger	Ca2+[periplasm] + Na+[cytosol]  <-->  Ca2+[cytosol] + Na+[periplasm]	1*RSP_2638-MONOMER
+RSP_3126-MONOMER	Arsenite efflux pump, ACR3 family	arsenite[periplasm]  <-->  arsenite[cytosol]	1*RSP_3126-MONOMER
+CPLX1ZK9-50	predicted ABC transporter of a peptide/Ni2+	Ni2+[periplasm] + ATP + H2O  <-->  Ni2+[cytosol] + ADP + phosphate + H+	1*RSP_1451-MONOMER,1*RSP_1452-MONOMER,1*RSP_1453-MONOMER,1*RSP_1454-MONOMER
+RSP_1268-MONOMER	Osmosensitive K+ channel histidine kinase	L-histidine[periplasm]  <-->  L-histidine[cytosol]	1*RSP_1268-MONOMER
+RSP_3458-MONOMER	amino acid ABC transporter ATP-binding protein, PAAT family	ATP + L-glutamate[out] + H2O  <-->  ADP + L-glutamate[in] + phosphate + H+	1*RSP_3458-MONOMER
+CPLX1ZK9-26	Pyridine nucleotide transhydrogenase	NADPH + NAD+ + H+[in]  <-->  NADP+ + NADH + H+[out]	1*RSP_0239-MONOMER,1*RSP_0240-MONOMER
+RSP_3458-MONOMER	amino acid ABC transporter ATP-binding protein, PAAT family	ATP + L-ornithine[out] + H2O  <-->  ADP + L-ornithine[in] + phosphate + H+	1*RSP_3458-MONOMER
+CPLX1ZK9-65	predicted ABC transporter of Fe3+/a siderophore	siderophore[periplasm] + ATP + H2O  <-->  siderophore[cytosol] + ADP + phosphate + H+	1*RSP_3416-MONOMER,1*RSP_3414-MONOMER,1*RSP_3415-MONOMER
+RSP_1439-MONOMER	ABC Fe+3 hydroxamate (ferrichrome) transporter, periplasmic siderophore binding protein	ferrichrome[periplasm] + ATP + H2O  <-->  ferrichrome[cytosol] + ADP + phosphate + H+	1*RSP_1439-MONOMER
+CPLX1ZK9-22	H+-transporting two-sector ATPase, alpha/beta	ATP + H2O + 3 H+[in]  <-->  ADP + phosphate + 4 H+[out]	1*RSP_3936-MONOMER,1*RSP_3935-MONOMER,1*RSP_7012-MONOMER,1*RSP_3933-MONOMER,1*RSP_3930-MONOMER,1*RSP_3929-MONOMER
+RSP_4086-MONOMER	sugar transporter	a sugar[periplasm]  <-->  a sugar[cytosol]	1*RSP_4086-MONOMER
+RSP_3222-MONOMER	ABC ferric siderophore transporter, ATPase subunit	ATP + iron(III) dicitrate[out] + H2O  <-->  ADP + iron(III) dicitrate[in] + phosphate + H+	1*RSP_3222-MONOMER
+CPLX1ZK9-103	predicted ABC efflux transporter of a carbohydrate	a carbohydrate[cytosol] + ATP + H2O  <-->  a carbohydrate[periplasm] + ADP + phosphate + H+	1*RSP_3274-MONOMER,1*RSP_3273-MONOMER
+RSP_0129-MONOMER	ABC D-methionine uptake transporter, ATPase subunit	N-acetyl-DL-methionine[out] + ATP + H2O  <-->  N-acetyl-DL-methionine[in] + ADP + phosphate + H+	1*RSP_0129-MONOMER
+RSP_2343-MONOMER	Putative threonine efflux protein, RhtB family	L-threonine[cytosol]  <-->  L-threonine[periplasm]	1*RSP_2343-MONOMER
+RSP_0099-MONOMER	TRAP-T family sorbitol/mannitol transporter, DctQ (4TMs) subunit	D-sorbitol[periplasm]  <-->  D-sorbitol[cytosol]	1*RSP_0099-MONOMER
+RSP_1801-MONOMER	ABC heme exporter, ATPase subunt CcmA	ATP + protoheme[in] + H2O  <-->  ADP + protoheme[out] + phosphate + H+	1*RSP_1801-MONOMER
+RSP_3858-MONOMER	sulfate/molybdate ABC transporter ATPase	selenite[out] + ATP + H2O  <-->  selenite[in] + ADP + phosphate + H+	1*RSP_3858-MONOMER
+RSP_3458-MONOMER	amino acid ABC transporter ATP-binding protein, PAAT family	ATP + L-lysine[out] + H2O  <-->  ADP + L-lysine[in] + phosphate + H+	1*RSP_3458-MONOMER
+RSP_3557-MONOMER	nucleoside ABC transporter ATP-binding protein	D-galactose[out] + ATP + H2O  <-->  D-galactose[in] + ADP + phosphate + H+	1*RSP_3557-MONOMER
+RSP_4255-MONOMER	mechanosensitive (MS) ion channel protein	L-methionine[periplasm]  <-->  L-methionine[cytosol]	1*RSP_4255-MONOMER
+RSP_3458-MONOMER	amino acid ABC transporter ATP-binding protein, PAAT family	ATP + L-histidine[out] + H2O  <-->  ADP + L-histidine[in] + phosphate + H+	1*RSP_3458-MONOMER
+		a chitodextrin[out]  <-->  a chitodextrin[in]	
+RSP_3557-MONOMER	nucleoside ABC transporter ATP-binding protein	D-ribose[out] + ATP + H2O  <-->  D-ribose[in] + ADP + phosphate + H+	1*RSP_3557-MONOMER
+CPLX1ZK9-50	predicted ABC transporter of a peptide/Ni2+	a peptide[periplasm] + ATP + H2O  <-->  a peptide[cytosol] + ADP + phosphate + H+	1*RSP_1451-MONOMER,1*RSP_1452-MONOMER,1*RSP_1453-MONOMER,1*RSP_1454-MONOMER
+RSP_1179-MONOMER	ABC sugar (xylose) transporter, inner membrane subunit	alpha-D-xylopyranose[periplasm] + ATP + H2O  <-->  alpha-D-xylopyranose[cytosol] + ADP + phosphate + H+	1*RSP_1179-MONOMER
+RSP_3557-MONOMER	nucleoside ABC transporter ATP-binding protein	ATP + D-xylose[out] + H2O  <-->  ADP + D-xylose[in] + phosphate + H+	1*RSP_3557-MONOMER
+RSP_2282-MONOMER	Chromate efflux pump, ChrA	chromate[cytosol]  <-->  chromate[periplasm]	1*RSP_2282-MONOMER
+CPLX1ZK9-65	predicted ABC transporter of Fe3+/a siderophore	Fe3+[periplasm] + ATP + H2O  <-->  Fe3+[cytosol] + ADP + phosphate + H+	1*RSP_3416-MONOMER,1*RSP_3414-MONOMER,1*RSP_3415-MONOMER
+RSP_2170-MONOMER	Phosphate transporter, Pit family	phosphate[cytosol]  <-->  phosphate[periplasm]	1*RSP_2170-MONOMER
+RSP_0739-MONOMER	Branched chain amino acid efflux pump, large (AzlC) subunit	a branched-chain amino acid[cytosol]  <-->  a branched-chain amino acid[periplasm]	1*RSP_0739-MONOMER
+RSP_3557-MONOMER	nucleoside ABC transporter ATP-binding protein	D-allose[out] + ATP + H2O  <-->  D-allose[in] + ADP + phosphate + H+	1*RSP_3557-MONOMER
+RSP_3557-MONOMER	nucleoside ABC transporter ATP-binding protein	ATP + L-arabinose[out] + H2O  <-->  ADP + L-arabinose[in] + phosphate + H+	1*RSP_3557-MONOMER
+RSP_6006-MONOMER	hemin uptake protein	hemin[periplasm]  <-->  hemin[cytosol]	1*RSP_6006-MONOMER
+RSP_4264-MONOMER	lysine exporter protein LysE/YggA	L-lysine[cytosol]  <-->  L-lysine[periplasm]	1*RSP_4264-MONOMER
+CPLX1ZK9-79	predicted ABC transporter of phosphate	ATP + phosphate[periplasm] + H2O  <-->  ADP + phosphate[cytosol] + phosphate[cytosol] + H+	1*RSP_2602-MONOMER,1*RSP_2603-MONOMER,1*RSP_2604-MONOMER
+CPLX1ZK9-59	predicted ABC transporter of nitrate/a sulfonate/hydrogencarbonate	nitrate[periplasm] + ATP + H2O  <-->  nitrate[cytosol] + ADP + phosphate + H+	1*RSP_3154-MONOMER,1*RSP_3152-MONOMER,1*RSP_3151-MONOMER,1*RSP_3153-MONOMER
+RSP_1801-MONOMER	ABC heme exporter, ATPase subunt CcmA	heme b[in] + ATP + H2O  <-->  heme b[out] + ADP + phosphate + H+	1*RSP_1801-MONOMER
+CPLX1ZK9-63	predicted ABC transporter of spermidine/putrescine	ATP + putrescine[periplasm] + H2O  <-->  ADP + putrescine[cytosol] + phosphate + H+	1*RSP_3338-MONOMER,1*RSP_3336-MONOMER,1*RSP_3337-MONOMER,1*RSP_3335-MONOMER
+CPLX1ZK9-59	predicted ABC transporter of nitrate/a sulfonate/hydrogencarbonate	hydrogencarbonate[periplasm] + ATP + H2O  <-->  hydrogencarbonate[cytosol] + ADP + phosphate + H+	1*RSP_3154-MONOMER,1*RSP_3152-MONOMER,1*RSP_3151-MONOMER,1*RSP_3153-MONOMER
+RSP_3325-MONOMER	Polysaccharide export transporter, PST Family	a polysaccharide[cytosol]  <-->  a polysaccharide[periplasm]	1*RSP_3325-MONOMER
+RSP_1582-MONOMER	Putative sulfate transporter/antisigma-factor antagonist	sulfate[periplasm]  <-->  sulfate[cytosol]	1*RSP_1582-MONOMER
+RSP_0910-MONOMER	TRAP-T family transporter, C4-dicarboxylate-binding protein DctP	a dicarboxylate[periplasm]  <-->  a dicarboxylate[cytosol]	1*RSP_0910-MONOMER
+RSP_0910-MONOMER	TRAP-T family transporter, C4-dicarboxylate-binding protein DctP	undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-L-lysyl- D-alanyl-D-alanine[periplasm]  <-->  undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-L-lysyl- D-alanyl-D-alanine[cytosol]	1*RSP_0910-MONOMER
+CPLX1ZK9-47	predicted ABC transporter of Zn2+	Zn2+[periplasm] + ATP + H2O  <-->  Zn2+[cytosol] + ADP + phosphate + H+	1*RSP_3567-MONOMER,1*RSP_3571-MONOMER

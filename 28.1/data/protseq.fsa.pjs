@@ -1,0 +1,21 @@
+{
+  "version": "1.2",
+  "dbname": "protseq.fsa",
+  "dbtype": "Protein",
+  "db-version": 4,
+  "description": "gcf_000012905.fsa",
+  "number-of-letters": 1331648,
+  "number-of-sequences": 4280,
+  "last-updated": "2023-03-24T00:11:00",
+  "number-of-volumes": 1,
+  "bytes-total": 2539812,
+  "bytes-to-cache": 1370249,
+  "files": [
+    "protseq.fsa.phr",
+    "protseq.fsa.pin",
+    "protseq.fsa.pog",
+    "protseq.fsa.psd",
+    "protseq.fsa.psi",
+    "protseq.fsa.psq"
+  ]
+}
